@@ -1,0 +1,14 @@
+{
+    "name": "nos.sys.ai.models.depth_anything",
+    "releases": [
+        {
+            "version": "1.0.0.b89",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.models.depth_anything-1.0.0.b89/nos.sys.ai.models.depth_anything-1.0.0.b89.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        }
+    ]
+}

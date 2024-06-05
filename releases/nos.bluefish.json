@@ -1,0 +1,23 @@
+{
+    "name": "nos.bluefish",
+    "releases": [
+        {
+            "version": "1.0.0.b11",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.bluefish-1.0.0.b11/nos.bluefish-1.0.0.b11.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b8",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.bluefish-1.0.0.b8/nos.bluefish-1.0.0.b8.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        }
+    ]
+}

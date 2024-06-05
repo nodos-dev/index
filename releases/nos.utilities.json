@@ -1,0 +1,851 @@
+{
+    "name": "nos.utilities",
+    "releases": [
+        {
+            "version": "2.0.0.b403",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-2.0.0.b403/nos.utilities-2.0.0.b403.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 5,
+                "patch": 0
+            }
+        },
+        {
+            "version": "2.0.0.b366",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-2.0.0.b366/nos.utilities-2.0.0.b366.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 4,
+                "patch": 0
+            }
+        },
+        {
+            "version": "2.0.0.b354",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-2.0.0.b354/nos.utilities-2.0.0.b354.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 4,
+                "patch": 0
+            }
+        },
+        {
+            "version": "2.0.0.b339",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-2.0.0.b339/nos.utilities-2.0.0.b339.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 3,
+                "patch": 0
+            }
+        },
+        {
+            "version": "2.0.0.b336",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-2.0.0.b336/nos.utilities-2.0.0.b336.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 3,
+                "patch": 0
+            }
+        },
+        {
+            "version": "2.0.0.b332",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-2.0.0.b332/nos.utilities-2.0.0.b332.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "2.0.0.b330",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-2.0.0.b330/nos.utilities-2.0.0.b330.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "2.0.0.b327",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-2.0.0.b327/nos.utilities-2.0.0.b327.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "2.0.0.b325",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-2.0.0.b325/nos.utilities-2.0.0.b325.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "2.0.0.b324",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-2.0.0.b324/nos.utilities-2.0.0.b324.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "2.0.0.b321",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-2.0.0.b321/nos.utilities-2.0.0.b321.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b313",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.1.0.b313/nos.utilities-1.1.0.b313.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b312",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.1.0.b312/nos.utilities-1.1.0.b312.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b306",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.1.0.b306/nos.utilities-1.1.0.b306.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b302",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.1.0.b302/nos.utilities-1.1.0.b302.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b299",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.1.0.b299/nos.utilities-1.1.0.b299.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b297",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.1.0.b297/nos.utilities-1.1.0.b297.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b295",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.1.0.b295/nos.utilities-1.1.0.b295.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b294",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.1.0.b294/nos.utilities-1.1.0.b294.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b290",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.1.0.b290/nos.utilities-1.1.0.b290.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b289",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b289/nos.utilities-1.0.0.b289.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b286",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b286/nos.utilities-1.0.0.b286.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b285",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b285/nos.utilities-1.0.0.b285.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b275",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b275/nos.utilities-1.0.0.b275.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b270",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b270/nos.utilities-1.0.0.b270.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b269",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b269/nos.utilities-1.0.0.b269.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b265",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b265/nos.utilities-1.0.0.b265.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b264",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b264/nos.utilities-1.0.0.b264.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b262",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b262/nos.utilities-1.0.0.b262.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b261",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b261/nos.utilities-1.0.0.b261.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b260",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b260/nos.utilities-1.0.0.b260.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b257",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b257/nos.utilities-1.0.0.b257.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b255",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b255/nos.utilities-1.0.0.b255.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b253",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b253/nos.utilities-1.0.0.b253.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b251",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b251/nos.utilities-1.0.0.b251.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b249",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b249/nos.utilities-1.0.0.b249.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b248",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b248/nos.utilities-1.0.0.b248.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b247",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b247/nos.utilities-1.0.0.b247.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b243",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b243/nos.utilities-1.0.0.b243.zip",
+            "plugin_api_version": {
+                "major": 34,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b241",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b241/nos.utilities-1.0.0.b241.zip",
+            "plugin_api_version": {
+                "major": 34,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b239",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b239/nos.utilities-1.0.0.b239.zip",
+            "plugin_api_version": {
+                "major": 34,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b237",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b237/nos.utilities-1.0.0.b237.zip",
+            "plugin_api_version": {
+                "major": 34,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b236",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b236/nos.utilities-1.0.0.b236.zip",
+            "plugin_api_version": {
+                "major": 34,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b235",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b235/nos.utilities-1.0.0.b235.zip",
+            "plugin_api_version": {
+                "major": 34,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b226",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b226/nos.utilities-1.0.0.b226.zip",
+            "plugin_api_version": {
+                "major": 34,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b216",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b216/nos.utilities-1.0.0.b216.zip",
+            "plugin_api_version": {
+                "major": 33,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b215",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b215/nos.utilities-1.0.0.b215.zip",
+            "plugin_api_version": {
+                "major": 33,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b212",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b212/nos.utilities-1.0.0.b212.zip",
+            "plugin_api_version": {
+                "major": 33,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b201",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b201/nos.utilities-1.0.0.b201.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b196",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b196/nos.utilities-1.0.0.b196.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b195",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b195/nos.utilities-1.0.0.b195.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b192",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b192/nos.utilities-1.0.0.b192.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b182",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b182/nos.utilities-1.0.0.b182.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b155",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b155/nos.utilities-1.0.0.b155.zip",
+            "plugin_api_version": {
+                "major": 31,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b148",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b148/nos.utilities-1.0.0.b148.zip",
+            "plugin_api_version": {
+                "major": 31,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b142",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b142/nos.utilities-1.0.0.b142.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b138",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b138/nos.utilities-1.0.0.b138.zip",
+            "plugin_api_version": {
+                "major": 31,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b135",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b135/nos.utilities-1.0.0.b135.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b133",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b133/nos.utilities-1.0.0.b133.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b127",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b127/nos.utilities-1.0.0.b127.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b123",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b123/nos.utilities-1.0.0.b123.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b118",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b118/nos.utilities-1.0.0.b118.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b115",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b115/nos.utilities-1.0.0.b115.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b112",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b112/nos.utilities-1.0.0.b112.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b111",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b111/nos.utilities-1.0.0.b111.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b102",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b102/nos.utilities-1.0.0.b102.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b101",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b101/nos.utilities-1.0.0.b101.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b98",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b98/nos.utilities-1.0.0.b98.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b96",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b96/nos.utilities-1.0.0.b96.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b95",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b95/nos.utilities-1.0.0.b95.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b91",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b91/nos.utilities-1.0.0.b91.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b89",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b89/nos.utilities-1.0.0.b89.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b88",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b88/nos.utilities-1.0.0.b88.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b87",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b87/nos.utilities-1.0.0.b87.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b85",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b85/nos.utilities-1.0.0.b85.zip",
+            "plugin_api_version": {
+                "major": 28,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b84",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b84/nos.utilities-1.0.0.b84.zip",
+            "plugin_api_version": {
+                "major": 28,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b83",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b83/nos.utilities-1.0.0.b83.zip",
+            "plugin_api_version": {
+                "major": 28,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b76",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b76/nos.utilities-1.0.0.b76.zip",
+            "plugin_api_version": {
+                "major": 27,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b70",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b70/nos.utilities-1.0.0.b70.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b67",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b67/nos.utilities-1.0.0.b67.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b66",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b66/nos.utilities-1.0.0.b66.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b60",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b60/nos.utilities-1.0.0.b60.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b57",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b57/nos.utilities-1.0.0.b57.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b52",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b52/nos.utilities-1.0.0.b52.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b50",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b50/nos.utilities-1.0.0.b50.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b48",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b48/nos.utilities-1.0.0.b48.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b46",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b46/nos.utilities-1.0.0.b46.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b44",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b44/nos.utilities-1.0.0.b44.zip",
+            "plugin_api_version": {
+                "major": 24,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b35",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b35/nos.utilities-1.0.0.b35.zip",
+            "plugin_api_version": {
+                "major": 24,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b33",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b33/nos.utilities-1.0.0.b33.zip",
+            "plugin_api_version": {
+                "major": 24,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b31",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b31/nos.utilities-1.0.0.b31.zip",
+            "plugin_api_version": {
+                "major": 24,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b16",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b16/nos.utilities-1.0.0.b16.zip",
+            "plugin_api_version": {
+                "major": 24,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b8",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b8/nos.utilities-1.0.0.b8.zip",
+            "plugin_api_version": {
+                "major": 22,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b6",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.utilities-1.0.0.b6/nos.utilities-1.0.0.b6.zip",
+            "plugin_api_version": {
+                "major": 22,
+                "minor": 0,
+                "patch": 0
+            }
+        }
+    ]
+}

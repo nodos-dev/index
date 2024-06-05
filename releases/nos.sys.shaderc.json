@@ -1,0 +1,264 @@
+{
+    "name": "nos.sys.shaderc",
+    "releases": [
+        {
+            "version": "1.0.0.b265",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b265/nos.sys.shaderc-1.0.0.b265.zip"
+        },
+        {
+            "version": "1.0.0.b257",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b257/nos.sys.shaderc-1.0.0.b257.zip"
+        },
+        {
+            "version": "1.0.0.b251",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b251/nos.sys.shaderc-1.0.0.b251.zip"
+        },
+        {
+            "version": "1.0.0.b248",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b248/nos.sys.shaderc-1.0.0.b248.zip"
+        },
+        {
+            "version": "1.0.0.b247",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b247/nos.sys.shaderc-1.0.0.b247.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b239",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b239/nos.sys.shaderc-1.0.0.b239.zip",
+            "subsystem_api_version": {
+                "major": 7,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b235",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b235/nos.sys.shaderc-1.0.0.b235.zip",
+            "subsystem_api_version": {
+                "major": 6,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b226",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b226/nos.sys.shaderc-1.0.0.b226.zip",
+            "subsystem_api_version": {
+                "major": 6,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b215",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b215/nos.sys.shaderc-1.0.0.b215.zip",
+            "subsystem_api_version": {
+                "major": 6,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b201",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b201/nos.sys.shaderc-1.0.0.b201.zip",
+            "subsystem_api_version": {
+                "major": 5,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b200",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b200/nos.sys.shaderc-1.0.0.b200.zip",
+            "subsystem_api_version": {
+                "major": 5,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b142",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b142/nos.sys.shaderc-1.0.0.b142.zip",
+            "subsystem_api_version": {
+                "major": 5,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b135",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b135/nos.sys.shaderc-1.0.0.b135.zip",
+            "subsystem_api_version": {
+                "major": 5,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b127",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b127/nos.sys.shaderc-1.0.0.b127.zip",
+            "subsystem_api_version": {
+                "major": 5,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b126",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b126/nos.sys.shaderc-1.0.0.b126.zip",
+            "subsystem_api_version": {
+                "major": 5,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b118",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b118/nos.sys.shaderc-1.0.0.b118.zip",
+            "subsystem_api_version": {
+                "major": 5,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b115",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b115/nos.sys.shaderc-1.0.0.b115.zip",
+            "subsystem_api_version": {
+                "major": 5,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b112",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b112/nos.sys.shaderc-1.0.0.b112.zip",
+            "subsystem_api_version": {
+                "major": 5,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b111",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b111/nos.sys.shaderc-1.0.0.b111.zip",
+            "subsystem_api_version": {
+                "major": 5,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b106",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b106/nos.sys.shaderc-1.0.0.b106.zip",
+            "subsystem_api_version": {
+                "major": 5,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b101",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b101/nos.sys.shaderc-1.0.0.b101.zip",
+            "subsystem_api_version": {
+                "major": 5,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b89",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b89/nos.sys.shaderc-1.0.0.b89.zip",
+            "subsystem_api_version": {
+                "major": 5,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b88",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b88/nos.sys.shaderc-1.0.0.b88.zip",
+            "subsystem_api_version": {
+                "major": 5,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b87",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b87/nos.sys.shaderc-1.0.0.b87.zip",
+            "subsystem_api_version": {
+                "major": 5,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b85",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b85/nos.sys.shaderc-1.0.0.b85.zip",
+            "subsystem_api_version": {
+                "major": 4,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b84",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b84/nos.sys.shaderc-1.0.0.b84.zip",
+            "subsystem_api_version": {
+                "major": 4,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b83",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b83/nos.sys.shaderc-1.0.0.b83.zip",
+            "subsystem_api_version": {
+                "major": 4,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b70",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b70/nos.sys.shaderc-1.0.0.b70.zip",
+            "subsystem_api_version": {
+                "major": 4,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b69",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b69/nos.sys.shaderc-1.0.0.b69.zip",
+            "subsystem_api_version": {
+                "major": 4,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b67",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b67/nos.sys.shaderc-1.0.0.b67.zip",
+            "subsystem_api_version": {
+                "major": 4,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b66",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b66/nos.sys.shaderc-1.0.0.b66.zip",
+            "subsystem_api_version": {
+                "major": 4,
+                "minor": 1,
+                "patch": 0
+            }
+        }
+    ]
+}

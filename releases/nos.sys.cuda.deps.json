@@ -1,0 +1,34 @@
+{
+    "name": "nos.sys.cuda.deps",
+    "releases": [
+        {
+            "version": "2.0.0.b103",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.cuda.deps-2.0.0.b103/nos.sys.cuda.deps-2.0.0.b103.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b64",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.cuda.deps-1.0.0.b64/nos.sys.cuda.deps-1.0.0.b64.zip"
+        },
+        {
+            "version": "1.0.0.b63",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.cuda.deps-1.0.0.b63/nos.sys.cuda.deps-1.0.0.b63.zip"
+        },
+        {
+            "version": "1.0.0.b60",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.cuda.deps-1.0.0.b60/nos.sys.cuda.deps-1.0.0.b60.zip"
+        },
+        {
+            "version": "1.0.0.b57",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.cuda.deps-1.0.0.b57/nos.sys.cuda.deps-1.0.0.b57.zip"
+        },
+        {
+            "version": "1.0.0.b56",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.cuda.deps-1.0.0.b56/nos.sys.cuda.deps-1.0.0.b56.zip"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+[
+    {
+        "name": "nos.sys.vulkan",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.vulkan/index.json",
+        "vendor": "Nodos",
+        "type": "SUBSYSTEM"
+    },
+    {
+        "name": "nos.sys.shaderc",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.shaderc/index.json",
+        "vendor": "Nodos",
+        "type": "SUBSYSTEM"
+    },
+    {
+        "name": "nos.filters",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.filters/index.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "nos.math",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.math/index.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "nos.utilities",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.utilities/index.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "nos.MediaIO",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.MediaIO/index.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "nos.aja",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.aja/index.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "nos.WebRTC",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.WebRTC/index.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "nos.bluefish",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.bluefish/index.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    }
+]

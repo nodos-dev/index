@@ -1,0 +1,1184 @@
+{
+    "name": "nos.aja",
+    "releases": [
+        {
+            "version": "1.2.0.b403",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b403/nos.aja-1.2.0.b403.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 5,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b389",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b389/nos.aja-1.2.0.b389.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 5,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b379",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b379/nos.aja-1.2.0.b379.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 5,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b373",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b373/nos.aja-1.2.0.b373.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 5,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b372",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b372/nos.aja-1.2.0.b372.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 4,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b366",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b366/nos.aja-1.2.0.b366.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 4,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b354",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b354/nos.aja-1.2.0.b354.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 4,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b342",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b342/nos.aja-1.2.0.b342.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 3,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b339",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b339/nos.aja-1.2.0.b339.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 3,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b338",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b338/nos.aja-1.2.0.b338.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 3,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b336",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b336/nos.aja-1.2.0.b336.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 3,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b333",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b333/nos.aja-1.2.0.b333.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 3,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b331",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b331/nos.aja-1.2.0.b331.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b329",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b329/nos.aja-1.2.0.b329.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b328",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b328/nos.aja-1.2.0.b328.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b327",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b327/nos.aja-1.2.0.b327.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b326",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b326/nos.aja-1.2.0.b326.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b325",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b325/nos.aja-1.2.0.b325.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.2.0.b324",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.2.0.b324/nos.aja-1.2.0.b324.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b323",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b323/nos.aja-1.1.0.b323.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b322",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b322/nos.aja-1.1.0.b322.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b319",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b319/nos.aja-1.1.0.b319.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b314",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b314/nos.aja-1.1.0.b314.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b313",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b313/nos.aja-1.1.0.b313.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b311",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b311/nos.aja-1.1.0.b311.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b308",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b308/nos.aja-1.1.0.b308.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b307",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b307/nos.aja-1.1.0.b307.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b306",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b306/nos.aja-1.1.0.b306.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b302",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b302/nos.aja-1.1.0.b302.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b301",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b301/nos.aja-1.1.0.b301.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b300",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b300/nos.aja-1.1.0.b300.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b299",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b299/nos.aja-1.1.0.b299.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b296",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b296/nos.aja-1.1.0.b296.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b295",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b295/nos.aja-1.1.0.b295.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b294",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b294/nos.aja-1.1.0.b294.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b293",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b293/nos.aja-1.1.0.b293.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b290",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b290/nos.aja-1.1.0.b290.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b285",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b285/nos.aja-1.1.0.b285.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b277",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b277/nos.aja-1.1.0.b277.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b276",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b276/nos.aja-1.1.0.b276.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b274",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b274/nos.aja-1.1.0.b274.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b273",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b273/nos.aja-1.1.0.b273.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b272",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b272/nos.aja-1.1.0.b272.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b271",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b271/nos.aja-1.1.0.b271.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b270",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b270/nos.aja-1.1.0.b270.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b265",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b265/nos.aja-1.1.0.b265.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b264",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b264/nos.aja-1.1.0.b264.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b260",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b260/nos.aja-1.1.0.b260.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b259",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b259/nos.aja-1.1.0.b259.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b258",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b258/nos.aja-1.1.0.b258.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b257",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b257/nos.aja-1.1.0.b257.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b254",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b254/nos.aja-1.1.0.b254.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b253",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b253/nos.aja-1.1.0.b253.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b252",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b252/nos.aja-1.1.0.b252.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b251",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b251/nos.aja-1.1.0.b251.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b249",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b249/nos.aja-1.1.0.b249.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b248",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b248/nos.aja-1.1.0.b248.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b247",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b247/nos.aja-1.1.0.b247.zip",
+            "plugin_api_version": {
+                "major": 35,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b245",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b245/nos.aja-1.1.0.b245.zip",
+            "plugin_api_version": {
+                "major": 34,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b244",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b244/nos.aja-1.1.0.b244.zip",
+            "plugin_api_version": {
+                "major": 34,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b242",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b242/nos.aja-1.1.0.b242.zip",
+            "plugin_api_version": {
+                "major": 34,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b241",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b241/nos.aja-1.1.0.b241.zip",
+            "plugin_api_version": {
+                "major": 34,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b240",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b240/nos.aja-1.1.0.b240.zip",
+            "plugin_api_version": {
+                "major": 34,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b239",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b239/nos.aja-1.1.0.b239.zip",
+            "plugin_api_version": {
+                "major": 34,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b237",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b237/nos.aja-1.1.0.b237.zip",
+            "plugin_api_version": {
+                "major": 34,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b235",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b235/nos.aja-1.1.0.b235.zip",
+            "plugin_api_version": {
+                "major": 34,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b226",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b226/nos.aja-1.1.0.b226.zip",
+            "plugin_api_version": {
+                "major": 34,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b216",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b216/nos.aja-1.1.0.b216.zip",
+            "plugin_api_version": {
+                "major": 33,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b215",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b215/nos.aja-1.1.0.b215.zip",
+            "plugin_api_version": {
+                "major": 33,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.1.0.b212",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.1.0.b212/nos.aja-1.1.0.b212.zip",
+            "plugin_api_version": {
+                "major": 33,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.1.b204",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.1.b204/nos.aja-1.0.1.b204.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.1.b201",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.1.b201/nos.aja-1.0.1.b201.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.1.b200",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.1.b200/nos.aja-1.0.1.b200.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.1.b195",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.1.b195/nos.aja-1.0.1.b195.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.1.b192",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.1.b192/nos.aja-1.0.1.b192.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.1.b182",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.1.b182/nos.aja-1.0.1.b182.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.1.b155",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.1.b155/nos.aja-1.0.1.b155.zip",
+            "plugin_api_version": {
+                "major": 31,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.1.b154",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.1.b154/nos.aja-1.0.1.b154.zip",
+            "plugin_api_version": {
+                "major": 31,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.1.b153",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.1.b153/nos.aja-1.0.1.b153.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.1.b148",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.1.b148/nos.aja-1.0.1.b148.zip",
+            "plugin_api_version": {
+                "major": 31,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.1.b142",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.1.b142/nos.aja-1.0.1.b142.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.1.b140",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.1.b140/nos.aja-1.0.1.b140.zip",
+            "plugin_api_version": {
+                "major": 31,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.1.b139",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.1.b139/nos.aja-1.0.1.b139.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b138",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b138/nos.aja-1.0.0.b138.zip",
+            "plugin_api_version": {
+                "major": 31,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.1.b137",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.1.b137/nos.aja-1.0.1.b137.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b135",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b135/nos.aja-1.0.0.b135.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b134",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b134/nos.aja-1.0.0.b134.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b133",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b133/nos.aja-1.0.0.b133.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b127",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b127/nos.aja-1.0.0.b127.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b126",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b126/nos.aja-1.0.0.b126.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b118",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b118/nos.aja-1.0.0.b118.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b115",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b115/nos.aja-1.0.0.b115.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b112",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b112/nos.aja-1.0.0.b112.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b111",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b111/nos.aja-1.0.0.b111.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b107",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b107/nos.aja-1.0.0.b107.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b102",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b102/nos.aja-1.0.0.b102.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b101",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b101/nos.aja-1.0.0.b101.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b98",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b98/nos.aja-1.0.0.b98.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b95",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b95/nos.aja-1.0.0.b95.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b91",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b91/nos.aja-1.0.0.b91.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b89",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b89/nos.aja-1.0.0.b89.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b88",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b88/nos.aja-1.0.0.b88.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b87",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b87/nos.aja-1.0.0.b87.zip",
+            "plugin_api_version": {
+                "major": 30,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b85",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b85/nos.aja-1.0.0.b85.zip",
+            "plugin_api_version": {
+                "major": 28,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b84",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b84/nos.aja-1.0.0.b84.zip",
+            "plugin_api_version": {
+                "major": 28,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b83",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b83/nos.aja-1.0.0.b83.zip",
+            "plugin_api_version": {
+                "major": 28,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b79",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b79/nos.aja-1.0.0.b79.zip",
+            "plugin_api_version": {
+                "major": 28,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b78",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b78/nos.aja-1.0.0.b78.zip",
+            "plugin_api_version": {
+                "major": 27,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b77",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b77/nos.aja-1.0.0.b77.zip",
+            "plugin_api_version": {
+                "major": 27,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b76",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b76/nos.aja-1.0.0.b76.zip",
+            "plugin_api_version": {
+                "major": 27,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b74",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b74/nos.aja-1.0.0.b74.zip",
+            "plugin_api_version": {
+                "major": 26,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b70",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b70/nos.aja-1.0.0.b70.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b67",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b67/nos.aja-1.0.0.b67.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b66",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b66/nos.aja-1.0.0.b66.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 1,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b53",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b53/nos.aja-1.0.0.b53.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b52",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b52/nos.aja-1.0.0.b52.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b50",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b50/nos.aja-1.0.0.b50.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b48",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b48/nos.aja-1.0.0.b48.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b47",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b47/nos.aja-1.0.0.b47.zip",
+            "plugin_api_version": {
+                "major": 25,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b43",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b43/nos.aja-1.0.0.b43.zip",
+            "plugin_api_version": {
+                "major": 24,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b41",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b41/nos.aja-1.0.0.b41.zip",
+            "plugin_api_version": {
+                "major": 24,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b39",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b39/nos.aja-1.0.0.b39.zip",
+            "plugin_api_version": {
+                "major": 24,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b38",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b38/nos.aja-1.0.0.b38.zip",
+            "plugin_api_version": {
+                "major": 24,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b36",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b36/nos.aja-1.0.0.b36.zip",
+            "plugin_api_version": {
+                "major": 24,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b35",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b35/nos.aja-1.0.0.b35.zip",
+            "plugin_api_version": {
+                "major": 24,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b33",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b33/nos.aja-1.0.0.b33.zip",
+            "plugin_api_version": {
+                "major": 24,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b22",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b22/nos.aja-1.0.0.b22.zip",
+            "plugin_api_version": {
+                "major": 24,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b18",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b18/nos.aja-1.0.0.b18.zip",
+            "plugin_api_version": {
+                "major": 24,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b16",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b16/nos.aja-1.0.0.b16.zip",
+            "plugin_api_version": {
+                "major": 24,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b8",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b8/nos.aja-1.0.0.b8.zip",
+            "plugin_api_version": {
+                "major": 22,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b6",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.aja-1.0.0.b6/nos.aja-1.0.0.b6.zip",
+            "plugin_api_version": {
+                "major": 22,
+                "minor": 0,
+                "patch": 0
+            }
+        }
+    ]
+}

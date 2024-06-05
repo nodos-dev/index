@@ -1,0 +1,239 @@
+{
+    "name": "nos.sys.ai",
+    "releases": [
+        {
+            "version": "3.0.0.b165",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-3.0.0.b165/nos.sys.ai-3.0.0.b165.zip",
+            "subsystem_api_version": {
+                "major": 9,
+                "minor": 4,
+                "patch": 0
+            }
+        },
+        {
+            "version": "3.0.0.b163",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-3.0.0.b163/nos.sys.ai-3.0.0.b163.zip",
+            "subsystem_api_version": {
+                "major": 9,
+                "minor": 4,
+                "patch": 0
+            }
+        },
+        {
+            "version": "3.0.0.b143",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-3.0.0.b143/nos.sys.ai-3.0.0.b143.zip",
+            "subsystem_api_version": {
+                "major": 9,
+                "minor": 3,
+                "patch": 0
+            }
+        },
+        {
+            "version": "3.0.0.b130",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-3.0.0.b130/nos.sys.ai-3.0.0.b130.zip",
+            "subsystem_api_version": {
+                "major": 9,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "2.0.0.b107",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-2.0.0.b107/nos.sys.ai-2.0.0.b107.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "2.0.0.b105",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-2.0.0.b105/nos.sys.ai-2.0.0.b105.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "2.0.0.b103",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-2.0.0.b103/nos.sys.ai-2.0.0.b103.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b96",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b96/nos.sys.ai-1.0.0.b96.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b94",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b94/nos.sys.ai-1.0.0.b94.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b93",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b93/nos.sys.ai-1.0.0.b93.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b81",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b81/nos.sys.ai-1.0.0.b81.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b79",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b79/nos.sys.ai-1.0.0.b79.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b77",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b77/nos.sys.ai-1.0.0.b77.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b76",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b76/nos.sys.ai-1.0.0.b76.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b69",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b69/nos.sys.ai-1.0.0.b69.zip",
+            "subsystem_api_version": {
+                "major": 7,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b64",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b64/nos.sys.ai-1.0.0.b64.zip",
+            "subsystem_api_version": {
+                "major": 7,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b63",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b63/nos.sys.ai-1.0.0.b63.zip",
+            "subsystem_api_version": {
+                "major": 7,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b60",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b60/nos.sys.ai-1.0.0.b60.zip",
+            "subsystem_api_version": {
+                "major": 6,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b58",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b58/nos.sys.ai-1.0.0.b58.zip",
+            "subsystem_api_version": {
+                "major": 6,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b57",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b57/nos.sys.ai-1.0.0.b57.zip",
+            "subsystem_api_version": {
+                "major": 6,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b56",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b56/nos.sys.ai-1.0.0.b56.zip",
+            "subsystem_api_version": {
+                "major": 6,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b53",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b53/nos.sys.ai-1.0.0.b53.zip",
+            "subsystem_api_version": {
+                "major": 6,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b50",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b50/nos.sys.ai-1.0.0.b50.zip",
+            "subsystem_api_version": {
+                "major": 6,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b43",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b43/nos.sys.ai-1.0.0.b43.zip",
+            "subsystem_api_version": {
+                "major": 6,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b40",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b40/nos.sys.ai-1.0.0.b40.zip",
+            "subsystem_api_version": {
+                "major": 6,
+                "minor": 2,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b39",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai-1.0.0.b39/nos.sys.ai-1.0.0.b39.zip",
+            "subsystem_api_version": {
+                "major": 6,
+                "minor": 1,
+                "patch": 0
+            }
+        }
+    ]
+}

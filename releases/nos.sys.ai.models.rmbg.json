@@ -1,0 +1,23 @@
+{
+    "name": "nos.sys.ai.models.rmbg",
+    "releases": [
+        {
+            "version": "1.0.0.b83",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.models.rmbg-1.0.0.b83/nos.sys.ai.models.rmbg-1.0.0.b83.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        },
+        {
+            "version": "1.0.0.b81",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.models.rmbg-1.0.0.b81/nos.sys.ai.models.rmbg-1.0.0.b81.zip",
+            "subsystem_api_version": {
+                "major": 8,
+                "minor": 0,
+                "patch": 0
+            }
+        }
+    ]
+}

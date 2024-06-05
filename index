@@ -1,0 +1,152 @@
+[
+    {
+        "name": "nodos",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nodos.json",
+        "vendor": "Nodos",
+        "type": "NODOS"
+    },
+    {
+        "name": "nodos.engine",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nodos.engine.json",
+        "vendor": "Nodos",
+        "type": "ENGINE"
+    },
+    {
+        "name": "nos.sys.vulkan",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.vulkan.json",
+        "vendor": "Nodos",
+        "type": "SUBSYSTEM"
+    },
+    {
+        "name": "nos.sys.shaderc",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.shaderc.json",
+        "vendor": "Nodos",
+        "type": "SUBSYSTEM"
+    },
+    {
+        "name": "nos.filters",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.filters.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "nos.math",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.math.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "nos.utilities",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.utilities.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "nos.MediaIO",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/main/nos.MediaIO.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "nos.aja",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.aja.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "nos.WebRTC",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.WebRTC.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "nos.Interop",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.Interop.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "nos.ML.ONNX",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.ML.ONNX.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "nos.ML.Tensors",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.ML.Tensors.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "nos.AI.ModelNodes",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.AI.ModelNodes.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "nos.sys.cuda",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.cuda.json",
+        "vendor": "Nodos",
+        "type": "SUBSYSTEM"
+    },
+    {
+        "name": "nos.sys.ai",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.ai.json",
+        "vendor": "Nodos",
+        "type": "SUBSYSTEM"
+    },
+    {
+        "name": "nos.sys.tensor",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.tensor.json",
+        "vendor": "Nodos",
+        "type": "SUBSYSTEM"
+    },
+    {
+        "name": "nos.bluefish",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.bluefish.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "zd.realitykeyer",
+        "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.realitykeyer.index.json",
+        "vendor": "Zero Density",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "zd.track",
+        "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.track.index.json",
+        "vendor": "Zero Density",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "zd.lens",
+        "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.lens.index.json",
+        "vendor": "Zero Density",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "zd.cyclorama",
+        "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.cyclorama.index.json",
+        "vendor": "Zero Density",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "zd.utilities",
+        "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.utilities.index.json",
+        "vendor": "Zero Density",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "zd.xrtools",
+        "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.xrtools.index.json",
+        "vendor": "Zero Density",
+        "type": "PLUGIN"
+    },
+    {
+        "name": "zd.mediaplayer",
+        "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.mediaplayer.index.json",
+        "vendor": "Zero Density",
+        "type": "PLUGIN"
+    }
+]

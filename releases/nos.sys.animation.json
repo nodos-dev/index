@@ -1,0 +1,14 @@
+{
+    "name": "nos.sys.animation",
+    "releases": [
+        {
+            "version": "1.0.0.b403",
+            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.animation-1.0.0.b403/nos.sys.animation-1.0.0.b403.zip",
+            "subsystem_api_version": {
+                "major": 9,
+                "minor": 4,
+                "patch": 0
+            }
+        }
+    ]
+}
