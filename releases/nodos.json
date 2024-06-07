@@ -1,5 +1,9 @@
 {
-    "name": "nodos",
-    "releases": [
-    ]
+  "name": "nodos",
+  "releases": [
+    {
+      "version": "0.0.0.b0",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nodos-0.0.0.b0/nodos-0.0.0.b0.zip"
+    }
+  ]
 }
