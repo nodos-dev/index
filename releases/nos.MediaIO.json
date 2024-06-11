@@ -1,221 +1,230 @@
 {
-    "name": "nos.MediaIO",
-    "releases": [
-        {
-            "version": "1.0.0.b403",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b403/nos.MediaIO-1.0.0.b403.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 5,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b390",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b390/nos.MediaIO-1.0.0.b390.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 5,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b389",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b389/nos.MediaIO-1.0.0.b389.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 5,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b388",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b388/nos.MediaIO-1.0.0.b388.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 5,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b379",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b379/nos.MediaIO-1.0.0.b379.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 5,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b372",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b372/nos.MediaIO-1.0.0.b372.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 4,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b366",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b366/nos.MediaIO-1.0.0.b366.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 4,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b354",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b354/nos.MediaIO-1.0.0.b354.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 4,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b343",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b343/nos.MediaIO-1.0.0.b343.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 3,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b341",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b341/nos.MediaIO-1.0.0.b341.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 3,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b339",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b339/nos.MediaIO-1.0.0.b339.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 3,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b338",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b338/nos.MediaIO-1.0.0.b338.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 3,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b336",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b336/nos.MediaIO-1.0.0.b336.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 3,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b334",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b334/nos.MediaIO-1.0.0.b334.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 3,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b332",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b332/nos.MediaIO-1.0.0.b332.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 2,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b331",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b331/nos.MediaIO-1.0.0.b331.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 2,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b330",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b330/nos.MediaIO-1.0.0.b330.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 2,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b329",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b329/nos.MediaIO-1.0.0.b329.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 2,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b328",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b328/nos.MediaIO-1.0.0.b328.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 2,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b327",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b327/nos.MediaIO-1.0.0.b327.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 2,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b326",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b326/nos.MediaIO-1.0.0.b326.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 2,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b325",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b325/nos.MediaIO-1.0.0.b325.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b324",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b324/nos.MediaIO-1.0.0.b324.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b321",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b321/nos.MediaIO-1.0.0.b321.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 1,
-                "patch": 0
-            }
-        }
-    ]
+  "name": "nos.MediaIO",
+  "releases": [
+    {
+      "version": "1.0.0.b426",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.MediaIO-1.0.0.b426/nos.MediaIO-1.0.0.b426.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 6,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b403",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b403/nos.MediaIO-1.0.0.b403.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 5,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b390",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b390/nos.MediaIO-1.0.0.b390.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 5,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b389",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b389/nos.MediaIO-1.0.0.b389.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 5,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b388",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b388/nos.MediaIO-1.0.0.b388.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 5,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b379",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b379/nos.MediaIO-1.0.0.b379.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 5,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b372",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b372/nos.MediaIO-1.0.0.b372.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 4,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b366",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b366/nos.MediaIO-1.0.0.b366.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 4,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b354",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b354/nos.MediaIO-1.0.0.b354.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 4,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b343",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b343/nos.MediaIO-1.0.0.b343.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 3,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b341",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b341/nos.MediaIO-1.0.0.b341.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 3,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b339",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b339/nos.MediaIO-1.0.0.b339.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 3,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b338",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b338/nos.MediaIO-1.0.0.b338.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 3,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b336",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b336/nos.MediaIO-1.0.0.b336.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 3,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b334",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b334/nos.MediaIO-1.0.0.b334.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 3,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b332",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b332/nos.MediaIO-1.0.0.b332.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 2,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b331",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b331/nos.MediaIO-1.0.0.b331.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 2,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b330",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b330/nos.MediaIO-1.0.0.b330.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 2,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b329",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b329/nos.MediaIO-1.0.0.b329.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 2,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b328",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b328/nos.MediaIO-1.0.0.b328.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 2,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b327",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b327/nos.MediaIO-1.0.0.b327.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 2,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b326",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b326/nos.MediaIO-1.0.0.b326.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 2,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b325",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b325/nos.MediaIO-1.0.0.b325.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b324",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b324/nos.MediaIO-1.0.0.b324.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b321",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.MediaIO-1.0.0.b321/nos.MediaIO-1.0.0.b321.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 1,
+        "patch": 0
+      }
+    }
+  ]
 }
