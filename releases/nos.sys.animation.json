@@ -1,14 +1,23 @@
 {
-    "name": "nos.sys.animation",
-    "releases": [
-        {
-            "version": "1.0.0.b403",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.animation-1.0.0.b403/nos.sys.animation-1.0.0.b403.zip",
-            "subsystem_api_version": {
-                "major": 9,
-                "minor": 4,
-                "patch": 0
-            }
-        }
-    ]
+  "name": "nos.sys.animation",
+  "releases": [
+    {
+      "version": "1.0.0.b426",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.animation-1.0.0.b426/nos.sys.animation-1.0.0.b426.zip",
+      "subsystem_api_version": {
+        "major": 9,
+        "minor": 6,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b403",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.animation-1.0.0.b403/nos.sys.animation-1.0.0.b403.zip",
+      "subsystem_api_version": {
+        "major": 9,
+        "minor": 4,
+        "patch": 0
+      }
+    }
+  ]
 }

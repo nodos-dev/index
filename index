@@ -154,5 +154,11 @@
     "url": "https://raw.githubusercontent.net/mediaz/nodos-index/main/releases/nodos.bundle.nodos_standard.json",
     "vendor": "Nodos",
     "type": "Nodos"
+  },
+  {
+    "name": "nos.sys.animation",
+    "url": "https://raw.githubusercontent.net/mediaz/nodos-index/main/releases/nos.sys.animation.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
   }
 ]
