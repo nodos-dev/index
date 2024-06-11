@@ -160,5 +160,11 @@
     "url": "https://raw.githubusercontent.net/mediaz/nodos-index/main/releases/nos.sys.animation.json",
     "vendor": "Nodos",
     "type": "Subsystem"
+  },
+  {
+    "name": "nos.webcam",
+    "url": "https://raw.githubusercontent.net/mediaz/nodos-index/main/releases/nos.webcam.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
