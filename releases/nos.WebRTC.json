@@ -1,491 +1,500 @@
 {
-    "name": "nos.WebRTC",
-    "releases": [
-        {
-            "version": "1.0.0.b403",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b403/nos.WebRTC-1.0.0.b403.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 5,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b354",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b354/nos.WebRTC-1.0.0.b354.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 4,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b339",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b339/nos.WebRTC-1.0.0.b339.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 3,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b336",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b336/nos.WebRTC-1.0.0.b336.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 3,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b289",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b289/nos.WebRTC-1.0.0.b289.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b285",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b285/nos.WebRTC-1.0.0.b285.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b270",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b270/nos.WebRTC-1.0.0.b270.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b265",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b265/nos.WebRTC-1.0.0.b265.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b264",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b264/nos.WebRTC-1.0.0.b264.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b257",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b257/nos.WebRTC-1.0.0.b257.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b251",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b251/nos.WebRTC-1.0.0.b251.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b248",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b248/nos.WebRTC-1.0.0.b248.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b247",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b247/nos.WebRTC-1.0.0.b247.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b239",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b239/nos.WebRTC-1.0.0.b239.zip",
-            "plugin_api_version": {
-                "major": 34,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b235",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b235/nos.WebRTC-1.0.0.b235.zip",
-            "plugin_api_version": {
-                "major": 34,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b226",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b226/nos.WebRTC-1.0.0.b226.zip",
-            "plugin_api_version": {
-                "major": 34,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b216",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b216/nos.WebRTC-1.0.0.b216.zip",
-            "plugin_api_version": {
-                "major": 33,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b215",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b215/nos.WebRTC-1.0.0.b215.zip",
-            "plugin_api_version": {
-                "major": 33,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b212",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b212/nos.WebRTC-1.0.0.b212.zip",
-            "plugin_api_version": {
-                "major": 33,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b201",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b201/nos.WebRTC-1.0.0.b201.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b195",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b195/nos.WebRTC-1.0.0.b195.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b182",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b182/nos.WebRTC-1.0.0.b182.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b155",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b155/nos.WebRTC-1.0.0.b155.zip",
-            "plugin_api_version": {
-                "major": 31,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b148",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b148/nos.WebRTC-1.0.0.b148.zip",
-            "plugin_api_version": {
-                "major": 31,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b142",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b142/nos.WebRTC-1.0.0.b142.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b138",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b138/nos.WebRTC-1.0.0.b138.zip",
-            "plugin_api_version": {
-                "major": 31,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b135",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b135/nos.WebRTC-1.0.0.b135.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b133",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b133/nos.WebRTC-1.0.0.b133.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b127",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b127/nos.WebRTC-1.0.0.b127.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b118",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b118/nos.WebRTC-1.0.0.b118.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b115",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b115/nos.WebRTC-1.0.0.b115.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b112",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b112/nos.WebRTC-1.0.0.b112.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b111",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b111/nos.WebRTC-1.0.0.b111.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b109",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b109/nos.WebRTC-1.0.0.b109.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b107",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b107/nos.WebRTC-1.0.0.b107.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b101",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b101/nos.WebRTC-1.0.0.b101.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b91",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b91/nos.WebRTC-1.0.0.b91.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b89",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b89/nos.WebRTC-1.0.0.b89.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b88",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b88/nos.WebRTC-1.0.0.b88.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b87",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b87/nos.WebRTC-1.0.0.b87.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b85",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b85/nos.WebRTC-1.0.0.b85.zip",
-            "plugin_api_version": {
-                "major": 28,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b84",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b84/nos.WebRTC-1.0.0.b84.zip",
-            "plugin_api_version": {
-                "major": 28,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b83",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b83/nos.WebRTC-1.0.0.b83.zip",
-            "plugin_api_version": {
-                "major": 28,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b76",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b76/nos.WebRTC-1.0.0.b76.zip",
-            "plugin_api_version": {
-                "major": 27,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b70",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b70/nos.WebRTC-1.0.0.b70.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b67",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b67/nos.WebRTC-1.0.0.b67.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b52",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b52/nos.WebRTC-1.0.0.b52.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b50",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b50/nos.WebRTC-1.0.0.b50.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b48",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b48/nos.WebRTC-1.0.0.b48.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b35",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b35/nos.WebRTC-1.0.0.b35.zip",
-            "plugin_api_version": {
-                "major": 24,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b33",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b33/nos.WebRTC-1.0.0.b33.zip",
-            "plugin_api_version": {
-                "major": 24,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b16",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b16/nos.WebRTC-1.0.0.b16.zip",
-            "plugin_api_version": {
-                "major": 24,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b8",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b8/nos.WebRTC-1.0.0.b8.zip",
-            "plugin_api_version": {
-                "major": 22,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b6",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b6/nos.WebRTC-1.0.0.b6.zip",
-            "plugin_api_version": {
-                "major": 22,
-                "minor": 0,
-                "patch": 0
-            }
-        }
-    ]
+  "name": "nos.WebRTC",
+  "releases": [
+    {
+      "version": "1.0.0.b426",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.WebRTC-1.0.0.b426/nos.WebRTC-1.0.0.b426.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 6,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b403",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b403/nos.WebRTC-1.0.0.b403.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 5,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b354",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b354/nos.WebRTC-1.0.0.b354.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 4,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b339",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b339/nos.WebRTC-1.0.0.b339.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 3,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b336",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b336/nos.WebRTC-1.0.0.b336.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 3,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b289",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b289/nos.WebRTC-1.0.0.b289.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b285",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b285/nos.WebRTC-1.0.0.b285.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b270",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b270/nos.WebRTC-1.0.0.b270.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b265",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b265/nos.WebRTC-1.0.0.b265.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b264",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b264/nos.WebRTC-1.0.0.b264.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b257",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b257/nos.WebRTC-1.0.0.b257.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b251",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b251/nos.WebRTC-1.0.0.b251.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b248",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b248/nos.WebRTC-1.0.0.b248.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b247",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b247/nos.WebRTC-1.0.0.b247.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b239",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b239/nos.WebRTC-1.0.0.b239.zip",
+      "plugin_api_version": {
+        "major": 34,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b235",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b235/nos.WebRTC-1.0.0.b235.zip",
+      "plugin_api_version": {
+        "major": 34,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b226",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b226/nos.WebRTC-1.0.0.b226.zip",
+      "plugin_api_version": {
+        "major": 34,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b216",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b216/nos.WebRTC-1.0.0.b216.zip",
+      "plugin_api_version": {
+        "major": 33,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b215",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b215/nos.WebRTC-1.0.0.b215.zip",
+      "plugin_api_version": {
+        "major": 33,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b212",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b212/nos.WebRTC-1.0.0.b212.zip",
+      "plugin_api_version": {
+        "major": 33,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b201",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b201/nos.WebRTC-1.0.0.b201.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b195",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b195/nos.WebRTC-1.0.0.b195.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b182",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b182/nos.WebRTC-1.0.0.b182.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b155",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b155/nos.WebRTC-1.0.0.b155.zip",
+      "plugin_api_version": {
+        "major": 31,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b148",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b148/nos.WebRTC-1.0.0.b148.zip",
+      "plugin_api_version": {
+        "major": 31,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b142",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b142/nos.WebRTC-1.0.0.b142.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b138",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b138/nos.WebRTC-1.0.0.b138.zip",
+      "plugin_api_version": {
+        "major": 31,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b135",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b135/nos.WebRTC-1.0.0.b135.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b133",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b133/nos.WebRTC-1.0.0.b133.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b127",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b127/nos.WebRTC-1.0.0.b127.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b118",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b118/nos.WebRTC-1.0.0.b118.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b115",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b115/nos.WebRTC-1.0.0.b115.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b112",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b112/nos.WebRTC-1.0.0.b112.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b111",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b111/nos.WebRTC-1.0.0.b111.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b109",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b109/nos.WebRTC-1.0.0.b109.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b107",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b107/nos.WebRTC-1.0.0.b107.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b101",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b101/nos.WebRTC-1.0.0.b101.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b91",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b91/nos.WebRTC-1.0.0.b91.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b89",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b89/nos.WebRTC-1.0.0.b89.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b88",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b88/nos.WebRTC-1.0.0.b88.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b87",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b87/nos.WebRTC-1.0.0.b87.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b85",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b85/nos.WebRTC-1.0.0.b85.zip",
+      "plugin_api_version": {
+        "major": 28,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b84",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b84/nos.WebRTC-1.0.0.b84.zip",
+      "plugin_api_version": {
+        "major": 28,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b83",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b83/nos.WebRTC-1.0.0.b83.zip",
+      "plugin_api_version": {
+        "major": 28,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b76",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b76/nos.WebRTC-1.0.0.b76.zip",
+      "plugin_api_version": {
+        "major": 27,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b70",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b70/nos.WebRTC-1.0.0.b70.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b67",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b67/nos.WebRTC-1.0.0.b67.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b52",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b52/nos.WebRTC-1.0.0.b52.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b50",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b50/nos.WebRTC-1.0.0.b50.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b48",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b48/nos.WebRTC-1.0.0.b48.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b35",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b35/nos.WebRTC-1.0.0.b35.zip",
+      "plugin_api_version": {
+        "major": 24,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b33",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b33/nos.WebRTC-1.0.0.b33.zip",
+      "plugin_api_version": {
+        "major": 24,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b16",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b16/nos.WebRTC-1.0.0.b16.zip",
+      "plugin_api_version": {
+        "major": 24,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b8",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b8/nos.WebRTC-1.0.0.b8.zip",
+      "plugin_api_version": {
+        "major": 22,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b6",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.WebRTC-1.0.0.b6/nos.WebRTC-1.0.0.b6.zip",
+      "plugin_api_version": {
+        "major": 22,
+        "minor": 0,
+        "patch": 0
+      }
+    }
+  ]
 }
