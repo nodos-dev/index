@@ -1,401 +1,410 @@
 {
-    "name": "nos.math",
-    "releases": [
-        {
-            "version": "1.0.0.b403",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b403/nos.math-1.0.0.b403.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 5,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b354",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b354/nos.math-1.0.0.b354.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 4,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b339",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b339/nos.math-1.0.0.b339.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 3,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b336",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b336/nos.math-1.0.0.b336.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 3,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b285",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b285/nos.math-1.0.0.b285.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b270",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b270/nos.math-1.0.0.b270.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b265",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b265/nos.math-1.0.0.b265.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b257",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b257/nos.math-1.0.0.b257.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b251",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b251/nos.math-1.0.0.b251.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b248",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b248/nos.math-1.0.0.b248.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b247",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b247/nos.math-1.0.0.b247.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b239",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b239/nos.math-1.0.0.b239.zip",
-            "plugin_api_version": {
-                "major": 34,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b235",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b235/nos.math-1.0.0.b235.zip",
-            "plugin_api_version": {
-                "major": 34,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b226",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b226/nos.math-1.0.0.b226.zip",
-            "plugin_api_version": {
-                "major": 34,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b216",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b216/nos.math-1.0.0.b216.zip",
-            "plugin_api_version": {
-                "major": 33,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b215",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b215/nos.math-1.0.0.b215.zip",
-            "plugin_api_version": {
-                "major": 33,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b201",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b201/nos.math-1.0.0.b201.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b200",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b200/nos.math-1.0.0.b200.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b195",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b195/nos.math-1.0.0.b195.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b182",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b182/nos.math-1.0.0.b182.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b155",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b155/nos.math-1.0.0.b155.zip",
-            "plugin_api_version": {
-                "major": 31,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b142",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b142/nos.math-1.0.0.b142.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b135",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b135/nos.math-1.0.0.b135.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b127",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b127/nos.math-1.0.0.b127.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b126",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b126/nos.math-1.0.0.b126.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b118",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b118/nos.math-1.0.0.b118.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b115",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b115/nos.math-1.0.0.b115.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b112",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b112/nos.math-1.0.0.b112.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b101",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b101/nos.math-1.0.0.b101.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b89",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b89/nos.math-1.0.0.b89.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b88",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b88/nos.math-1.0.0.b88.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b87",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b87/nos.math-1.0.0.b87.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b85",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b85/nos.math-1.0.0.b85.zip",
-            "plugin_api_version": {
-                "major": 28,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b84",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b84/nos.math-1.0.0.b84.zip",
-            "plugin_api_version": {
-                "major": 28,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b83",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b83/nos.math-1.0.0.b83.zip",
-            "plugin_api_version": {
-                "major": 28,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b70",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b70/nos.math-1.0.0.b70.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b67",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b67/nos.math-1.0.0.b67.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b50",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b50/nos.math-1.0.0.b50.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b48",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b48/nos.math-1.0.0.b48.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b35",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b35/nos.math-1.0.0.b35.zip",
-            "plugin_api_version": {
-                "major": 24,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b33",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b33/nos.math-1.0.0.b33.zip",
-            "plugin_api_version": {
-                "major": 24,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b16",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b16/nos.math-1.0.0.b16.zip",
-            "plugin_api_version": {
-                "major": 24,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b8",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b8/nos.math-1.0.0.b8.zip",
-            "plugin_api_version": {
-                "major": 22,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b6",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b6/nos.math-1.0.0.b6.zip",
-            "plugin_api_version": {
-                "major": 22,
-                "minor": 0,
-                "patch": 0
-            }
-        }
-    ]
+  "name": "nos.math",
+  "releases": [
+    {
+      "version": "1.0.0.b426",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.0.0.b426/nos.math-1.0.0.b426.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 6,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b403",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b403/nos.math-1.0.0.b403.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 5,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b354",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b354/nos.math-1.0.0.b354.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 4,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b339",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b339/nos.math-1.0.0.b339.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 3,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b336",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b336/nos.math-1.0.0.b336.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 3,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b285",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b285/nos.math-1.0.0.b285.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b270",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b270/nos.math-1.0.0.b270.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b265",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b265/nos.math-1.0.0.b265.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b257",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b257/nos.math-1.0.0.b257.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b251",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b251/nos.math-1.0.0.b251.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b248",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b248/nos.math-1.0.0.b248.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b247",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b247/nos.math-1.0.0.b247.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b239",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b239/nos.math-1.0.0.b239.zip",
+      "plugin_api_version": {
+        "major": 34,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b235",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b235/nos.math-1.0.0.b235.zip",
+      "plugin_api_version": {
+        "major": 34,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b226",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b226/nos.math-1.0.0.b226.zip",
+      "plugin_api_version": {
+        "major": 34,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b216",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b216/nos.math-1.0.0.b216.zip",
+      "plugin_api_version": {
+        "major": 33,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b215",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b215/nos.math-1.0.0.b215.zip",
+      "plugin_api_version": {
+        "major": 33,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b201",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b201/nos.math-1.0.0.b201.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b200",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b200/nos.math-1.0.0.b200.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b195",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b195/nos.math-1.0.0.b195.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b182",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b182/nos.math-1.0.0.b182.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b155",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b155/nos.math-1.0.0.b155.zip",
+      "plugin_api_version": {
+        "major": 31,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b142",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b142/nos.math-1.0.0.b142.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b135",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b135/nos.math-1.0.0.b135.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b127",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b127/nos.math-1.0.0.b127.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b126",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b126/nos.math-1.0.0.b126.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b118",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b118/nos.math-1.0.0.b118.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b115",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b115/nos.math-1.0.0.b115.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b112",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b112/nos.math-1.0.0.b112.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b101",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b101/nos.math-1.0.0.b101.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b89",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b89/nos.math-1.0.0.b89.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b88",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b88/nos.math-1.0.0.b88.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b87",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b87/nos.math-1.0.0.b87.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b85",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b85/nos.math-1.0.0.b85.zip",
+      "plugin_api_version": {
+        "major": 28,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b84",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b84/nos.math-1.0.0.b84.zip",
+      "plugin_api_version": {
+        "major": 28,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b83",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b83/nos.math-1.0.0.b83.zip",
+      "plugin_api_version": {
+        "major": 28,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b70",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b70/nos.math-1.0.0.b70.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b67",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b67/nos.math-1.0.0.b67.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b50",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b50/nos.math-1.0.0.b50.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b48",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b48/nos.math-1.0.0.b48.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b35",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b35/nos.math-1.0.0.b35.zip",
+      "plugin_api_version": {
+        "major": 24,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b33",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b33/nos.math-1.0.0.b33.zip",
+      "plugin_api_version": {
+        "major": 24,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b16",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b16/nos.math-1.0.0.b16.zip",
+      "plugin_api_version": {
+        "major": 24,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b8",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b8/nos.math-1.0.0.b8.zip",
+      "plugin_api_version": {
+        "major": 22,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b6",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.math-1.0.0.b6/nos.math-1.0.0.b6.zip",
+      "plugin_api_version": {
+        "major": 22,
+        "minor": 0,
+        "patch": 0
+      }
+    }
+  ]
 }
