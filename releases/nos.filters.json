@@ -1,716 +1,725 @@
 {
-    "name": "nos.filters",
-    "releases": [
-        {
-            "version": "1.0.0.b403",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b403/nos.filters-1.0.0.b403.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 5,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b354",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b354/nos.filters-1.0.0.b354.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 4,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b339",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b339/nos.filters-1.0.0.b339.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 3,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b336",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b336/nos.filters-1.0.0.b336.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 3,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b332",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b332/nos.filters-1.0.0.b332.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 2,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b330",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b330/nos.filters-1.0.0.b330.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 2,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b327",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b327/nos.filters-1.0.0.b327.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 2,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b325",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b325/nos.filters-1.0.0.b325.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b324",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b324/nos.filters-1.0.0.b324.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b319",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b319/nos.filters-1.0.0.b319.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b306",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b306/nos.filters-1.0.0.b306.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b297",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b297/nos.filters-1.0.0.b297.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b295",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b295/nos.filters-1.0.0.b295.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b289",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b289/nos.filters-1.0.0.b289.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b286",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b286/nos.filters-1.0.0.b286.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b285",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b285/nos.filters-1.0.0.b285.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b270",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b270/nos.filters-1.0.0.b270.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b269",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b269/nos.filters-1.0.0.b269.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b265",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b265/nos.filters-1.0.0.b265.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b264",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b264/nos.filters-1.0.0.b264.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b257",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b257/nos.filters-1.0.0.b257.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b251",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b251/nos.filters-1.0.0.b251.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b249",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b249/nos.filters-1.0.0.b249.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b248",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b248/nos.filters-1.0.0.b248.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b247",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b247/nos.filters-1.0.0.b247.zip",
-            "plugin_api_version": {
-                "major": 35,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b239",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b239/nos.filters-1.0.0.b239.zip",
-            "plugin_api_version": {
-                "major": 34,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b237",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b237/nos.filters-1.0.0.b237.zip",
-            "plugin_api_version": {
-                "major": 34,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b236",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b236/nos.filters-1.0.0.b236.zip",
-            "plugin_api_version": {
-                "major": 34,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b235",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b235/nos.filters-1.0.0.b235.zip",
-            "plugin_api_version": {
-                "major": 34,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b226",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b226/nos.filters-1.0.0.b226.zip",
-            "plugin_api_version": {
-                "major": 34,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b216",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b216/nos.filters-1.0.0.b216.zip",
-            "plugin_api_version": {
-                "major": 33,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b215",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b215/nos.filters-1.0.0.b215.zip",
-            "plugin_api_version": {
-                "major": 33,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b201",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b201/nos.filters-1.0.0.b201.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b200",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b200/nos.filters-1.0.0.b200.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b195",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b195/nos.filters-1.0.0.b195.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b182",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b182/nos.filters-1.0.0.b182.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b155",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b155/nos.filters-1.0.0.b155.zip",
-            "plugin_api_version": {
-                "major": 31,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b142",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b142/nos.filters-1.0.0.b142.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b138",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b138/nos.filters-1.0.0.b138.zip",
-            "plugin_api_version": {
-                "major": 31,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b135",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b135/nos.filters-1.0.0.b135.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b133",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b133/nos.filters-1.0.0.b133.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b127",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b127/nos.filters-1.0.0.b127.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b126",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b126/nos.filters-1.0.0.b126.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b123",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b123/nos.filters-1.0.0.b123.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b118",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b118/nos.filters-1.0.0.b118.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b115",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b115/nos.filters-1.0.0.b115.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b112",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b112/nos.filters-1.0.0.b112.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b111",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b111/nos.filters-1.0.0.b111.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b108",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b108/nos.filters-1.0.0.b108.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b107",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b107/nos.filters-1.0.0.b107.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b106",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b106/nos.filters-1.0.0.b106.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b105",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b105/nos.filters-1.0.0.b105.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b101",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b101/nos.filters-1.0.0.b101.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b98",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b98/nos.filters-1.0.0.b98.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b95",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b95/nos.filters-1.0.0.b95.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b89",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b89/nos.filters-1.0.0.b89.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b88",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b88/nos.filters-1.0.0.b88.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b87",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b87/nos.filters-1.0.0.b87.zip",
-            "plugin_api_version": {
-                "major": 30,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b85",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b85/nos.filters-1.0.0.b85.zip",
-            "plugin_api_version": {
-                "major": 28,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b84",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b84/nos.filters-1.0.0.b84.zip",
-            "plugin_api_version": {
-                "major": 28,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b83",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b83/nos.filters-1.0.0.b83.zip",
-            "plugin_api_version": {
-                "major": 28,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b76",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b76/nos.filters-1.0.0.b76.zip",
-            "plugin_api_version": {
-                "major": 27,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b75",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b75/nos.filters-1.0.0.b75.zip",
-            "plugin_api_version": {
-                "major": 26,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b70",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b70/nos.filters-1.0.0.b70.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b67",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b67/nos.filters-1.0.0.b67.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b66",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b66/nos.filters-1.0.0.b66.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b57",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b57/nos.filters-1.0.0.b57.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 1,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b52",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b52/nos.filters-1.0.0.b52.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b50",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b50/nos.filters-1.0.0.b50.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b48",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b48/nos.filters-1.0.0.b48.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b46",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b46/nos.filters-1.0.0.b46.zip",
-            "plugin_api_version": {
-                "major": 25,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b44",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b44/nos.filters-1.0.0.b44.zip",
-            "plugin_api_version": {
-                "major": 24,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b35",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b35/nos.filters-1.0.0.b35.zip",
-            "plugin_api_version": {
-                "major": 24,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b33",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b33/nos.filters-1.0.0.b33.zip",
-            "plugin_api_version": {
-                "major": 24,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b31",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b31/nos.filters-1.0.0.b31.zip",
-            "plugin_api_version": {
-                "major": 24,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b20",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b20/nos.filters-1.0.0.b20.zip",
-            "plugin_api_version": {
-                "major": 24,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b16",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b16/nos.filters-1.0.0.b16.zip",
-            "plugin_api_version": {
-                "major": 24,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b8",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b8/nos.filters-1.0.0.b8.zip",
-            "plugin_api_version": {
-                "major": 22,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b6",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b6/nos.filters-1.0.0.b6.zip",
-            "plugin_api_version": {
-                "major": 22,
-                "minor": 0,
-                "patch": 0
-            }
-        }
-    ]
+  "name": "nos.filters",
+  "releases": [
+    {
+      "version": "1.0.0.b426",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b426/nos.filters-1.0.0.b426.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 6,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b403",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b403/nos.filters-1.0.0.b403.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 5,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b354",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b354/nos.filters-1.0.0.b354.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 4,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b339",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b339/nos.filters-1.0.0.b339.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 3,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b336",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b336/nos.filters-1.0.0.b336.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 3,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b332",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b332/nos.filters-1.0.0.b332.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 2,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b330",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b330/nos.filters-1.0.0.b330.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 2,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b327",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b327/nos.filters-1.0.0.b327.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 2,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b325",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b325/nos.filters-1.0.0.b325.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b324",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b324/nos.filters-1.0.0.b324.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b319",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b319/nos.filters-1.0.0.b319.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b306",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b306/nos.filters-1.0.0.b306.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b297",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b297/nos.filters-1.0.0.b297.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b295",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b295/nos.filters-1.0.0.b295.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b289",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b289/nos.filters-1.0.0.b289.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b286",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b286/nos.filters-1.0.0.b286.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b285",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b285/nos.filters-1.0.0.b285.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b270",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b270/nos.filters-1.0.0.b270.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b269",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b269/nos.filters-1.0.0.b269.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b265",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b265/nos.filters-1.0.0.b265.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b264",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b264/nos.filters-1.0.0.b264.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b257",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b257/nos.filters-1.0.0.b257.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b251",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b251/nos.filters-1.0.0.b251.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b249",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b249/nos.filters-1.0.0.b249.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b248",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b248/nos.filters-1.0.0.b248.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b247",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b247/nos.filters-1.0.0.b247.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b239",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b239/nos.filters-1.0.0.b239.zip",
+      "plugin_api_version": {
+        "major": 34,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b237",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b237/nos.filters-1.0.0.b237.zip",
+      "plugin_api_version": {
+        "major": 34,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b236",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b236/nos.filters-1.0.0.b236.zip",
+      "plugin_api_version": {
+        "major": 34,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b235",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b235/nos.filters-1.0.0.b235.zip",
+      "plugin_api_version": {
+        "major": 34,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b226",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b226/nos.filters-1.0.0.b226.zip",
+      "plugin_api_version": {
+        "major": 34,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b216",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b216/nos.filters-1.0.0.b216.zip",
+      "plugin_api_version": {
+        "major": 33,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b215",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b215/nos.filters-1.0.0.b215.zip",
+      "plugin_api_version": {
+        "major": 33,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b201",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b201/nos.filters-1.0.0.b201.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b200",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b200/nos.filters-1.0.0.b200.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b195",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b195/nos.filters-1.0.0.b195.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b182",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b182/nos.filters-1.0.0.b182.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b155",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b155/nos.filters-1.0.0.b155.zip",
+      "plugin_api_version": {
+        "major": 31,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b142",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b142/nos.filters-1.0.0.b142.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b138",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b138/nos.filters-1.0.0.b138.zip",
+      "plugin_api_version": {
+        "major": 31,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b135",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b135/nos.filters-1.0.0.b135.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b133",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b133/nos.filters-1.0.0.b133.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b127",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b127/nos.filters-1.0.0.b127.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b126",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b126/nos.filters-1.0.0.b126.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b123",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b123/nos.filters-1.0.0.b123.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b118",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b118/nos.filters-1.0.0.b118.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b115",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b115/nos.filters-1.0.0.b115.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b112",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b112/nos.filters-1.0.0.b112.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b111",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b111/nos.filters-1.0.0.b111.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b108",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b108/nos.filters-1.0.0.b108.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b107",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b107/nos.filters-1.0.0.b107.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b106",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b106/nos.filters-1.0.0.b106.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b105",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b105/nos.filters-1.0.0.b105.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b101",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b101/nos.filters-1.0.0.b101.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b98",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b98/nos.filters-1.0.0.b98.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b95",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b95/nos.filters-1.0.0.b95.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b89",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b89/nos.filters-1.0.0.b89.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b88",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b88/nos.filters-1.0.0.b88.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b87",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b87/nos.filters-1.0.0.b87.zip",
+      "plugin_api_version": {
+        "major": 30,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b85",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b85/nos.filters-1.0.0.b85.zip",
+      "plugin_api_version": {
+        "major": 28,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b84",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b84/nos.filters-1.0.0.b84.zip",
+      "plugin_api_version": {
+        "major": 28,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b83",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b83/nos.filters-1.0.0.b83.zip",
+      "plugin_api_version": {
+        "major": 28,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b76",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b76/nos.filters-1.0.0.b76.zip",
+      "plugin_api_version": {
+        "major": 27,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b75",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b75/nos.filters-1.0.0.b75.zip",
+      "plugin_api_version": {
+        "major": 26,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b70",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b70/nos.filters-1.0.0.b70.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b67",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b67/nos.filters-1.0.0.b67.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b66",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b66/nos.filters-1.0.0.b66.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b57",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b57/nos.filters-1.0.0.b57.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 1,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b52",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b52/nos.filters-1.0.0.b52.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b50",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b50/nos.filters-1.0.0.b50.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b48",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b48/nos.filters-1.0.0.b48.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b46",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b46/nos.filters-1.0.0.b46.zip",
+      "plugin_api_version": {
+        "major": 25,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b44",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b44/nos.filters-1.0.0.b44.zip",
+      "plugin_api_version": {
+        "major": 24,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b35",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b35/nos.filters-1.0.0.b35.zip",
+      "plugin_api_version": {
+        "major": 24,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b33",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b33/nos.filters-1.0.0.b33.zip",
+      "plugin_api_version": {
+        "major": 24,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b31",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b31/nos.filters-1.0.0.b31.zip",
+      "plugin_api_version": {
+        "major": 24,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b20",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b20/nos.filters-1.0.0.b20.zip",
+      "plugin_api_version": {
+        "major": 24,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b16",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b16/nos.filters-1.0.0.b16.zip",
+      "plugin_api_version": {
+        "major": 24,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b8",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b8/nos.filters-1.0.0.b8.zip",
+      "plugin_api_version": {
+        "major": 22,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b6",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.filters-1.0.0.b6/nos.filters-1.0.0.b6.zip",
+      "plugin_api_version": {
+        "major": 22,
+        "minor": 0,
+        "patch": 0
+      }
+    }
+  ]
 }
