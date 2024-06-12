@@ -2,6 +2,15 @@
   "name": "nos.filters",
   "releases": [
     {
+      "version": "1.0.0.b443",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b443/nos.filters-1.0.0.b443.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 6,
+        "patch": 0
+      }
+    },
+    {
       "version": "1.0.0.b426",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b426/nos.filters-1.0.0.b426.zip",
       "plugin_api_version": {
