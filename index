@@ -43,7 +43,7 @@
   },
   {
     "name": "nos.MediaIO",
-    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/main/nos.MediaIO.json",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.MediaIO.json",
     "vendor": "Nodos",
     "type": "Plugin"
   },
