@@ -2,6 +2,15 @@
   "name": "nos.utilities",
   "releases": [
     {
+      "version": "2.0.0.b450",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.utilities-2.0.0.b450/nos.utilities-2.0.0.b450.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 6,
+        "patch": 0
+      }
+    },
+    {
       "version": "2.0.0.b449",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.utilities-2.0.0.b449/nos.utilities-2.0.0.b449.zip",
       "plugin_api_version": {
