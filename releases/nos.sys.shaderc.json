@@ -2,6 +2,10 @@
   "name": "nos.sys.shaderc",
   "releases": [
     {
+      "version": "1.0.0.b464",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.shaderc-1.0.0.b464/nos.sys.shaderc-1.0.0.b464.zip"
+    },
+    {
       "version": "1.0.0.b451",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.shaderc-1.0.0.b451/nos.sys.shaderc-1.0.0.b451.zip"
     },
