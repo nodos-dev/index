@@ -166,5 +166,11 @@
     "url": "https://raw.githubusercontent.net/mediaz/nodos-index/main/releases/nos.webcam.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.sys.cuda.deps",
+    "url": "https://raw.githubusercontent.net/mediaz/nodos-index/main/releases/nos.sys.cuda.deps.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
   }
 ]
