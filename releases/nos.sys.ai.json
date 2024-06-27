@@ -2,6 +2,15 @@
   "name": "nos.sys.ai",
   "releases": [
     {
+      "version": "3.0.0.b197",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai-3.0.0.b197/nos.sys.ai-3.0.0.b197.zip",
+      "subsystem_api_version": {
+        "major": 9,
+        "minor": 6,
+        "patch": 0
+      }
+    },
+    {
       "version": "3.0.0.b196",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai-3.0.0.b196/nos.sys.ai-3.0.0.b196.zip",
       "subsystem_api_version": {
