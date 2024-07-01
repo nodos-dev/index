@@ -151,25 +151,25 @@
   },
   {
     "name": "nodos.bundle.nodos_standard",
-    "url": "https://raw.githubusercontent.net/mediaz/nodos-index/main/releases/nodos.bundle.nodos_standard.json",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nodos.bundle.nodos_standard.json",
     "vendor": "Nodos",
     "type": "Nodos"
   },
   {
     "name": "nos.sys.animation",
-    "url": "https://raw.githubusercontent.net/mediaz/nodos-index/main/releases/nos.sys.animation.json",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.animation.json",
     "vendor": "Nodos",
     "type": "Subsystem"
   },
   {
     "name": "nos.webcam",
-    "url": "https://raw.githubusercontent.net/mediaz/nodos-index/main/releases/nos.webcam.json",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.webcam.json",
     "vendor": "Nodos",
     "type": "Plugin"
   },
   {
     "name": "nos.sys.cuda.deps",
-    "url": "https://raw.githubusercontent.net/mediaz/nodos-index/main/releases/nos.sys.cuda.deps.json",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.cuda.deps.json",
     "vendor": "Nodos",
     "type": "Subsystem"
   }
