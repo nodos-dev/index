@@ -178,5 +178,11 @@
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sample.dxapp.json",
     "vendor": "Nodos",
     "type": "Generic"
+  },
+  {
+    "name": "nos.sample.vkapp",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sample.vkapp.json",
+    "vendor": "Nodos",
+    "type": "Generic"
   }
 ]
