@@ -1,0 +1,9 @@
+{
+  "name": "nos.sample.dxapp",
+  "releases": [
+    {
+      "version": "0.1.0.b0",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sample.dxapp-0.1.0.b0/nos.sample.dxapp-0.1.0.b0.zip"
+    }
+  ]
+}

@@ -172,5 +172,11 @@
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.cuda.deps.json",
     "vendor": "Nodos",
     "type": "Subsystem"
+  },
+  {
+    "name": "nos.sample.dxapp",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sample.dxapp.json",
+    "vendor": "Nodos",
+    "type": "Generic"
   }
 ]
