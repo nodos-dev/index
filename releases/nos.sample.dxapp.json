@@ -2,6 +2,10 @@
   "name": "nos.sample.dxapp",
   "releases": [
     {
+      "version": "0.1.0.b3",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sample.dxapp-0.1.0.b3/nos.sample.dxapp-0.1.0.b3.zip"
+    },
+    {
       "version": "0.1.0.b2",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sample.dxapp-0.1.0.b2/nos.sample.dxapp-0.1.0.b2.zip"
     },
