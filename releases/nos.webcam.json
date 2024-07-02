@@ -2,6 +2,15 @@
   "name": "nos.webcam",
   "releases": [
     {
+      "version": "1.0.0.b477",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b477/nos.webcam-1.0.0.b477.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 6,
+        "patch": 0
+      }
+    },
+    {
       "version": "1.0.0.b474",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b474/nos.webcam-1.0.0.b474.zip",
       "plugin_api_version": {
