@@ -1,0 +1,14 @@
+{
+  "name": "nos.noise",
+  "releases": [
+    {
+      "version": "0.1.0.b481",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.noise-0.1.0.b481/nos.noise-0.1.0.b481.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 6,
+        "patch": 0
+      }
+    }
+  ]
+}
