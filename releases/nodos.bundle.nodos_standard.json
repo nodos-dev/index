@@ -2,6 +2,10 @@
   "name": "nodos.bundle.nodos_standard",
   "releases": [
     {
+      "version": "1.2.0.b3106",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nodos.bundle.nodos_standard-1.2.0.b3106/Nodos-1.2.0.b3106-bundle-nodos_standard.zip"
+    },
+    {
       "version": "1.2.0.b3065",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nodos.bundle.nodos_standard-1.2.0.b3065/Nodos-1.2.0.b3065-bundle-nodos_standard.zip"
     },
