@@ -2,6 +2,15 @@
   "name": "nos.sys.tensor",
   "releases": [
     {
+      "version": "2.0.0.b206",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.tensor-2.0.0.b206/nos.sys.tensor-2.0.0.b206.zip",
+      "subsystem_api_version": {
+        "major": 9,
+        "minor": 6,
+        "patch": 0
+      }
+    },
+    {
       "version": "2.0.0.b205",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.tensor-2.0.0.b205/nos.sys.tensor-2.0.0.b205.zip",
       "subsystem_api_version": {
