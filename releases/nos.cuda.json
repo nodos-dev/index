@@ -1,0 +1,14 @@
+{
+  "name": "nos.cuda",
+  "releases": [
+    {
+      "version": "1.0.0.b205",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.cuda-1.0.0.b205/nos.cuda-1.0.0.b205.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 6,
+        "patch": 0
+      }
+    }
+  ]
+}
