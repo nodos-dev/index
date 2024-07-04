@@ -202,5 +202,11 @@
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.cuda.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.ML.Tokenizer",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.ML.Tokenizer.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
