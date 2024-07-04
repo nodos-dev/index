@@ -2,6 +2,15 @@
   "name": "nos.ML.AINodes",
   "releases": [
     {
+      "version": "1.0.0.b206",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ML.AINodes-1.0.0.b206/nos.ML.AINodes-1.0.0.b206.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 6,
+        "patch": 0
+      }
+    },
+    {
       "version": "1.0.0.b205",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ML.AINodes-1.0.0.b205/nos.ML.AINodes-1.0.0.b205.zip",
       "plugin_api_version": {
