@@ -2,6 +2,10 @@
   "name": "nodos",
   "releases": [
     {
+      "version": "1.2.0.b3125",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nodos-1.2.0.b3125/Nodos-1.2.0.b3125.zip"
+    },
+    {
       "version": "1.2.0.b3124",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nodos-1.2.0.b3124/Nodos-1.2.0.b3124.zip"
     },
