@@ -1,0 +1,9 @@
+{
+  "name": "nos.sys.ai.models.rt4ksr",
+  "releases": [
+    {
+      "version": "1.0.0.b1",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai.models.rt4ksr-1.0.0.b1/nos.sys.ai.models.rt4ksr-1.0.0.b1.zip"
+    }
+  ]
+}

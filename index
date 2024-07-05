@@ -232,5 +232,11 @@
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.ai.models.depth_anything.json",
     "vendor": "Nodos",
     "type": "Subsystem"
+  },
+  {
+    "name": "nos.sys.ai.models.rt4ksr",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.ai.models.rt4ksr.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
   }
 ]
