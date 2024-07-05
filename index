@@ -96,6 +96,12 @@
     "type": "Subsystem"
   },
   {
+    "name": "nos.sys.tensorrt.deps",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.tensorrt.deps.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
     "name": "nos.sys.ai",
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.ai.json",
     "vendor": "Nodos",
