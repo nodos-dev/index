@@ -102,6 +102,12 @@
     "type": "Subsystem"
   },
   {
+    "name": "nos.sys.ai.onnxdeps",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.ai.onnxdeps.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
     "name": "nos.sys.ai",
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.ai.json",
     "vendor": "Nodos",
