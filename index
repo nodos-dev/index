@@ -226,5 +226,11 @@
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.tensorrt.deps.json",
     "vendor": "Nodos",
     "type": "Subsystem"
+  },
+  {
+    "name": "nos.sys.ai.onnxdeps",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.ai.onnxdeps.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
   }
 ]

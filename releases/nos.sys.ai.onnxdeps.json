@@ -1,34 +1,38 @@
 {
-    "name": "nos.sys.ai.onnxdeps",
-    "releases": [
-        {
-            "version": "2.0.0.b103",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.onnxdeps-2.0.0.b103/nos.sys.ai.onnxdeps-2.0.0.b103.zip",
-            "subsystem_api_version": {
-                "major": 8,
-                "minor": 0,
-                "patch": 0
-            }
-        },
-        {
-            "version": "1.0.0.b64",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.onnxdeps-1.0.0.b64/nos.sys.ai.onnxdeps-1.0.0.b64.zip"
-        },
-        {
-            "version": "1.0.0.b63",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.onnxdeps-1.0.0.b63/nos.sys.ai.onnxdeps-1.0.0.b63.zip"
-        },
-        {
-            "version": "1.0.0.b60",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.onnxdeps-1.0.0.b60/nos.sys.ai.onnxdeps-1.0.0.b60.zip"
-        },
-        {
-            "version": "1.0.0.b57",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.onnxdeps-1.0.0.b57/nos.sys.ai.onnxdeps-1.0.0.b57.zip"
-        },
-        {
-            "version": "1.0.0.b56",
-            "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.onnxdeps-1.0.0.b56/nos.sys.ai.onnxdeps-1.0.0.b56.zip"
-        }
-    ]
+  "name": "nos.sys.ai.onnxdeps",
+  "releases": [
+    {
+      "version": "2.0.0.b1",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai.onnxdeps-2.0.0.b1/nos.sys.ai.onnxdeps-2.0.0.b1.zip"
+    },
+    {
+      "version": "2.0.0.b103",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.onnxdeps-2.0.0.b103/nos.sys.ai.onnxdeps-2.0.0.b103.zip",
+      "subsystem_api_version": {
+        "major": 8,
+        "minor": 0,
+        "patch": 0
+      }
+    },
+    {
+      "version": "1.0.0.b64",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.onnxdeps-1.0.0.b64/nos.sys.ai.onnxdeps-1.0.0.b64.zip"
+    },
+    {
+      "version": "1.0.0.b63",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.onnxdeps-1.0.0.b63/nos.sys.ai.onnxdeps-1.0.0.b63.zip"
+    },
+    {
+      "version": "1.0.0.b60",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.onnxdeps-1.0.0.b60/nos.sys.ai.onnxdeps-1.0.0.b60.zip"
+    },
+    {
+      "version": "1.0.0.b57",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.onnxdeps-1.0.0.b57/nos.sys.ai.onnxdeps-1.0.0.b57.zip"
+    },
+    {
+      "version": "1.0.0.b56",
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.ai.onnxdeps-1.0.0.b56/nos.sys.ai.onnxdeps-1.0.0.b56.zip"
+    }
+  ]
 }
