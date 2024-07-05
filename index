@@ -214,5 +214,11 @@
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.ML.Tokenizer.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.sys.tensorrt.deps",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.tensorrt.deps.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
   }
 ]
