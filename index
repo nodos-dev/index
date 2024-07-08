@@ -214,5 +214,11 @@
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.webrtc.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.ml.ai_nodes",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.ml.ai_nodes.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]

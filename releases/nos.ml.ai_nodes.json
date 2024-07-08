@@ -1,0 +1,14 @@
+{
+  "name": "nos.ml.ai_nodes",
+  "releases": [
+    {
+      "version": "1.0.0.b216",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.ai_nodes-1.0.0.b216/nos.ml.ai_nodes-1.0.0.b216.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 7,
+        "patch": 0
+      }
+    }
+  ]
+}
