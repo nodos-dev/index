@@ -1,0 +1,14 @@
+{
+  "name": "nos.interop",
+  "releases": [
+    {
+      "version": "2.0.0.b216",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.interop-2.0.0.b216/nos.interop-2.0.0.b216.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 7,
+        "patch": 0
+      }
+    }
+  ]
+}

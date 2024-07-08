@@ -214,5 +214,11 @@
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.ai.model_nodes.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.interop",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.interop.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
