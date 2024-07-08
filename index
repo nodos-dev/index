@@ -192,12 +192,6 @@
     "type": "Plugin"
   },
   {
-    "name": "nos.ML.AINodes",
-    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.ML.AINodes.json",
-    "vendor": "Nodos",
-    "type": "Plugin"
-  },
-  {
     "name": "nos.cuda",
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.cuda.json",
     "vendor": "Nodos",
