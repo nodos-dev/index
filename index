@@ -238,5 +238,11 @@
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.ai.models.rt4ksr.json",
     "vendor": "Nodos",
     "type": "Subsystem"
+  },
+  {
+    "name": "nos.mediaio",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.mediaio.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
