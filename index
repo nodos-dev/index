@@ -48,12 +48,6 @@
     "type": "Plugin"
   },
   {
-    "name": "nos.WebRTC",
-    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.WebRTC.json",
-    "vendor": "Nodos",
-    "type": "Plugin"
-  },
-  {
     "name": "nos.Interop",
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.Interop.json",
     "vendor": "Nodos",
