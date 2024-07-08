@@ -2,6 +2,15 @@
   "name": "nos.bluefish",
   "releases": [
     {
+      "version": "1.0.1.b16",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.bluefish-1.0.1.b16/nos.bluefish-1.0.1.b16.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 7,
+        "patch": 0
+      }
+    },
+    {
       "version": "1.0.1.b15",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.bluefish-1.0.1.b15/nos.bluefish-1.0.1.b15.zip",
       "plugin_api_version": {
