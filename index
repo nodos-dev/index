@@ -66,12 +66,6 @@
     "type": "Plugin"
   },
   {
-    "name": "nos.AI.ModelNodes",
-    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.AI.ModelNodes.json",
-    "vendor": "Nodos",
-    "type": "Plugin"
-  },
-  {
     "name": "nos.sys.cuda",
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.cuda.json",
     "vendor": "Nodos",
