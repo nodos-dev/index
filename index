@@ -54,12 +54,6 @@
     "type": "Plugin"
   },
   {
-    "name": "nos.ML.ONNX",
-    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.ML.ONNX.json",
-    "vendor": "Nodos",
-    "type": "Plugin"
-  },
-  {
     "name": "nos.ML.Tensors",
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.ML.Tensors.json",
     "vendor": "Nodos",
