@@ -220,5 +220,11 @@
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.interop.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.ml.onnx",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.ml.onnx.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
