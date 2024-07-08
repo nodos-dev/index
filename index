@@ -208,5 +208,11 @@
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.ml.ai_nodes.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.ai.model_nodes",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.ai.model_nodes.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
