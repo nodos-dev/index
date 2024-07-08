@@ -244,5 +244,11 @@
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.mediaio.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.webrtc",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.webrtc.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
