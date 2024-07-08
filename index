@@ -42,12 +42,6 @@
     "type": "Plugin"
   },
   {
-    "name": "nos.MediaIO",
-    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.MediaIO.json",
-    "vendor": "Nodos",
-    "type": "Plugin"
-  },
-  {
     "name": "nos.aja",
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.aja.json",
     "vendor": "Nodos",
