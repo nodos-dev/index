@@ -232,5 +232,11 @@
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.ml.tensors.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.ml.tokenizer",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.ml.tokenizer.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
