@@ -1,0 +1,14 @@
+{
+  "name": "nos.ml.tensors",
+  "releases": [
+    {
+      "version": "2.0.0.b218",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.tensors-2.0.0.b218/nos.ml.tensors-2.0.0.b218.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 7,
+        "patch": 0
+      }
+    }
+  ]
+}
