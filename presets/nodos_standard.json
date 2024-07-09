@@ -30,8 +30,8 @@
         "type": "PLUGIN"
     },
     {
-        "name": "nos.MediaIO",
-        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.MediaIO.json",
+        "name": "nos.mediaio",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.mediaio.json",
         "vendor": "Nodos",
         "type": "PLUGIN"
     },
@@ -42,8 +42,8 @@
         "type": "PLUGIN"
     },
     {
-        "name": "nos.WebRTC",
-        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.WebRTC.json",
+        "name": "nos.webrtc",
+        "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.webrtc.json",
         "vendor": "Nodos",
         "type": "PLUGIN"
     },
