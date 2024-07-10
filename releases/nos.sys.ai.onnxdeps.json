@@ -1,4 +1,9 @@
 {
   "name": "nos.sys.ai.onnxdeps",
-  "releases": []
+  "releases": [
+    {
+      "version": "2.0.0.b2",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai.onnxdeps-2.0.0.b2/nos.sys.ai.onnxdeps-2.0.0.b2.zip"
+    }
+  ]
 }
