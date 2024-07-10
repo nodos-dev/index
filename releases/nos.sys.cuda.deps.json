@@ -2,6 +2,10 @@
   "name": "nos.sys.cuda.deps",
   "releases": [
     {
+      "version": "2.0.0.b3",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.cuda.deps-2.0.0.b3/nos.sys.cuda.deps-2.0.0.b3.zip"
+    },
+    {
       "version": "2.0.0.b2",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.cuda.deps-2.0.0.b2/nos.sys.cuda.deps-2.0.0.b2.zip"
     }
