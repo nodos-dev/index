@@ -238,5 +238,11 @@
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.ml.tokenizer.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.sys.ai.models.depth_anything_v2",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.ai.models.depth_anything_v2.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
   }
 ]
