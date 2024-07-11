@@ -2,6 +2,15 @@
   "name": "nos.mediaio",
   "releases": [
     {
+      "version": "1.2.0.b513",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.mediaio-1.2.0.b513/nos.mediaio-1.2.0.b513.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 7,
+        "patch": 0
+      }
+    },
+    {
       "version": "1.2.0.b505",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.mediaio-1.2.0.b505/nos.mediaio-1.2.0.b505.zip",
       "plugin_api_version": {
