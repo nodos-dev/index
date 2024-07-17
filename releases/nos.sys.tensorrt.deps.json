@@ -2,6 +2,10 @@
   "name": "nos.sys.tensorrt.deps",
   "releases": [
     {
+      "version": "1.0.0.b5",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.tensorrt.deps-1.0.0.b5/nos.sys.tensorrt.deps-1.0.0.b5.zip"
+    },
+    {
       "version": "1.0.0.b4",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.tensorrt.deps-1.0.0.b4/nos.sys.tensorrt.deps-1.0.0.b4.zip"
     },
