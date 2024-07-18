@@ -250,5 +250,11 @@
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.ai.models.rmbg.json",
     "vendor": "Nodos",
     "type": "Subsystem"
+  },
+  {
+    "name": "nos.py",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.py.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
   }
 ]

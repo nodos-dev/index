@@ -1,0 +1,14 @@
+{
+  "name": "nos.py",
+  "releases": [
+    {
+      "version": "0.1.0.b525",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.py-0.1.0.b525/nos.py-0.1.0.b525.zip",
+      "subsystem_api_version": {
+        "major": 9,
+        "minor": 11,
+        "patch": 0
+      }
+    }
+  ]
+}
