@@ -2,6 +2,15 @@
   "name": "nos.ai.model_nodes",
   "releases": [
     {
+      "version": "2.0.0.b229",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ai.model_nodes-2.0.0.b229/nos.ai.model_nodes-2.0.0.b229.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 10,
+        "patch": 0
+      }
+    },
+    {
       "version": "2.0.0.b228",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ai.model_nodes-2.0.0.b228/nos.ai.model_nodes-2.0.0.b228.zip",
       "plugin_api_version": {
