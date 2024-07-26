@@ -2,6 +2,15 @@
   "name": "nos.ml.onnx",
   "releases": [
     {
+      "version": "2.0.0.b233",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.onnx-2.0.0.b233/nos.ml.onnx-2.0.0.b233.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 11,
+        "patch": 0
+      }
+    },
+    {
       "version": "2.0.0.b229",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.onnx-2.0.0.b229/nos.ml.onnx-2.0.0.b229.zip",
       "plugin_api_version": {
