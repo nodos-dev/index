@@ -2,6 +2,15 @@
   "name": "nos.sys.vulkan",
   "releases": [
     {
+      "version": "5.7.2.b470",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.vulkan-5.7.2.b470/nos.sys.vulkan-5.7.2.b470.zip",
+      "subsystem_api_version": {
+        "major": 9,
+        "minor": 12,
+        "patch": 0
+      }
+    },
+    {
       "version": "5.7.1.b469",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.vulkan-5.7.1.b469/nos.sys.vulkan-5.7.1.b469.zip",
       "subsystem_api_version": {
