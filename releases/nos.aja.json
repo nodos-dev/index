@@ -2,6 +2,15 @@
   "name": "nos.aja",
   "releases": [
     {
+      "version": "2.0.1.b540",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-2.0.1.b540/nos.aja-2.0.1.b540.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 11,
+        "patch": 0
+      }
+    },
+    {
       "version": "2.0.1.b539",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-2.0.1.b539/nos.aja-2.0.1.b539.zip",
       "plugin_api_version": {
