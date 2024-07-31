@@ -2,6 +2,22 @@
   "name": "nos.ml.tensors",
   "releases": [
     {
+      "version": "2.1.0.b235",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.tensors-2.1.0.b235/nos.ml.tensors-2.1.0.b235.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 12,
+        "patch": 0
+      },
+      "release_date": "2024-07-31T15:27:57.587958200+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.tensor",
+          "version": "2.0.0"
+        }
+      ]
+    },
+    {
       "version": "2.1.0.b234",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.tensors-2.1.0.b234/nos.ml.tensors-2.1.0.b234.zip",
       "plugin_api_version": {
