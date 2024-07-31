@@ -2,6 +2,17 @@
   "name": "nos.math",
   "releases": [
     {
+      "version": "1.1.0.b546",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.1.0.b546/nos.math-1.1.0.b546.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 12,
+        "patch": 0
+      },
+      "release_date": "2024-07-31T15:04:28.690872500+00:00",
+      "category": "Mathematics"
+    },
+    {
       "version": "1.1.0.b545",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.1.0.b545/nos.math-1.1.0.b545.zip",
       "plugin_api_version": {
