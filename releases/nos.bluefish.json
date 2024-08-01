@@ -2,6 +2,31 @@
   "name": "nos.bluefish",
   "releases": [
     {
+      "version": "1.0.1.b18",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.bluefish-1.0.1.b18/nos.bluefish-1.0.1.b18.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 12,
+        "patch": 0
+      },
+      "release_date": "2024-08-01T09:29:57.312062600+00:00",
+      "dependencies": [
+        {
+          "name": "nos.utilities",
+          "version": "2.0.0"
+        },
+        {
+          "name": "nos.mediaio",
+          "version": "1.1.0"
+        },
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.0.0"
+        }
+      ],
+      "category": "Media I/O"
+    },
+    {
       "version": "1.0.1.b17",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.bluefish-1.0.1.b17/nos.bluefish-1.0.1.b17.zip",
       "plugin_api_version": {
