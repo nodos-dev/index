@@ -262,5 +262,11 @@
     "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nos.sys.ai.models.style_transfer_v1.json",
     "vendor": "Nodos",
     "type": "Subsystem"
+  },
+  {
+    "name": "nodos.bundle.standard",
+    "url": "https://raw.githubusercontent.com/mediaz/nodos-index/main/releases/nodos.bundle.standard.json",
+    "vendor": "Nodos",
+    "type": "Nodos"
   }
 ]
