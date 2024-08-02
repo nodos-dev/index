@@ -2,6 +2,22 @@
   "name": "nos.sys.cuda",
   "releases": [
     {
+      "version": "2.0.0.b240",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.cuda-2.0.0.b240/nos.sys.cuda-2.0.0.b240.zip",
+      "subsystem_api_version": {
+        "major": 9,
+        "minor": 13,
+        "patch": 0
+      },
+      "release_date": "2024-08-02T15:02:20.437585200+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.cuda.deps",
+          "version": "2.0.0"
+        }
+      ]
+    },
+    {
       "version": "2.0.0.b227",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.cuda-2.0.0.b227/nos.sys.cuda-2.0.0.b227.zip",
       "subsystem_api_version": {
