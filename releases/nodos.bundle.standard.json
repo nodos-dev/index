@@ -2,6 +2,11 @@
   "name": "nodos.bundle.standard",
   "releases": [
     {
+      "version": "1.2.0.b3320",
+      "url": "https://github.com/mediaz/nodos-index/releases/download/nodos.bundle.standard-1.2.0.b3320/Nodos-1.2.0.b3320-bundle-standard.zip",
+      "release_date": "2024-08-06T09:21:57.060235600+00:00"
+    },
+    {
       "version": "1.2.0.b3315",
       "url": "https://github.com/mediaz/nodos-index/releases/download/nodos.bundle.standard-1.2.0.b3315/Nodos-1.2.0.b3315-bundle-standard.zip",
       "release_date": "2024-08-05T09:56:29.370365800+00:00"
