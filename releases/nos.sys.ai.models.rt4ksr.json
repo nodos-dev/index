@@ -3,11 +3,11 @@
   "releases": [
     {
       "version": "1.0.0.b2",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai.models.rt4ksr-1.0.0.b2/nos.sys.ai.models.rt4ksr-1.0.0.b2.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.rt4ksr-1.0.0.b2/nos.sys.ai.models.rt4ksr-1.0.0.b2.zip"
     },
     {
       "version": "1.0.0.b1",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai.models.rt4ksr-1.0.0.b1/nos.sys.ai.models.rt4ksr-1.0.0.b1.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.rt4ksr-1.0.0.b1/nos.sys.ai.models.rt4ksr-1.0.0.b1.zip"
     }
   ]
 }

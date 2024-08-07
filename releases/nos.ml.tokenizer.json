@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "1.0.0.b227",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.tokenizer-1.0.0.b227/nos.ml.tokenizer-1.0.0.b227.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.tokenizer-1.0.0.b227/nos.ml.tokenizer-1.0.0.b227.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -12,7 +12,7 @@
     },
     {
       "version": "1.0.0.b218",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.tokenizer-1.0.0.b218/nos.ml.tokenizer-1.0.0.b218.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.tokenizer-1.0.0.b218/nos.ml.tokenizer-1.0.0.b218.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,

@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "1.1.0.b548",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.1.0.b548/nos.math-1.1.0.b548.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.1.0.b548/nos.math-1.1.0.b548.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -14,7 +14,7 @@
     },
     {
       "version": "1.1.0.b547",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.1.0.b547/nos.math-1.1.0.b547.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.1.0.b547/nos.math-1.1.0.b547.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -25,7 +25,7 @@
     },
     {
       "version": "1.1.0.b546",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.1.0.b546/nos.math-1.1.0.b546.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.1.0.b546/nos.math-1.1.0.b546.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -36,7 +36,7 @@
     },
     {
       "version": "1.1.0.b545",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.1.0.b545/nos.math-1.1.0.b545.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.1.0.b545/nos.math-1.1.0.b545.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -47,7 +47,7 @@
     },
     {
       "version": "1.1.0.b541",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.1.0.b541/nos.math-1.1.0.b541.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.1.0.b541/nos.math-1.1.0.b541.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -56,7 +56,7 @@
     },
     {
       "version": "1.1.0.b535",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.1.0.b535/nos.math-1.1.0.b535.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.1.0.b535/nos.math-1.1.0.b535.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -65,7 +65,7 @@
     },
     {
       "version": "1.1.0.b534",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.1.0.b534/nos.math-1.1.0.b534.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.1.0.b534/nos.math-1.1.0.b534.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -74,7 +74,7 @@
     },
     {
       "version": "1.1.0.b533",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.1.0.b533/nos.math-1.1.0.b533.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.1.0.b533/nos.math-1.1.0.b533.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -83,7 +83,7 @@
     },
     {
       "version": "1.1.0.b532",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.1.0.b532/nos.math-1.1.0.b532.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.1.0.b532/nos.math-1.1.0.b532.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -92,7 +92,7 @@
     },
     {
       "version": "1.1.0.b531",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.1.0.b531/nos.math-1.1.0.b531.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.1.0.b531/nos.math-1.1.0.b531.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -101,7 +101,7 @@
     },
     {
       "version": "1.0.0.b496",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.0.0.b496/nos.math-1.0.0.b496.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.0.0.b496/nos.math-1.0.0.b496.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -110,7 +110,7 @@
     },
     {
       "version": "1.0.0.b471",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.0.0.b471/nos.math-1.0.0.b471.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.0.0.b471/nos.math-1.0.0.b471.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -119,7 +119,7 @@
     },
     {
       "version": "1.0.0.b464",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.0.0.b464/nos.math-1.0.0.b464.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.0.0.b464/nos.math-1.0.0.b464.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -128,7 +128,7 @@
     },
     {
       "version": "1.0.0.b451",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.0.0.b451/nos.math-1.0.0.b451.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.0.0.b451/nos.math-1.0.0.b451.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -137,7 +137,7 @@
     },
     {
       "version": "1.0.0.b450",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.0.0.b450/nos.math-1.0.0.b450.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.0.0.b450/nos.math-1.0.0.b450.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -146,7 +146,7 @@
     },
     {
       "version": "1.0.0.b449",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.0.0.b449/nos.math-1.0.0.b449.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.0.0.b449/nos.math-1.0.0.b449.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -155,7 +155,7 @@
     },
     {
       "version": "1.0.0.b447",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.0.0.b447/nos.math-1.0.0.b447.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.0.0.b447/nos.math-1.0.0.b447.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -164,7 +164,7 @@
     },
     {
       "version": "1.0.0.b443",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.0.0.b443/nos.math-1.0.0.b443.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.0.0.b443/nos.math-1.0.0.b443.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -173,7 +173,7 @@
     },
     {
       "version": "1.0.0.b426",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.math-1.0.0.b426/nos.math-1.0.0.b426.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.0.0.b426/nos.math-1.0.0.b426.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,

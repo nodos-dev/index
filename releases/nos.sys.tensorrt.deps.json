@@ -3,15 +3,15 @@
   "releases": [
     {
       "version": "1.0.0.b5",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.tensorrt.deps-1.0.0.b5/nos.sys.tensorrt.deps-1.0.0.b5.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.tensorrt.deps-1.0.0.b5/nos.sys.tensorrt.deps-1.0.0.b5.zip"
     },
     {
       "version": "1.0.0.b4",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.tensorrt.deps-1.0.0.b4/nos.sys.tensorrt.deps-1.0.0.b4.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.tensorrt.deps-1.0.0.b4/nos.sys.tensorrt.deps-1.0.0.b4.zip"
     },
     {
       "version": "1.0.0.b3",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.tensorrt.deps-1.0.0.b3/nos.sys.tensorrt.deps-1.0.0.b3.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.tensorrt.deps-1.0.0.b3/nos.sys.tensorrt.deps-1.0.0.b3.zip"
     }
   ]
 }

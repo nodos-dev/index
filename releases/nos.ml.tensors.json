@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "2.2.0.b241",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.tensors-2.2.0.b241/nos.ml.tensors-2.2.0.b241.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.tensors-2.2.0.b241/nos.ml.tensors-2.2.0.b241.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -19,7 +19,7 @@
     },
     {
       "version": "2.2.0.b240",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.tensors-2.2.0.b240/nos.ml.tensors-2.2.0.b240.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.tensors-2.2.0.b240/nos.ml.tensors-2.2.0.b240.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -35,7 +35,7 @@
     },
     {
       "version": "2.1.0.b239",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.tensors-2.1.0.b239/nos.ml.tensors-2.1.0.b239.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.tensors-2.1.0.b239/nos.ml.tensors-2.1.0.b239.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -51,7 +51,7 @@
     },
     {
       "version": "2.1.0.b238",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.tensors-2.1.0.b238/nos.ml.tensors-2.1.0.b238.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.tensors-2.1.0.b238/nos.ml.tensors-2.1.0.b238.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -67,7 +67,7 @@
     },
     {
       "version": "2.1.0.b235",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.tensors-2.1.0.b235/nos.ml.tensors-2.1.0.b235.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.tensors-2.1.0.b235/nos.ml.tensors-2.1.0.b235.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -83,7 +83,7 @@
     },
     {
       "version": "2.1.0.b234",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.tensors-2.1.0.b234/nos.ml.tensors-2.1.0.b234.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.tensors-2.1.0.b234/nos.ml.tensors-2.1.0.b234.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -92,7 +92,7 @@
     },
     {
       "version": "2.0.0.b233",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.tensors-2.0.0.b233/nos.ml.tensors-2.0.0.b233.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.tensors-2.0.0.b233/nos.ml.tensors-2.0.0.b233.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -101,7 +101,7 @@
     },
     {
       "version": "2.0.0.b227",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.tensors-2.0.0.b227/nos.ml.tensors-2.0.0.b227.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.tensors-2.0.0.b227/nos.ml.tensors-2.0.0.b227.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -110,7 +110,7 @@
     },
     {
       "version": "2.0.0.b218",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ml.tensors-2.0.0.b218/nos.ml.tensors-2.0.0.b218.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.tensors-2.0.0.b218/nos.ml.tensors-2.0.0.b218.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,

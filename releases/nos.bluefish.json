@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "1.0.1.b18",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.bluefish-1.0.1.b18/nos.bluefish-1.0.1.b18.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.bluefish-1.0.1.b18/nos.bluefish-1.0.1.b18.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -28,7 +28,7 @@
     },
     {
       "version": "1.0.1.b17",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.bluefish-1.0.1.b17/nos.bluefish-1.0.1.b17.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.bluefish-1.0.1.b17/nos.bluefish-1.0.1.b17.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -37,7 +37,7 @@
     },
     {
       "version": "1.0.1.b16",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.bluefish-1.0.1.b16/nos.bluefish-1.0.1.b16.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.bluefish-1.0.1.b16/nos.bluefish-1.0.1.b16.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -46,7 +46,7 @@
     },
     {
       "version": "1.0.1.b15",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.bluefish-1.0.1.b15/nos.bluefish-1.0.1.b15.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.bluefish-1.0.1.b15/nos.bluefish-1.0.1.b15.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,

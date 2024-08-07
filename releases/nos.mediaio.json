@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "1.3.0.b549",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.mediaio-1.3.0.b549/nos.mediaio-1.3.0.b549.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-1.3.0.b549/nos.mediaio-1.3.0.b549.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -20,7 +20,7 @@
     },
     {
       "version": "1.3.0.b545",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.mediaio-1.3.0.b545/nos.mediaio-1.3.0.b545.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-1.3.0.b545/nos.mediaio-1.3.0.b545.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -37,7 +37,7 @@
     },
     {
       "version": "1.3.0.b541",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.mediaio-1.3.0.b541/nos.mediaio-1.3.0.b541.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-1.3.0.b541/nos.mediaio-1.3.0.b541.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -46,7 +46,7 @@
     },
     {
       "version": "1.3.0.b537",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.mediaio-1.3.0.b537/nos.mediaio-1.3.0.b537.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-1.3.0.b537/nos.mediaio-1.3.0.b537.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -55,7 +55,7 @@
     },
     {
       "version": "1.2.0.b524",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.mediaio-1.2.0.b524/nos.mediaio-1.2.0.b524.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-1.2.0.b524/nos.mediaio-1.2.0.b524.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -64,7 +64,7 @@
     },
     {
       "version": "1.2.0.b513",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.mediaio-1.2.0.b513/nos.mediaio-1.2.0.b513.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-1.2.0.b513/nos.mediaio-1.2.0.b513.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -73,7 +73,7 @@
     },
     {
       "version": "1.2.0.b505",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.mediaio-1.2.0.b505/nos.mediaio-1.2.0.b505.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-1.2.0.b505/nos.mediaio-1.2.0.b505.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -82,7 +82,7 @@
     },
     {
       "version": "1.2.0.b502",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.mediaio-1.2.0.b502/nos.mediaio-1.2.0.b502.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-1.2.0.b502/nos.mediaio-1.2.0.b502.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -91,7 +91,7 @@
     },
     {
       "version": "1.2.0.b496",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.mediaio-1.2.0.b496/nos.mediaio-1.2.0.b496.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-1.2.0.b496/nos.mediaio-1.2.0.b496.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,

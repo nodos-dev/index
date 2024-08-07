@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "3.0.0.b227",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai-3.0.0.b227/nos.sys.ai-3.0.0.b227.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai-3.0.0.b227/nos.sys.ai-3.0.0.b227.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 11,
@@ -12,7 +12,7 @@
     },
     {
       "version": "3.0.0.b223",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai-3.0.0.b223/nos.sys.ai-3.0.0.b223.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai-3.0.0.b223/nos.sys.ai-3.0.0.b223.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 11,
@@ -21,7 +21,7 @@
     },
     {
       "version": "3.0.0.b222",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai-3.0.0.b222/nos.sys.ai-3.0.0.b222.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai-3.0.0.b222/nos.sys.ai-3.0.0.b222.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 9,
@@ -30,7 +30,7 @@
     },
     {
       "version": "3.0.0.b221",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai-3.0.0.b221/nos.sys.ai-3.0.0.b221.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai-3.0.0.b221/nos.sys.ai-3.0.0.b221.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 9,
@@ -39,7 +39,7 @@
     },
     {
       "version": "3.0.0.b207",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai-3.0.0.b207/nos.sys.ai-3.0.0.b207.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai-3.0.0.b207/nos.sys.ai-3.0.0.b207.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 7,
@@ -48,7 +48,7 @@
     },
     {
       "version": "3.0.0.b206",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai-3.0.0.b206/nos.sys.ai-3.0.0.b206.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai-3.0.0.b206/nos.sys.ai-3.0.0.b206.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 6,
@@ -57,7 +57,7 @@
     },
     {
       "version": "3.0.0.b205",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai-3.0.0.b205/nos.sys.ai-3.0.0.b205.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai-3.0.0.b205/nos.sys.ai-3.0.0.b205.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 6,
@@ -66,7 +66,7 @@
     },
     {
       "version": "3.0.0.b204",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai-3.0.0.b204/nos.sys.ai-3.0.0.b204.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai-3.0.0.b204/nos.sys.ai-3.0.0.b204.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 6,
@@ -75,7 +75,7 @@
     },
     {
       "version": "3.0.0.b198",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai-3.0.0.b198/nos.sys.ai-3.0.0.b198.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai-3.0.0.b198/nos.sys.ai-3.0.0.b198.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 6,
@@ -84,7 +84,7 @@
     },
     {
       "version": "3.0.0.b197",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai-3.0.0.b197/nos.sys.ai-3.0.0.b197.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai-3.0.0.b197/nos.sys.ai-3.0.0.b197.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 6,
@@ -93,7 +93,7 @@
     },
     {
       "version": "3.0.0.b196",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai-3.0.0.b196/nos.sys.ai-3.0.0.b196.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai-3.0.0.b196/nos.sys.ai-3.0.0.b196.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 6,
@@ -102,7 +102,7 @@
     },
     {
       "version": "3.0.0.b195",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai-3.0.0.b195/nos.sys.ai-3.0.0.b195.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai-3.0.0.b195/nos.sys.ai-3.0.0.b195.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 6,
@@ -111,7 +111,7 @@
     },
     {
       "version": "3.0.0.b194",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai-3.0.0.b194/nos.sys.ai-3.0.0.b194.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai-3.0.0.b194/nos.sys.ai-3.0.0.b194.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 6,
@@ -120,7 +120,7 @@
     },
     {
       "version": "3.0.0.b189",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai-3.0.0.b189/nos.sys.ai-3.0.0.b189.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai-3.0.0.b189/nos.sys.ai-3.0.0.b189.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 6,

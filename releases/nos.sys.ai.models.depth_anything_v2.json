@@ -3,11 +3,11 @@
   "releases": [
     {
       "version": "1.0.0.b6",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai.models.depth_anything_v2-1.0.0.b6/nos.sys.ai.models.depth_anything_v2-1.0.0.b6.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.depth_anything_v2-1.0.0.b6/nos.sys.ai.models.depth_anything_v2-1.0.0.b6.zip"
     },
     {
       "version": "1.0.0.b5",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai.models.depth_anything_v2-1.0.0.b5/nos.sys.ai.models.depth_anything_v2-1.0.0.b5.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.depth_anything_v2-1.0.0.b5/nos.sys.ai.models.depth_anything_v2-1.0.0.b5.zip"
     }
   ]
 }

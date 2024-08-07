@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "0.1.0.b545",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.noise-0.1.0.b545/nos.noise-0.1.0.b545.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.noise-0.1.0.b545/nos.noise-0.1.0.b545.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -20,7 +20,7 @@
     },
     {
       "version": "0.1.0.b541",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.noise-0.1.0.b541/nos.noise-0.1.0.b541.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.noise-0.1.0.b541/nos.noise-0.1.0.b541.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -29,7 +29,7 @@
     },
     {
       "version": "0.1.0.b496",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.noise-0.1.0.b496/nos.noise-0.1.0.b496.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.noise-0.1.0.b496/nos.noise-0.1.0.b496.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -38,7 +38,7 @@
     },
     {
       "version": "0.1.0.b481",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.noise-0.1.0.b481/nos.noise-0.1.0.b481.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.noise-0.1.0.b481/nos.noise-0.1.0.b481.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,

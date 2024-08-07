@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "1.0.0.b545",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webrtc-1.0.0.b545/nos.webrtc-1.0.0.b545.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webrtc-1.0.0.b545/nos.webrtc-1.0.0.b545.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -23,7 +23,7 @@
     },
     {
       "version": "1.0.0.b541",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webrtc-1.0.0.b541/nos.webrtc-1.0.0.b541.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webrtc-1.0.0.b541/nos.webrtc-1.0.0.b541.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -32,7 +32,7 @@
     },
     {
       "version": "1.0.0.b507",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webrtc-1.0.0.b507/nos.webrtc-1.0.0.b507.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webrtc-1.0.0.b507/nos.webrtc-1.0.0.b507.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -41,7 +41,7 @@
     },
     {
       "version": "1.0.0.b504",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webrtc-1.0.0.b504/nos.webrtc-1.0.0.b504.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webrtc-1.0.0.b504/nos.webrtc-1.0.0.b504.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -50,7 +50,7 @@
     },
     {
       "version": "1.0.0.b503",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webrtc-1.0.0.b503/nos.webrtc-1.0.0.b503.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webrtc-1.0.0.b503/nos.webrtc-1.0.0.b503.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -59,7 +59,7 @@
     },
     {
       "version": "1.0.0.b496",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webrtc-1.0.0.b496/nos.webrtc-1.0.0.b496.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webrtc-1.0.0.b496/nos.webrtc-1.0.0.b496.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,

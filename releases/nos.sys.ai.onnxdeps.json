@@ -3,11 +3,11 @@
   "releases": [
     {
       "version": "2.0.0.b227",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai.onnxdeps-2.0.0.b227/nos.sys.ai.onnxdeps-2.0.0.b227.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.onnxdeps-2.0.0.b227/nos.sys.ai.onnxdeps-2.0.0.b227.zip"
     },
     {
       "version": "2.0.0.b2",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.ai.onnxdeps-2.0.0.b2/nos.sys.ai.onnxdeps-2.0.0.b2.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.onnxdeps-2.0.0.b2/nos.sys.ai.onnxdeps-2.0.0.b2.zip"
     }
   ]
 }

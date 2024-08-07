@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "2.0.2.b551",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-2.0.2.b551/nos.aja-2.0.2.b551.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.0.2.b551/nos.aja-2.0.2.b551.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -28,7 +28,7 @@
     },
     {
       "version": "2.0.2.b550",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-2.0.2.b550/nos.aja-2.0.2.b550.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.0.2.b550/nos.aja-2.0.2.b550.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -53,7 +53,7 @@
     },
     {
       "version": "2.0.2.b549",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-2.0.2.b549/nos.aja-2.0.2.b549.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.0.2.b549/nos.aja-2.0.2.b549.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -78,7 +78,7 @@
     },
     {
       "version": "2.0.1.b545",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-2.0.1.b545/nos.aja-2.0.1.b545.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.0.1.b545/nos.aja-2.0.1.b545.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -103,7 +103,7 @@
     },
     {
       "version": "2.0.1.b544",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-2.0.1.b544/nos.aja-2.0.1.b544.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.0.1.b544/nos.aja-2.0.1.b544.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -112,7 +112,7 @@
     },
     {
       "version": "2.0.1.b541",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-2.0.1.b541/nos.aja-2.0.1.b541.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.0.1.b541/nos.aja-2.0.1.b541.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -121,7 +121,7 @@
     },
     {
       "version": "2.0.1.b540",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-2.0.1.b540/nos.aja-2.0.1.b540.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.0.1.b540/nos.aja-2.0.1.b540.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -130,7 +130,7 @@
     },
     {
       "version": "2.0.1.b539",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-2.0.1.b539/nos.aja-2.0.1.b539.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.0.1.b539/nos.aja-2.0.1.b539.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -139,7 +139,7 @@
     },
     {
       "version": "2.0.1.b538",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-2.0.1.b538/nos.aja-2.0.1.b538.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.0.1.b538/nos.aja-2.0.1.b538.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -148,7 +148,7 @@
     },
     {
       "version": "2.0.0.b530",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-2.0.0.b530/nos.aja-2.0.0.b530.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.0.0.b530/nos.aja-2.0.0.b530.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -157,7 +157,7 @@
     },
     {
       "version": "2.0.0.b527",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-2.0.0.b527/nos.aja-2.0.0.b527.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.0.0.b527/nos.aja-2.0.0.b527.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -166,7 +166,7 @@
     },
     {
       "version": "2.0.0.b524",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-2.0.0.b524/nos.aja-2.0.0.b524.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.0.0.b524/nos.aja-2.0.0.b524.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -175,7 +175,7 @@
     },
     {
       "version": "2.0.0.b523",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-2.0.0.b523/nos.aja-2.0.0.b523.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.0.0.b523/nos.aja-2.0.0.b523.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -184,7 +184,7 @@
     },
     {
       "version": "1.2.0.b522",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b522/nos.aja-1.2.0.b522.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b522/nos.aja-1.2.0.b522.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -193,7 +193,7 @@
     },
     {
       "version": "1.2.0.b520",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b520/nos.aja-1.2.0.b520.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b520/nos.aja-1.2.0.b520.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -202,7 +202,7 @@
     },
     {
       "version": "1.2.0.b519",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b519/nos.aja-1.2.0.b519.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b519/nos.aja-1.2.0.b519.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -211,7 +211,7 @@
     },
     {
       "version": "1.2.0.b518",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b518/nos.aja-1.2.0.b518.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b518/nos.aja-1.2.0.b518.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 8,
@@ -220,7 +220,7 @@
     },
     {
       "version": "1.2.0.b517",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b517/nos.aja-1.2.0.b517.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b517/nos.aja-1.2.0.b517.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 8,
@@ -229,7 +229,7 @@
     },
     {
       "version": "1.2.0.b510",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b510/nos.aja-1.2.0.b510.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b510/nos.aja-1.2.0.b510.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -238,7 +238,7 @@
     },
     {
       "version": "1.2.0.b509",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b509/nos.aja-1.2.0.b509.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b509/nos.aja-1.2.0.b509.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -247,7 +247,7 @@
     },
     {
       "version": "1.2.0.b508",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b508/nos.aja-1.2.0.b508.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b508/nos.aja-1.2.0.b508.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -256,7 +256,7 @@
     },
     {
       "version": "1.2.0.b506",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b506/nos.aja-1.2.0.b506.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b506/nos.aja-1.2.0.b506.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -265,7 +265,7 @@
     },
     {
       "version": "1.2.0.b501",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b501/nos.aja-1.2.0.b501.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b501/nos.aja-1.2.0.b501.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -274,7 +274,7 @@
     },
     {
       "version": "1.2.0.b500",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b500/nos.aja-1.2.0.b500.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b500/nos.aja-1.2.0.b500.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -283,7 +283,7 @@
     },
     {
       "version": "1.2.0.b499",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b499/nos.aja-1.2.0.b499.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b499/nos.aja-1.2.0.b499.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -292,7 +292,7 @@
     },
     {
       "version": "1.2.0.b498",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b498/nos.aja-1.2.0.b498.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b498/nos.aja-1.2.0.b498.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -301,7 +301,7 @@
     },
     {
       "version": "1.2.0.b497",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b497/nos.aja-1.2.0.b497.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b497/nos.aja-1.2.0.b497.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -310,7 +310,7 @@
     },
     {
       "version": "1.2.0.b496",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b496/nos.aja-1.2.0.b496.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b496/nos.aja-1.2.0.b496.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -319,7 +319,7 @@
     },
     {
       "version": "1.2.0.b495",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b495/nos.aja-1.2.0.b495.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b495/nos.aja-1.2.0.b495.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -328,7 +328,7 @@
     },
     {
       "version": "1.2.0.b479",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b479/nos.aja-1.2.0.b479.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b479/nos.aja-1.2.0.b479.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -337,7 +337,7 @@
     },
     {
       "version": "1.2.0.b478",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b478/nos.aja-1.2.0.b478.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b478/nos.aja-1.2.0.b478.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -346,7 +346,7 @@
     },
     {
       "version": "1.2.0.b475",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b475/nos.aja-1.2.0.b475.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b475/nos.aja-1.2.0.b475.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -355,7 +355,7 @@
     },
     {
       "version": "1.2.0.b471",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b471/nos.aja-1.2.0.b471.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b471/nos.aja-1.2.0.b471.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -364,7 +364,7 @@
     },
     {
       "version": "1.2.0.b464",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b464/nos.aja-1.2.0.b464.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b464/nos.aja-1.2.0.b464.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -373,7 +373,7 @@
     },
     {
       "version": "1.2.0.b451",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b451/nos.aja-1.2.0.b451.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b451/nos.aja-1.2.0.b451.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -382,7 +382,7 @@
     },
     {
       "version": "1.2.0.b450",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b450/nos.aja-1.2.0.b450.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b450/nos.aja-1.2.0.b450.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -391,7 +391,7 @@
     },
     {
       "version": "1.2.0.b449",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b449/nos.aja-1.2.0.b449.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b449/nos.aja-1.2.0.b449.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -400,7 +400,7 @@
     },
     {
       "version": "1.2.0.b447",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b447/nos.aja-1.2.0.b447.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b447/nos.aja-1.2.0.b447.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -409,7 +409,7 @@
     },
     {
       "version": "1.2.0.b443",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b443/nos.aja-1.2.0.b443.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b443/nos.aja-1.2.0.b443.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -418,7 +418,7 @@
     },
     {
       "version": "1.2.0.b426",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.aja-1.2.0.b426/nos.aja-1.2.0.b426.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-1.2.0.b426/nos.aja-1.2.0.b426.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,

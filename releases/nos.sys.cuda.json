@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "2.0.0.b240",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.cuda-2.0.0.b240/nos.sys.cuda-2.0.0.b240.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.cuda-2.0.0.b240/nos.sys.cuda-2.0.0.b240.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 13,
@@ -19,7 +19,7 @@
     },
     {
       "version": "2.0.0.b227",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.cuda-2.0.0.b227/nos.sys.cuda-2.0.0.b227.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.cuda-2.0.0.b227/nos.sys.cuda-2.0.0.b227.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 11,
@@ -28,7 +28,7 @@
     },
     {
       "version": "2.0.0.b218",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.cuda-2.0.0.b218/nos.sys.cuda-2.0.0.b218.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.cuda-2.0.0.b218/nos.sys.cuda-2.0.0.b218.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 8,
@@ -37,7 +37,7 @@
     },
     {
       "version": "2.0.0.b216",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.cuda-2.0.0.b216/nos.sys.cuda-2.0.0.b216.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.cuda-2.0.0.b216/nos.sys.cuda-2.0.0.b216.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 8,
@@ -46,7 +46,7 @@
     },
     {
       "version": "2.0.0.b206",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.cuda-2.0.0.b206/nos.sys.cuda-2.0.0.b206.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.cuda-2.0.0.b206/nos.sys.cuda-2.0.0.b206.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 6,
@@ -55,7 +55,7 @@
     },
     {
       "version": "2.0.0.b205",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.cuda-2.0.0.b205/nos.sys.cuda-2.0.0.b205.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.cuda-2.0.0.b205/nos.sys.cuda-2.0.0.b205.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 6,

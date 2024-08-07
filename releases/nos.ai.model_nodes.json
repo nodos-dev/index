@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "2.0.0.b240",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ai.model_nodes-2.0.0.b240/nos.ai.model_nodes-2.0.0.b240.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ai.model_nodes-2.0.0.b240/nos.ai.model_nodes-2.0.0.b240.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -59,7 +59,7 @@
     },
     {
       "version": "2.0.0.b234",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ai.model_nodes-2.0.0.b234/nos.ai.model_nodes-2.0.0.b234.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ai.model_nodes-2.0.0.b234/nos.ai.model_nodes-2.0.0.b234.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -68,7 +68,7 @@
     },
     {
       "version": "2.0.0.b233",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ai.model_nodes-2.0.0.b233/nos.ai.model_nodes-2.0.0.b233.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ai.model_nodes-2.0.0.b233/nos.ai.model_nodes-2.0.0.b233.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -77,7 +77,7 @@
     },
     {
       "version": "2.0.0.b232",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ai.model_nodes-2.0.0.b232/nos.ai.model_nodes-2.0.0.b232.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ai.model_nodes-2.0.0.b232/nos.ai.model_nodes-2.0.0.b232.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -86,7 +86,7 @@
     },
     {
       "version": "2.0.0.b229",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ai.model_nodes-2.0.0.b229/nos.ai.model_nodes-2.0.0.b229.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ai.model_nodes-2.0.0.b229/nos.ai.model_nodes-2.0.0.b229.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -95,7 +95,7 @@
     },
     {
       "version": "2.0.0.b228",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ai.model_nodes-2.0.0.b228/nos.ai.model_nodes-2.0.0.b228.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ai.model_nodes-2.0.0.b228/nos.ai.model_nodes-2.0.0.b228.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -104,7 +104,7 @@
     },
     {
       "version": "2.0.0.b227",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ai.model_nodes-2.0.0.b227/nos.ai.model_nodes-2.0.0.b227.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ai.model_nodes-2.0.0.b227/nos.ai.model_nodes-2.0.0.b227.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -113,7 +113,7 @@
     },
     {
       "version": "2.0.0.b220",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ai.model_nodes-2.0.0.b220/nos.ai.model_nodes-2.0.0.b220.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ai.model_nodes-2.0.0.b220/nos.ai.model_nodes-2.0.0.b220.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -122,7 +122,7 @@
     },
     {
       "version": "2.0.0.b218",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ai.model_nodes-2.0.0.b218/nos.ai.model_nodes-2.0.0.b218.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ai.model_nodes-2.0.0.b218/nos.ai.model_nodes-2.0.0.b218.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -131,7 +131,7 @@
     },
     {
       "version": "2.0.0.b216",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.ai.model_nodes-2.0.0.b216/nos.ai.model_nodes-2.0.0.b216.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ai.model_nodes-2.0.0.b216/nos.ai.model_nodes-2.0.0.b216.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,

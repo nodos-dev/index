@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "2.0.0.b227",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.tensor-2.0.0.b227/nos.sys.tensor-2.0.0.b227.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.tensor-2.0.0.b227/nos.sys.tensor-2.0.0.b227.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 11,
@@ -12,7 +12,7 @@
     },
     {
       "version": "2.0.0.b206",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.tensor-2.0.0.b206/nos.sys.tensor-2.0.0.b206.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.tensor-2.0.0.b206/nos.sys.tensor-2.0.0.b206.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 6,
@@ -21,7 +21,7 @@
     },
     {
       "version": "2.0.0.b205",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.sys.tensor-2.0.0.b205/nos.sys.tensor-2.0.0.b205.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.tensor-2.0.0.b205/nos.sys.tensor-2.0.0.b205.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 6,

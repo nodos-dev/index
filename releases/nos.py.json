@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "0.1.0.b545",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.py-0.1.0.b545/nos.py-0.1.0.b545.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.py-0.1.0.b545/nos.py-0.1.0.b545.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 13,
@@ -20,7 +20,7 @@
     },
     {
       "version": "0.1.0.b541",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.py-0.1.0.b541/nos.py-0.1.0.b541.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.py-0.1.0.b541/nos.py-0.1.0.b541.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 12,
@@ -29,7 +29,7 @@
     },
     {
       "version": "0.1.0.b533",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.py-0.1.0.b533/nos.py-0.1.0.b533.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.py-0.1.0.b533/nos.py-0.1.0.b533.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 11,
@@ -38,7 +38,7 @@
     },
     {
       "version": "0.1.0.b528",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.py-0.1.0.b528/nos.py-0.1.0.b528.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.py-0.1.0.b528/nos.py-0.1.0.b528.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 11,
@@ -47,7 +47,7 @@
     },
     {
       "version": "0.1.0.b525",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.py-0.1.0.b525/nos.py-0.1.0.b525.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.py-0.1.0.b525/nos.py-0.1.0.b525.zip",
       "subsystem_api_version": {
         "major": 9,
         "minor": 11,

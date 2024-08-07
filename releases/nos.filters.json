@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "1.0.0.b545",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b545/nos.filters-1.0.0.b545.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.0.0.b545/nos.filters-1.0.0.b545.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -20,7 +20,7 @@
     },
     {
       "version": "1.0.0.b541",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b541/nos.filters-1.0.0.b541.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.0.0.b541/nos.filters-1.0.0.b541.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -29,7 +29,7 @@
     },
     {
       "version": "1.0.0.b496",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b496/nos.filters-1.0.0.b496.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.0.0.b496/nos.filters-1.0.0.b496.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -38,7 +38,7 @@
     },
     {
       "version": "1.0.0.b487",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b487/nos.filters-1.0.0.b487.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.0.0.b487/nos.filters-1.0.0.b487.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -47,7 +47,7 @@
     },
     {
       "version": "1.0.0.b480",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b480/nos.filters-1.0.0.b480.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.0.0.b480/nos.filters-1.0.0.b480.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -56,7 +56,7 @@
     },
     {
       "version": "1.0.0.b479",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b479/nos.filters-1.0.0.b479.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.0.0.b479/nos.filters-1.0.0.b479.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -65,7 +65,7 @@
     },
     {
       "version": "1.0.0.b471",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b471/nos.filters-1.0.0.b471.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.0.0.b471/nos.filters-1.0.0.b471.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -74,7 +74,7 @@
     },
     {
       "version": "1.0.0.b464",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b464/nos.filters-1.0.0.b464.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.0.0.b464/nos.filters-1.0.0.b464.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -83,7 +83,7 @@
     },
     {
       "version": "1.0.0.b451",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b451/nos.filters-1.0.0.b451.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.0.0.b451/nos.filters-1.0.0.b451.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -92,7 +92,7 @@
     },
     {
       "version": "1.0.0.b450",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b450/nos.filters-1.0.0.b450.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.0.0.b450/nos.filters-1.0.0.b450.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -101,7 +101,7 @@
     },
     {
       "version": "1.0.0.b449",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b449/nos.filters-1.0.0.b449.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.0.0.b449/nos.filters-1.0.0.b449.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -110,7 +110,7 @@
     },
     {
       "version": "1.0.0.b447",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b447/nos.filters-1.0.0.b447.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.0.0.b447/nos.filters-1.0.0.b447.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -119,7 +119,7 @@
     },
     {
       "version": "1.0.0.b443",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b443/nos.filters-1.0.0.b443.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.0.0.b443/nos.filters-1.0.0.b443.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -128,7 +128,7 @@
     },
     {
       "version": "1.0.0.b426",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.filters-1.0.0.b426/nos.filters-1.0.0.b426.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.0.0.b426/nos.filters-1.0.0.b426.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,

@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "1.0.0.b545",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b545/nos.webcam-1.0.0.b545.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b545/nos.webcam-1.0.0.b545.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 12,
@@ -32,7 +32,7 @@
     },
     {
       "version": "1.0.0.b541",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b541/nos.webcam-1.0.0.b541.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b541/nos.webcam-1.0.0.b541.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -41,7 +41,7 @@
     },
     {
       "version": "1.0.0.b537",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b537/nos.webcam-1.0.0.b537.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b537/nos.webcam-1.0.0.b537.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 11,
@@ -50,7 +50,7 @@
     },
     {
       "version": "1.0.0.b526",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b526/nos.webcam-1.0.0.b526.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b526/nos.webcam-1.0.0.b526.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -59,7 +59,7 @@
     },
     {
       "version": "1.0.0.b512",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b512/nos.webcam-1.0.0.b512.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b512/nos.webcam-1.0.0.b512.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -68,7 +68,7 @@
     },
     {
       "version": "1.0.0.b511",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b511/nos.webcam-1.0.0.b511.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b511/nos.webcam-1.0.0.b511.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -77,7 +77,7 @@
     },
     {
       "version": "1.0.0.b496",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b496/nos.webcam-1.0.0.b496.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b496/nos.webcam-1.0.0.b496.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -86,7 +86,7 @@
     },
     {
       "version": "1.0.0.b495",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b495/nos.webcam-1.0.0.b495.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b495/nos.webcam-1.0.0.b495.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -95,7 +95,7 @@
     },
     {
       "version": "1.0.0.b494",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b494/nos.webcam-1.0.0.b494.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b494/nos.webcam-1.0.0.b494.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 7,
@@ -104,7 +104,7 @@
     },
     {
       "version": "1.0.0.b478",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b478/nos.webcam-1.0.0.b478.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b478/nos.webcam-1.0.0.b478.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -113,7 +113,7 @@
     },
     {
       "version": "1.0.0.b477",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b477/nos.webcam-1.0.0.b477.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b477/nos.webcam-1.0.0.b477.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -122,7 +122,7 @@
     },
     {
       "version": "1.0.0.b474",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b474/nos.webcam-1.0.0.b474.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b474/nos.webcam-1.0.0.b474.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -131,7 +131,7 @@
     },
     {
       "version": "1.0.0.b471",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b471/nos.webcam-1.0.0.b471.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b471/nos.webcam-1.0.0.b471.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -140,7 +140,7 @@
     },
     {
       "version": "1.0.0.b464",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b464/nos.webcam-1.0.0.b464.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b464/nos.webcam-1.0.0.b464.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -149,7 +149,7 @@
     },
     {
       "version": "1.0.0.b451",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b451/nos.webcam-1.0.0.b451.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b451/nos.webcam-1.0.0.b451.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -158,7 +158,7 @@
     },
     {
       "version": "1.0.0.b450",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b450/nos.webcam-1.0.0.b450.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b450/nos.webcam-1.0.0.b450.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -167,7 +167,7 @@
     },
     {
       "version": "1.0.0.b449",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b449/nos.webcam-1.0.0.b449.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b449/nos.webcam-1.0.0.b449.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -176,7 +176,7 @@
     },
     {
       "version": "1.0.0.b447",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b447/nos.webcam-1.0.0.b447.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b447/nos.webcam-1.0.0.b447.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -185,7 +185,7 @@
     },
     {
       "version": "1.0.0.b426",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.webcam-1.0.0.b426/nos.webcam-1.0.0.b426.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b426/nos.webcam-1.0.0.b426.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,

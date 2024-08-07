@@ -3,7 +3,7 @@
   "releases": [
     {
       "version": "1.0.0.b227",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.cuda-1.0.0.b227/nos.cuda-1.0.0.b227.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.cuda-1.0.0.b227/nos.cuda-1.0.0.b227.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 10,
@@ -12,7 +12,7 @@
     },
     {
       "version": "1.0.0.b206",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.cuda-1.0.0.b206/nos.cuda-1.0.0.b206.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.cuda-1.0.0.b206/nos.cuda-1.0.0.b206.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
@@ -21,7 +21,7 @@
     },
     {
       "version": "1.0.0.b205",
-      "url": "https://github.com/mediaz/nodos-index/releases/download/nos.cuda-1.0.0.b205/nos.cuda-1.0.0.b205.zip",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.cuda-1.0.0.b205/nos.cuda-1.0.0.b205.zip",
       "plugin_api_version": {
         "major": 35,
         "minor": 6,
