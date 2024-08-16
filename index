@@ -268,5 +268,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.standard.json",
     "vendor": "Nodos",
     "type": "Nodos"
+  },
+  {
+    "name": "nos.reflect",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.reflect.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]

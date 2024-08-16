@@ -1,0 +1,16 @@
+{
+  "name": "nos.reflect",
+  "releases": [
+    {
+      "version": "1.0.0.b584",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.reflect-1.0.0.b584/nos.reflect-1.0.0.b584.zip",
+      "plugin_api_version": {
+        "major": 35,
+        "minor": 13,
+        "patch": 0
+      },
+      "release_date": "2024-08-16T07:38:36.769092800+00:00",
+      "dependencies": []
+    }
+  ]
+}
