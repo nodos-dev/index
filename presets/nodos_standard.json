@@ -52,5 +52,11 @@
         "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.bluefish.json",
         "vendor": "Nodos",
         "type": "PLUGIN"
+    },
+    {
+        "name": "nos.reflect",
+        "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.reflect.json",
+        "vendor": "Nodos",
+        "type": "PLUGIN"
     }
 ]
