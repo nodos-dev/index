@@ -2,6 +2,11 @@
   "name": "nodos",
   "releases": [
     {
+      "version": "1.2.0.b3381",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3381/Nodos-1.2.0.b3381.zip",
+      "release_date": "2024-08-20T11:50:17.954678100+00:00"
+    },
+    {
       "version": "1.2.0.b3380",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3380/Nodos-1.2.0.b3380.zip",
       "release_date": "2024-08-20T08:30:19.475094+00:00"
