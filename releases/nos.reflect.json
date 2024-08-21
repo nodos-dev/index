@@ -2,6 +2,22 @@
   "name": "nos.reflect",
   "releases": [
     {
+      "version": "1.1.0.b586",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.reflect-1.1.0.b586/nos.reflect-1.1.0.b586.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2024-08-21T09:39:21.979160800+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.8"
+        }
+      ]
+    },
+    {
       "version": "1.0.0.b585",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.reflect-1.0.0.b585/nos.reflect-1.0.0.b585.zip",
       "plugin_api_version": {
