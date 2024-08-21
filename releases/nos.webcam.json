@@ -2,6 +2,35 @@
   "name": "nos.webcam",
   "releases": [
     {
+      "version": "1.1.0.b573",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.1.0.b573/nos.webcam-1.1.0.b573.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2024-08-21T09:31:19.644305700+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.8.0"
+        },
+        {
+          "name": "nos.mediaio",
+          "version": "1.4.0"
+        },
+        {
+          "name": "nos.utilities",
+          "version": "2.5.0"
+        },
+        {
+          "name": "nos.math",
+          "version": "1.3.0"
+        }
+      ],
+      "category": "Media I/O"
+    },
+    {
       "version": "1.0.0.b572",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.0.0.b572/nos.webcam-1.0.0.b572.zip",
       "plugin_api_version": {
