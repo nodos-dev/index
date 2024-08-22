@@ -1,0 +1,116 @@
+[
+  {
+    "name": "nos.sys.cuda",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.cuda.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
+    "name": "nos.sys.cuda.deps",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.cuda.deps.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
+    "name": "nos.sys.tensorrt.deps",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.tensorrt.deps.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
+    "name": "nos.sys.ai.onnxdeps",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.ai.onnxdeps.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
+    "name": "nos.sys.ai",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.ai.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
+    "name": "nos.sys.tensor",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.tensor.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
+    "name": "nos.sys.cuda.deps",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.cuda.deps.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
+    "name": "nos.cuda",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.cuda.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "nos.sys.ai.models.depth_anything",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.ai.models.depth_anything.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
+    "name": "nos.sys.ai.models.rt4ksr",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.ai.models.rt4ksr.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
+    "name": "nos.ml.ai_nodes",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.ml.ai_nodes.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "nos.ai.model_nodes",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.ai.model_nodes.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "nos.interop",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.interop.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "nos.ml.onnx",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.ml.onnx.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "nos.ml.tensors",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.ml.tensors.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "nos.ml.tokenizer",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.ml.tokenizer.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "nos.sys.ai.models.depth_anything_v2",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.ai.models.depth_anything_v2.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
+    "name": "nos.sys.ai.models.rmbg",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.ai.models.rmbg.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
+    "name": "nos.sys.ai.models.style_transfer_v1",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.ai.models.style_transfer_v1.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  }
+]

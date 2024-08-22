@@ -1,0 +1,176 @@
+[
+  {
+    "name": "nodos",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.json",
+    "vendor": "Nodos",
+    "type": "Nodos"
+  },
+  {
+    "name": "nodos.engine",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.engine.json",
+    "vendor": "Nodos",
+    "type": "Engine"
+  },
+  {
+    "name": "nos.sys.vulkan",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.vulkan.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
+    "name": "nos.sys.shaderc",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.shaderc.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
+    "name": "nos.filters",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.filters.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "nos.math",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.math.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "nos.utilities",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.utilities.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "nos.aja",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.aja.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "nos.sys.cuda",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.cuda.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
+    "name": "nos.bluefish",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.bluefish.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "zd.realitykeyer",
+    "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.realitykeyer.index.json",
+    "vendor": "Zero Density",
+    "type": "Plugin"
+  },
+  {
+    "name": "zd.track",
+    "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.track.index.json",
+    "vendor": "Zero Density",
+    "type": "Plugin"
+  },
+  {
+    "name": "zd.lens",
+    "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.lens.index.json",
+    "vendor": "Zero Density",
+    "type": "Plugin"
+  },
+  {
+    "name": "zd.cyclorama",
+    "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.cyclorama.index.json",
+    "vendor": "Zero Density",
+    "type": "Plugin"
+  },
+  {
+    "name": "zd.utilities",
+    "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.utilities.index.json",
+    "vendor": "Zero Density",
+    "type": "Plugin"
+  },
+  {
+    "name": "zd.xrtools",
+    "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.xrtools.index.json",
+    "vendor": "Zero Density",
+    "type": "Plugin"
+  },
+  {
+    "name": "zd.mediaplayer",
+    "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.mediaplayer.index.json",
+    "vendor": "Zero Density",
+    "type": "Plugin"
+  },
+  {
+    "name": "nodos.bundle.nodos_standard",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.nodos_standard.json",
+    "vendor": "Nodos",
+    "type": "Nodos"
+  },
+  {
+    "name": "nos.sys.animation",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.animation.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
+    "name": "nos.webcam",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.webcam.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "nos.sample.dxapp",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sample.dxapp.json",
+    "vendor": "Nodos",
+    "type": "Generic"
+  },
+  {
+    "name": "nos.sample.vkapp",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sample.vkapp.json",
+    "vendor": "Nodos",
+    "type": "Generic"
+  },
+  {
+    "name": "nos.noise",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.noise.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "nos.mediaio",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.mediaio.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "nos.webrtc",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.webrtc.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "nos.py",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.py.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
+  },
+  {
+    "name": "nodos.bundle.standard",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.standard.json",
+    "vendor": "Nodos",
+    "type": "Nodos"
+  },
+  {
+    "name": "nos.reflect",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.reflect.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
+  },
+  {
+    "name": "nodos.bundle.default",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.default.json",
+    "vendor": "Nodos",
+    "type": "Nodos"
+  }
+]
