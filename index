@@ -280,5 +280,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.default.json",
     "vendor": "Nodos",
     "type": "Nodos"
+  },
+  {
+    "name": "nos.track",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.track.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
