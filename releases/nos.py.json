@@ -2,6 +2,26 @@
   "name": "nos.py",
   "releases": [
     {
+      "version": "0.2.0.b598",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.py-0.2.0.b598/nos.py-0.2.0.b598.zip",
+      "subsystem_api_version": {
+        "major": 10,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2024-08-26T13:07:06.038630400+00:00",
+      "dependencies": [
+        {
+          "name": "nos.py.deps",
+          "version": "1.0.0"
+        }
+      ],
+      "category": "Scripting",
+      "release_tags": [
+        "nodos-1.2"
+      ]
+    },
+    {
       "version": "0.2.0.b586",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.py-0.2.0.b586/nos.py-0.2.0.b586.zip",
       "subsystem_api_version": {
