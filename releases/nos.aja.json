@@ -2,6 +2,42 @@
   "name": "nos.aja",
   "releases": [
     {
+      "version": "2.1.0.b594",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.1.0.b594/nos.aja-2.1.0.b594.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2024-08-28T10:39:20.267989+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.8.0"
+        },
+        {
+          "name": "nos.mediaio",
+          "version": "1.4.0"
+        },
+        {
+          "name": "nos.utilities",
+          "version": "2.5.0"
+        },
+        {
+          "name": "nos.math",
+          "version": "1.3.0"
+        },
+        {
+          "name": "nos.reflect",
+          "version": "1.1.0"
+        }
+      ],
+      "category": "Media I/O",
+      "release_tags": [
+        "dev"
+      ]
+    },
+    {
       "version": "2.1.0.b593",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.1.0.b593/nos.aja-2.1.0.b593.zip",
       "plugin_api_version": {
