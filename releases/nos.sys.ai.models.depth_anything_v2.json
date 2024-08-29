@@ -2,6 +2,15 @@
   "name": "nos.sys.ai.models.depth_anything_v2",
   "releases": [
     {
+      "version": "1.0.0.b246",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.depth_anything_v2-1.0.0.b246/nos.sys.ai.models.depth_anything_v2-1.0.0.b246.zip",
+      "release_date": "2024-08-29T11:44:54.786805500+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "dev"
+      ]
+    },
+    {
       "version": "1.0.0.b6",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.depth_anything_v2-1.0.0.b6/nos.sys.ai.models.depth_anything_v2-1.0.0.b6.zip"
     },
