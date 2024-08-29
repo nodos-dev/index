@@ -2,6 +2,33 @@
   "name": "nos.ml.ai_nodes",
   "releases": [
     {
+      "version": "1.1.0.b246",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.ai_nodes-1.1.0.b246/nos.ml.ai_nodes-1.1.0.b246.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2024-08-29T11:38:47.138142400+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.ai",
+          "version": "3.1.0"
+        },
+        {
+          "name": "nos.sys.cuda",
+          "version": "2.1.0"
+        },
+        {
+          "name": "nos.sys.tensor",
+          "version": "2.1.0"
+        }
+      ],
+      "release_tags": [
+        "dev"
+      ]
+    },
+    {
       "version": "1.0.0.b239",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.ai_nodes-1.0.0.b239/nos.ml.ai_nodes-1.0.0.b239.zip",
       "plugin_api_version": {
