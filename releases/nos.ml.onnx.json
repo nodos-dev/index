@@ -2,6 +2,33 @@
   "name": "nos.ml.onnx",
   "releases": [
     {
+      "version": "2.2.0.b246",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.onnx-2.2.0.b246/nos.ml.onnx-2.2.0.b246.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2024-08-29T11:39:59.041976300+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.ai",
+          "version": "3.1.0"
+        },
+        {
+          "name": "nos.sys.cuda",
+          "version": "2.1.0"
+        },
+        {
+          "name": "nos.sys.tensor",
+          "version": "2.1.0"
+        }
+      ],
+      "release_tags": [
+        "dev"
+      ]
+    },
+    {
       "version": "2.2.0.b240",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.onnx-2.2.0.b240/nos.ml.onnx-2.2.0.b240.zip",
       "plugin_api_version": {
