@@ -2,6 +2,26 @@
   "name": "nos.sys.vulkan",
   "releases": [
     {
+      "version": "5.8.0.b489",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.vulkan-5.8.0.b489/nos.sys.vulkan-5.8.0.b489.zip",
+      "subsystem_api_version": {
+        "major": 10,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2024-08-29T11:53:30.917583800+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.shaderc",
+          "version": "1.0.0"
+        }
+      ],
+      "category": "Graphics",
+      "release_tags": [
+        "dev"
+      ]
+    },
+    {
       "version": "5.8.0.b488",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.vulkan-5.8.0.b488/nos.sys.vulkan-5.8.0.b488.zip",
       "subsystem_api_version": {
