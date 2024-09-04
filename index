@@ -286,5 +286,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.track.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nodos.bundle.broadcast",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.broadcast.json",
+    "vendor": "Nodos",
+    "type": "Nodos"
   }
 ]
