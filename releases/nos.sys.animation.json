@@ -2,6 +2,21 @@
   "name": "nos.sys.animation",
   "releases": [
     {
+      "version": "1.1.0.b604",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.animation-1.1.0.b604/nos.sys.animation-1.1.0.b604.zip",
+      "subsystem_api_version": {
+        "major": 10,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2024-09-05T07:29:09.115144100+00:00",
+      "dependencies": [],
+      "category": "Animation",
+      "release_tags": [
+        "dev"
+      ]
+    },
+    {
       "version": "1.1.0.b603",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.animation-1.1.0.b603/nos.sys.animation-1.1.0.b603.zip",
       "subsystem_api_version": {
