@@ -2,6 +2,73 @@
   "name": "nos.ai.model_nodes",
   "releases": [
     {
+      "version": "2.1.0.b247",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ai.model_nodes-2.1.0.b247/nos.ai.model_nodes-2.1.0.b247.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 1,
+        "patch": 0
+      },
+      "release_date": "2024-09-11T13:05:47.191920400+00:00",
+      "dependencies": [
+        {
+          "name": "nos.ml.ai_nodes",
+          "version": "1.0.0"
+        },
+        {
+          "name": "nos.ml.onnx",
+          "version": "2.2.0"
+        },
+        {
+          "name": "nos.cuda",
+          "version": "1.1.0"
+        },
+        {
+          "name": "nos.ml.tensors",
+          "version": "2.2.0"
+        },
+        {
+          "name": "nos.utilities",
+          "version": "2.5.0"
+        },
+        {
+          "name": "nos.filters",
+          "version": "1.1.0"
+        },
+        {
+          "name": "nos.interop",
+          "version": "2.1.0"
+        },
+        {
+          "name": "nos.sys.ai.models.depth_anything",
+          "version": "1.0.0"
+        },
+        {
+          "name": "nos.sys.ai.models.rt4ksr",
+          "version": "1.0.0"
+        },
+        {
+          "name": "nos.sys.ai.models.style_transfer_v1",
+          "version": "1.0.0"
+        },
+        {
+          "name": "nos.sys.ai.models.depth_anything_v2",
+          "version": "1.0.0"
+        },
+        {
+          "name": "nos.sys.tensorrt.deps",
+          "version": "1.0.0"
+        },
+        {
+          "name": "nos.sys.cuda.deps",
+          "version": "2.0.0"
+        }
+      ],
+      "release_tags": [
+        "dev"
+      ]
+    },
+    {
       "version": "2.1.0.b246",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.ai.model_nodes-2.1.0.b246/nos.ai.model_nodes-2.1.0.b246.zip",
       "plugin_api_version": {
