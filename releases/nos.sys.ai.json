@@ -2,6 +2,37 @@
   "name": "nos.sys.ai",
   "releases": [
     {
+      "version": "3.1.0.b247",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai-3.1.0.b247/nos.sys.ai-3.1.0.b247.zip",
+      "subsystem_api_version": {
+        "major": 10,
+        "minor": 1,
+        "patch": 0
+      },
+      "release_date": "2024-09-11T13:07:11.371930300+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.cuda",
+          "version": "2.1.0"
+        },
+        {
+          "name": "nos.sys.tensor",
+          "version": "2.1.0"
+        },
+        {
+          "name": "nos.sys.tensorrt.deps",
+          "version": "1.0.0"
+        },
+        {
+          "name": "nos.sys.ai.onnxdeps",
+          "version": "2.0.0"
+        }
+      ],
+      "release_tags": [
+        "dev"
+      ]
+    },
+    {
       "version": "3.1.0.b246",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai-3.1.0.b246/nos.sys.ai-3.1.0.b246.zip",
       "subsystem_api_version": {
