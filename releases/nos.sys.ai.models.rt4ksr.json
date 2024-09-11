@@ -2,6 +2,15 @@
   "name": "nos.sys.ai.models.rt4ksr",
   "releases": [
     {
+      "version": "1.0.0.b247",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.rt4ksr-1.0.0.b247/nos.sys.ai.models.rt4ksr-1.0.0.b247.zip",
+      "release_date": "2024-09-11T13:11:39.000938300+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "dev"
+      ]
+    },
+    {
       "version": "1.0.0.b246",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.rt4ksr-1.0.0.b246/nos.sys.ai.models.rt4ksr-1.0.0.b246.zip",
       "release_date": "2024-08-29T11:48:35.901677+00:00",
