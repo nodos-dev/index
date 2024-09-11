@@ -2,6 +2,29 @@
   "name": "nos.sys.tensor",
   "releases": [
     {
+      "version": "2.1.0.b247",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.tensor-2.1.0.b247/nos.sys.tensor-2.1.0.b247.zip",
+      "subsystem_api_version": {
+        "major": 10,
+        "minor": 1,
+        "patch": 0
+      },
+      "release_date": "2024-09-11T13:11:52.641983700+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.8.0"
+        },
+        {
+          "name": "nos.sys.cuda",
+          "version": "2.1.0"
+        }
+      ],
+      "release_tags": [
+        "dev"
+      ]
+    },
+    {
       "version": "2.1.0.b246",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.tensor-2.1.0.b246/nos.sys.tensor-2.1.0.b246.zip",
       "subsystem_api_version": {
