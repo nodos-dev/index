@@ -292,5 +292,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.broadcast.json",
     "vendor": "Nodos",
     "type": "Nodos"
+  },
+  {
+    "name": "nodos.bundle.full",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.full.json",
+    "vendor": "Nodos",
+    "type": "Nodos"
   }
 ]
