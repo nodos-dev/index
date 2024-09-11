@@ -2,6 +2,15 @@
   "name": "nos.sys.ai.models.style_transfer_v1",
   "releases": [
     {
+      "version": "1.0.0.b3",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.style_transfer_v1-1.0.0.b3/nos.sys.ai.models.style_transfer_v1-1.0.0.b3.zip",
+      "release_date": "2024-09-11T13:53:26.509942100+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "main"
+      ]
+    },
+    {
       "version": "1.0.0.b1",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.style_transfer_v1-1.0.0.b1/nos.sys.ai.models.style_transfer_v1-1.0.0.b1.zip"
     }
