@@ -2,6 +2,29 @@
   "name": "nos.webrtc",
   "releases": [
     {
+      "version": "1.1.0.b615",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webrtc-1.1.0.b615/nos.webrtc-1.1.0.b615.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 1,
+        "patch": 0
+      },
+      "release_date": "2024-09-25T15:40:32.766306700+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.8.0"
+        }
+      ],
+      "category": "Media I/O",
+      "module_tags": [
+        "streaming"
+      ],
+      "release_tags": [
+        "nodos-1.2"
+      ]
+    },
+    {
       "version": "1.1.0.b598",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.webrtc-1.1.0.b598/nos.webrtc-1.1.0.b598.zip",
       "plugin_api_version": {
