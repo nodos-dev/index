@@ -2,6 +2,20 @@
   "name": "nos.math",
   "releases": [
     {
+      "version": "1.3.0.b615",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.3.0.b615/nos.math-1.3.0.b615.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 1,
+        "patch": 0
+      },
+      "release_date": "2024-09-25T15:39:34.576432100+00:00",
+      "category": "Mathematics",
+      "release_tags": [
+        "nodos-1.2"
+      ]
+    },
+    {
       "version": "1.4.0.b611",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.4.0.b611/nos.math-1.4.0.b611.zip",
       "plugin_api_version": {
