@@ -298,5 +298,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.full.json",
     "vendor": "Nodos",
     "type": "Nodos"
+  },
+  {
+    "name": "nodos.bundle.default_1.2",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.default_1.2.json",
+    "vendor": "Nodos",
+    "type": "Nodos"
   }
 ]
