@@ -2,6 +2,26 @@
   "name": "nos.mediaio",
   "releases": [
     {
+      "version": "1.4.0.b573",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-1.4.0.b573/nos.mediaio-1.4.0.b573.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 5,
+        "patch": 0
+      },
+      "release_date": "2024-09-30T08:42:02.417647400+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.8.0"
+        }
+      ],
+      "category": "Media I/O",
+      "release_tags": [
+        "dev"
+      ]
+    },
+    {
       "version": "1.4.0.b572",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-1.4.0.b572/nos.mediaio-1.4.0.b572.zip",
       "plugin_api_version": {
