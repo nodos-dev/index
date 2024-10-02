@@ -2,6 +2,15 @@
   "name": "nos.sys.shaderc",
   "releases": [
     {
+      "version": "1.1.0.b625",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.1.0.b625/nos.sys.shaderc-1.1.0.b625.zip",
+      "release_date": "2024-10-02T14:53:15.504662900+00:00",
+      "category": "Tools",
+      "release_tags": [
+        "dev"
+      ]
+    },
+    {
       "version": "1.0.0.b615",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b615/nos.sys.shaderc-1.0.0.b615.zip",
       "release_date": "2024-09-25T15:41:10.680237700+00:00",
