@@ -3,7 +3,8 @@
   "releases": [
     {
       "version": "0.1.0.b1",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sample.vkapp-0.1.0.b1/nos.sample.vkapp-0.1.0.b1.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sample.vkapp-0.1.0.b1/nos.sample.vkapp-0.1.0.b1.zip",
+      "platform": "x86_64-windows"
     }
   ]
 }

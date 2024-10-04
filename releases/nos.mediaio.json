@@ -19,7 +19,8 @@
       "category": "Media I/O",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.4.0.b573",
@@ -39,7 +40,8 @@
       "category": "Media I/O",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.4.0.b572",
@@ -59,7 +61,8 @@
       "category": "Media I/O",
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.4.0.b571",
@@ -79,7 +82,8 @@
       "category": "Media I/O",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.4.0.b569",
@@ -99,7 +103,8 @@
       "category": "Media I/O",
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.4.0.b568",
@@ -119,7 +124,8 @@
       "category": "Media I/O",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.4.0.b567",
@@ -136,7 +142,8 @@
           "version": "5.8.0"
         }
       ],
-      "category": "Media I/O"
+      "category": "Media I/O",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b566",
@@ -153,7 +160,8 @@
           "version": "5.7.0"
         }
       ],
-      "category": "Media I/O"
+      "category": "Media I/O",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b558",
@@ -170,7 +178,8 @@
           "version": "5.7.0"
         }
       ],
-      "category": "Media I/O"
+      "category": "Media I/O",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b557",
@@ -187,7 +196,8 @@
           "version": "5.7.0"
         }
       ],
-      "category": "Media I/O"
+      "category": "Media I/O",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b556",
@@ -204,7 +214,8 @@
           "version": "5.7.0"
         }
       ],
-      "category": "Media I/O"
+      "category": "Media I/O",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b549",
@@ -221,7 +232,8 @@
           "version": "5.7.0"
         }
       ],
-      "category": "Media I/O"
+      "category": "Media I/O",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b545",
@@ -238,7 +250,8 @@
           "version": "5.7.0"
         }
       ],
-      "category": "Media I/O"
+      "category": "Media I/O",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b541",
@@ -247,7 +260,8 @@
         "major": 35,
         "minor": 11,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b537",
@@ -256,7 +270,8 @@
         "major": 35,
         "minor": 11,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b524",
@@ -265,7 +280,8 @@
         "major": 35,
         "minor": 10,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b513",
@@ -274,7 +290,8 @@
         "major": 35,
         "minor": 7,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b505",
@@ -283,7 +300,8 @@
         "major": 35,
         "minor": 7,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b502",
@@ -292,7 +310,8 @@
         "major": 35,
         "minor": 7,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b496",
@@ -301,7 +320,8 @@
         "major": 35,
         "minor": 7,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     }
   ]
 }

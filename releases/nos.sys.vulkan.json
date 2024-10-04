@@ -19,7 +19,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b505",
@@ -39,7 +40,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b504",
@@ -59,7 +61,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b503",
@@ -79,7 +82,8 @@
       "category": "Graphics",
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b502",
@@ -99,7 +103,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b501",
@@ -119,7 +124,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b500",
@@ -139,7 +145,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b499",
@@ -159,7 +166,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b498",
@@ -179,7 +187,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b496",
@@ -199,7 +208,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b495",
@@ -219,7 +229,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b494",
@@ -239,7 +250,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b493",
@@ -259,7 +271,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b492",
@@ -279,7 +292,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b491",
@@ -299,7 +313,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b490",
@@ -319,7 +334,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b489",
@@ -339,7 +355,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b488",
@@ -359,7 +376,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b487",
@@ -379,7 +397,8 @@
       "category": "Graphics",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b484",
@@ -396,7 +415,8 @@
           "version": "1.0.0"
         }
       ],
-      "category": "Graphics"
+      "category": "Graphics",
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.8.0.b483",
@@ -413,7 +433,8 @@
           "version": "1.0.0"
         }
       ],
-      "category": "Graphics"
+      "category": "Graphics",
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.7.3.b479",
@@ -430,7 +451,8 @@
           "version": "1.0.0"
         }
       ],
-      "category": "Graphics"
+      "category": "Graphics",
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.7.2.b478",
@@ -447,7 +469,8 @@
           "version": "1.0.0"
         }
       ],
-      "category": "Graphics"
+      "category": "Graphics",
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.7.2.b475",
@@ -464,7 +487,8 @@
           "version": "1.0.0"
         }
       ],
-      "category": "Graphics"
+      "category": "Graphics",
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.7.2.b474",
@@ -473,7 +497,8 @@
         "major": 9,
         "minor": 12,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.7.2.b473",
@@ -482,7 +507,8 @@
         "major": 9,
         "minor": 12,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.7.2.b471",
@@ -491,7 +517,8 @@
         "major": 9,
         "minor": 12,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.7.2.b470",
@@ -500,7 +527,8 @@
         "major": 9,
         "minor": 12,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.7.1.b469",
@@ -509,7 +537,8 @@
         "major": 9,
         "minor": 12,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.7.1.b468",
@@ -518,7 +547,8 @@
         "major": 9,
         "minor": 12,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.7.0.b465",
@@ -527,7 +557,8 @@
         "major": 9,
         "minor": 8,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.7.0.b464",
@@ -536,7 +567,8 @@
         "major": 9,
         "minor": 8,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.7.0.b463",
@@ -545,7 +577,8 @@
         "major": 9,
         "minor": 8,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.7.0.b462",
@@ -554,7 +587,8 @@
         "major": 9,
         "minor": 8,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.7.0.b461",
@@ -563,7 +597,8 @@
         "major": 9,
         "minor": 8,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.7.0.b460",
@@ -572,7 +607,8 @@
         "major": 9,
         "minor": 8,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.6.0.b459",
@@ -581,7 +617,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.5.1.b457",
@@ -590,7 +627,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.5.1.b456",
@@ -599,7 +637,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.5.1.b453",
@@ -608,7 +647,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.5.1.b451",
@@ -617,7 +657,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.5.1.b450",
@@ -626,7 +667,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.5.1.b449",
@@ -635,7 +677,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.5.1.b447",
@@ -644,7 +687,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.5.1.b445",
@@ -653,7 +697,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.5.1.b443",
@@ -662,7 +707,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.5.0.b403",
@@ -671,7 +717,8 @@
         "major": 9,
         "minor": 4,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.5.0.b395",
@@ -680,7 +727,8 @@
         "major": 9,
         "minor": 4,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.5.0.b393",
@@ -689,7 +737,8 @@
         "major": 9,
         "minor": 4,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.5.0.b392",
@@ -698,7 +747,8 @@
         "major": 9,
         "minor": 4,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.5.0.b391",
@@ -707,7 +757,8 @@
         "major": 9,
         "minor": 4,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.5.0.b389",
@@ -716,7 +767,8 @@
         "major": 9,
         "minor": 4,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.4.0.b385",
@@ -725,7 +777,8 @@
         "major": 9,
         "minor": 4,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.3.0.b381",
@@ -734,7 +787,8 @@
         "major": 9,
         "minor": 4,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.3.0.b371",
@@ -743,7 +797,8 @@
         "major": 9,
         "minor": 3,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.3.0.b368",
@@ -752,7 +807,8 @@
         "major": 9,
         "minor": 3,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.3.0.b367",
@@ -761,7 +817,8 @@
         "major": 9,
         "minor": 3,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.3.0.b366",
@@ -770,7 +827,8 @@
         "major": 9,
         "minor": 3,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.1.1.b359",
@@ -779,7 +837,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.1.1.b358",
@@ -788,7 +847,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.1.1.b356",
@@ -797,7 +857,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.1.1.b355",
@@ -806,7 +867,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.2.0.b354",
@@ -815,7 +877,8 @@
         "major": 9,
         "minor": 3,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.2.0.b341",
@@ -824,7 +887,8 @@
         "major": 9,
         "minor": 3,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.2.0.b336",
@@ -833,7 +897,8 @@
         "major": 9,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.2.0.b328",
@@ -842,7 +907,8 @@
         "major": 9,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.2.0.b324",
@@ -851,7 +917,8 @@
         "major": 9,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.1.0.b320",
@@ -860,7 +927,8 @@
         "major": 9,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.1.0.b319",
@@ -869,7 +937,8 @@
         "major": 9,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.1.0.b316",
@@ -878,7 +947,8 @@
         "major": 8,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.1.0.b312",
@@ -887,7 +957,8 @@
         "major": 8,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.1.0.b310",
@@ -896,7 +967,8 @@
         "major": 8,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.1.0.b306",
@@ -905,7 +977,8 @@
         "major": 8,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.0.0.b303",
@@ -914,7 +987,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.0.0.b297",
@@ -923,7 +997,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.0.0.b296",
@@ -932,7 +1007,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.0.0.b294",
@@ -941,7 +1017,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.0.0.b293",
@@ -950,7 +1027,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "5.0.0.b289",
@@ -959,7 +1037,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "4.0.0.b288",
@@ -968,7 +1047,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "4.0.0.b287",
@@ -977,7 +1057,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "4.0.0.b285",
@@ -986,7 +1067,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "4.0.0.b270",
@@ -995,7 +1077,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "4.0.0.b268",
@@ -1004,7 +1087,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "4.0.0.b265",
@@ -1013,7 +1097,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "4.0.0.b264",
@@ -1022,7 +1107,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.1.0.b261",
@@ -1031,7 +1117,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.1.0.b257",
@@ -1040,7 +1127,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.1.0.b251",
@@ -1049,7 +1137,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.1.0.b248",
@@ -1058,7 +1147,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.1.0.b247",
@@ -1067,7 +1157,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.1.0.b241",
@@ -1076,7 +1167,8 @@
         "major": 7,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.1.0.b239",
@@ -1085,7 +1177,8 @@
         "major": 7,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.1.0.b235",
@@ -1094,7 +1187,8 @@
         "major": 6,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.1.0.b226",
@@ -1103,7 +1197,8 @@
         "major": 6,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.1.0.b216",
@@ -1112,7 +1207,8 @@
         "major": 6,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.1.0.b215",
@@ -1121,7 +1217,8 @@
         "major": 6,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.1.0.b212",
@@ -1130,7 +1227,8 @@
         "major": 6,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.1.0.b202",
@@ -1139,7 +1237,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.1.0.b201",
@@ -1148,7 +1247,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.1.0.b195",
@@ -1157,7 +1257,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.1.0.b192",
@@ -1166,7 +1267,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.1.0.b182",
@@ -1175,7 +1277,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.0.0.b155",
@@ -1184,7 +1287,8 @@
         "major": 6,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.0.0.b151",
@@ -1193,7 +1297,8 @@
         "major": 6,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.0.0.b150",
@@ -1202,7 +1307,8 @@
         "major": 6,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.0.0.b149",
@@ -1211,7 +1317,8 @@
         "major": 6,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.0.0.b148",
@@ -1220,7 +1327,8 @@
         "major": 6,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.1.0.b146",
@@ -1229,7 +1337,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.1.0.b145",
@@ -1238,7 +1347,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.0.0.b142",
@@ -1247,7 +1357,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "3.0.0.b138",
@@ -1256,7 +1367,8 @@
         "major": 6,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.0.0.b135",
@@ -1265,7 +1377,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.0.0.b134",
@@ -1274,7 +1387,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.0.0.b133",
@@ -1283,7 +1397,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.0.0.b132",
@@ -1292,7 +1407,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.0.0.b131",
@@ -1301,7 +1417,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.0.0.b127",
@@ -1310,7 +1427,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.0.0.b124",
@@ -1319,7 +1437,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.0.0.b123",
@@ -1328,7 +1447,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.0.0.b121",
@@ -1337,7 +1457,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.0.0.b118",
@@ -1346,7 +1467,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.0.0.b115",
@@ -1355,7 +1477,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.1.b113",
@@ -1364,7 +1487,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.1.b112",
@@ -1373,7 +1497,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.1.b111",
@@ -1382,7 +1507,8 @@
         "major": 5,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.1.b107",
@@ -1391,7 +1517,8 @@
         "major": 5,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.1.b104",
@@ -1400,7 +1527,8 @@
         "major": 5,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.1.b103",
@@ -1409,7 +1537,8 @@
         "major": 5,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.1.b102",
@@ -1418,7 +1547,8 @@
         "major": 5,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.1.b101",
@@ -1427,7 +1557,8 @@
         "major": 5,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.1.b100",
@@ -1436,7 +1567,8 @@
         "major": 5,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.1.b98",
@@ -1445,7 +1577,8 @@
         "major": 5,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.1.b96",
@@ -1454,7 +1587,8 @@
         "major": 5,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.1.b95",
@@ -1463,7 +1597,8 @@
         "major": 5,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.1.b94",
@@ -1472,7 +1607,8 @@
         "major": 5,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b91",
@@ -1481,7 +1617,8 @@
         "major": 5,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b89",
@@ -1490,7 +1627,8 @@
         "major": 5,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b88",
@@ -1499,7 +1637,8 @@
         "major": 5,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b87",
@@ -1508,7 +1647,8 @@
         "major": 5,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b85",
@@ -1517,7 +1657,8 @@
         "major": 4,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b84",
@@ -1526,7 +1667,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b83",
@@ -1535,7 +1677,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b76",
@@ -1544,7 +1687,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b74",
@@ -1553,7 +1697,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b73",
@@ -1562,7 +1707,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b72",
@@ -1571,7 +1717,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b71",
@@ -1580,7 +1727,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b70",
@@ -1589,7 +1737,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b69",
@@ -1598,7 +1747,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b67",
@@ -1607,7 +1757,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b66",
@@ -1616,7 +1767,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b59",
@@ -1625,7 +1777,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b58",
@@ -1634,7 +1787,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b55",
@@ -1643,7 +1797,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b54",
@@ -1652,7 +1807,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b52",
@@ -1661,7 +1817,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b50",
@@ -1670,7 +1827,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b48",
@@ -1679,7 +1837,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b45",
@@ -1688,7 +1847,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b44",
@@ -1697,7 +1857,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b43",
@@ -1706,7 +1867,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b41",
@@ -1715,7 +1877,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b37",
@@ -1724,7 +1887,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b36",
@@ -1733,7 +1897,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b35",
@@ -1742,7 +1907,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b33",
@@ -1751,7 +1917,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b30",
@@ -1760,7 +1927,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b28",
@@ -1769,7 +1937,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b24",
@@ -1778,7 +1947,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b23",
@@ -1787,7 +1957,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b21",
@@ -1796,7 +1967,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b20",
@@ -1805,7 +1977,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b18",
@@ -1814,7 +1987,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b16",
@@ -1823,7 +1997,8 @@
         "major": 4,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b8",
@@ -1832,7 +2007,8 @@
         "major": 2,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b6",
@@ -1841,7 +2017,8 @@
         "major": 2,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     }
   ]
 }

@@ -8,7 +8,8 @@
       "dependencies": [],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b246",
@@ -17,15 +18,18 @@
       "dependencies": [],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b6",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.depth_anything_v2-1.0.0.b6/nos.sys.ai.models.depth_anything_v2-1.0.0.b6.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.depth_anything_v2-1.0.0.b6/nos.sys.ai.models.depth_anything_v2-1.0.0.b6.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b5",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.depth_anything_v2-1.0.0.b5/nos.sys.ai.models.depth_anything_v2-1.0.0.b5.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.depth_anything_v2-1.0.0.b5/nos.sys.ai.models.depth_anything_v2-1.0.0.b5.zip",
+      "platform": "x86_64-windows"
     }
   ]
 }

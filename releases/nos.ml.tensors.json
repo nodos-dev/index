@@ -26,7 +26,8 @@
       ],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.2.0.b246",
@@ -53,7 +54,8 @@
       ],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.2.0.b241",
@@ -69,7 +71,8 @@
           "name": "nos.sys.tensor",
           "version": "2.0.0"
         }
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.2.0.b240",
@@ -85,7 +88,8 @@
           "name": "nos.sys.tensor",
           "version": "2.0.0"
         }
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.1.0.b239",
@@ -101,7 +105,8 @@
           "name": "nos.sys.tensor",
           "version": "2.0.0"
         }
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.1.0.b238",
@@ -117,7 +122,8 @@
           "name": "nos.sys.tensor",
           "version": "2.0.0"
         }
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.1.0.b235",
@@ -133,7 +139,8 @@
           "name": "nos.sys.tensor",
           "version": "2.0.0"
         }
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.1.0.b234",
@@ -142,7 +149,8 @@
         "major": 35,
         "minor": 11,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.0.0.b233",
@@ -151,7 +159,8 @@
         "major": 35,
         "minor": 11,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.0.0.b227",
@@ -160,7 +169,8 @@
         "major": 35,
         "minor": 10,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "2.0.0.b218",
@@ -169,7 +179,8 @@
         "major": 35,
         "minor": 7,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     }
   ]
 }

@@ -8,7 +8,8 @@
       "dependencies": [],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b246",
@@ -17,11 +18,13 @@
       "dependencies": [],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b227",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.rmbg-1.0.0.b227/nos.sys.ai.models.rmbg-1.0.0.b227.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.rmbg-1.0.0.b227/nos.sys.ai.models.rmbg-1.0.0.b227.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b83",
@@ -30,7 +33,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b81",
@@ -39,7 +43,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     }
   ]
 }

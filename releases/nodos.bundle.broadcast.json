@@ -4,102 +4,122 @@
     {
       "version": "1.2.0.b3564",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3564/Nodos-1.2.0.b3564-bundle-broadcast_1.2.zip",
-      "release_date": "2024-10-04T13:01:00.286675600+00:00"
+      "release_date": "2024-10-04T13:01:00.286675600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3562",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3562/Nodos-1.2.0.b3562-bundle-broadcast_1.2.zip",
-      "release_date": "2024-10-04T08:39:33.616153200+00:00"
+      "release_date": "2024-10-04T08:39:33.616153200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3561",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3561/Nodos-1.2.0.b3561-bundle-broadcast_1.2.zip",
-      "release_date": "2024-10-04T08:28:07.456388100+00:00"
+      "release_date": "2024-10-04T08:28:07.456388100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3558",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3558/Nodos-1.2.0.b3558-bundle-broadcast_1.2.zip",
-      "release_date": "2024-10-03T12:35:42.807401100+00:00"
+      "release_date": "2024-10-03T12:35:42.807401100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3557",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3557/Nodos-1.2.0.b3557-bundle-broadcast_1.2.zip",
-      "release_date": "2024-10-02T09:43:12.848584700+00:00"
+      "release_date": "2024-10-02T09:43:12.848584700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3555",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3555/Nodos-1.2.0.b3555-bundle-broadcast_1.2.zip",
-      "release_date": "2024-09-30T09:22:35.933449700+00:00"
+      "release_date": "2024-09-30T09:22:35.933449700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3553",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3553/Nodos-1.2.0.b3553-bundle-broadcast_1.2.zip",
-      "release_date": "2024-09-27T14:01:27.323095700+00:00"
+      "release_date": "2024-09-27T14:01:27.323095700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3552",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3552/Nodos-1.2.0.b3552-bundle-broadcast_1.2.zip",
-      "release_date": "2024-09-27T10:00:40.335134100+00:00"
+      "release_date": "2024-09-27T10:00:40.335134100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3531",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3531/Nodos-1.2.0.b3531-bundle-broadcast.zip",
-      "release_date": "2024-09-27T08:26:39.186208700+00:00"
+      "release_date": "2024-09-27T08:26:39.186208700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3550",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3550/Nodos-1.2.0.b3550-bundle-broadcast_1.2.zip",
-      "release_date": "2024-09-26T15:05:03.769993200+00:00"
+      "release_date": "2024-09-26T15:05:03.769993200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3548",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3548/Nodos-1.2.0.b3548-bundle-broadcast_1.2.zip",
-      "release_date": "2024-09-26T10:04:55.220750900+00:00"
+      "release_date": "2024-09-26T10:04:55.220750900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3547",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3547/Nodos-1.2.0.b3547-bundle-broadcast_1.2.zip",
-      "release_date": "2024-09-26T09:08:57.550378400+00:00"
+      "release_date": "2024-09-26T09:08:57.550378400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3509",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3509/Nodos-1.2.0.b3509-bundle-broadcast.zip",
-      "release_date": "2024-09-20T10:26:36.364571+00:00"
+      "release_date": "2024-09-20T10:26:36.364571+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3487",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.3.0.b3487/Nodos-1.3.0.b3487-bundle-broadcast.zip",
-      "release_date": "2024-09-13T09:58:22.035684800+00:00"
+      "release_date": "2024-09-13T09:58:22.035684800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3470",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3470/Nodos-1.2.0.b3470-bundle-broadcast.zip",
-      "release_date": "2024-09-10T12:58:40.163417100+00:00"
+      "release_date": "2024-09-10T12:58:40.163417100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3466",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3466/Nodos-1.2.0.b3466-bundle-broadcast.zip",
-      "release_date": "2024-09-09T16:08:32.472140900+00:00"
+      "release_date": "2024-09-09T16:08:32.472140900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3457",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3457/Nodos-1.2.0.b3457-bundle-broadcast.zip",
-      "release_date": "2024-09-06T15:56:53.704105500+00:00"
+      "release_date": "2024-09-06T15:56:53.704105500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3452",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.3.0.b3452/Nodos-1.3.0.b3452-bundle-broadcast.zip",
-      "release_date": "2024-09-06T09:59:27.019694500+00:00"
+      "release_date": "2024-09-06T09:59:27.019694500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3451",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3451/Nodos-1.2.0.b3451-bundle-broadcast.zip",
-      "release_date": "2024-09-06T09:46:20.139348400+00:00"
+      "release_date": "2024-09-06T09:46:20.139348400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3443",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.3.0.b3443/Nodos-1.3.0.b3443-bundle-broadcast.zip",
-      "release_date": "2024-09-04T14:02:01.855298100+00:00"
+      "release_date": "2024-09-04T14:02:01.855298100+00:00",
+      "platform": "x86_64-windows"
     }
   ]
 }

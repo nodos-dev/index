@@ -13,7 +13,8 @@
       "dependencies": [],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b246",
@@ -27,7 +28,8 @@
       "dependencies": [],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b227",
@@ -36,7 +38,8 @@
         "major": 35,
         "minor": 10,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b218",
@@ -45,7 +48,8 @@
         "major": 35,
         "minor": 7,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     }
   ]
 }

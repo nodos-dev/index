@@ -3,19 +3,23 @@
   "releases": [
     {
       "version": "0.1.0.b3",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sample.dxapp-0.1.0.b3/nos.sample.dxapp-0.1.0.b3.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sample.dxapp-0.1.0.b3/nos.sample.dxapp-0.1.0.b3.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b2",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sample.dxapp-0.1.0.b2/nos.sample.dxapp-0.1.0.b2.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sample.dxapp-0.1.0.b2/nos.sample.dxapp-0.1.0.b2.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b1",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sample.dxapp-0.1.0.b1/nos.sample.dxapp-0.1.0.b1.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sample.dxapp-0.1.0.b1/nos.sample.dxapp-0.1.0.b1.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b0",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sample.dxapp-0.1.0.b0/nos.sample.dxapp-0.1.0.b0.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sample.dxapp-0.1.0.b0/nos.sample.dxapp-0.1.0.b0.zip",
+      "platform": "x86_64-windows"
     }
   ]
 }

@@ -8,7 +8,8 @@
       "category": "Tools",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b615",
@@ -17,7 +18,8 @@
       "category": "Tools",
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b598",
@@ -26,65 +28,80 @@
       "category": "Tools",
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b545",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b545/nos.sys.shaderc-1.0.0.b545.zip",
       "release_date": "2024-07-31T09:12:34.308191200+00:00",
-      "category": "Tools"
+      "category": "Tools",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b541",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b541/nos.sys.shaderc-1.0.0.b541.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b541/nos.sys.shaderc-1.0.0.b541.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b496",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b496/nos.sys.shaderc-1.0.0.b496.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b496/nos.sys.shaderc-1.0.0.b496.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b464",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b464/nos.sys.shaderc-1.0.0.b464.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b464/nos.sys.shaderc-1.0.0.b464.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b451",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b451/nos.sys.shaderc-1.0.0.b451.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b451/nos.sys.shaderc-1.0.0.b451.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b450",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b450/nos.sys.shaderc-1.0.0.b450.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b450/nos.sys.shaderc-1.0.0.b450.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b449",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b449/nos.sys.shaderc-1.0.0.b449.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b449/nos.sys.shaderc-1.0.0.b449.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b447",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b447/nos.sys.shaderc-1.0.0.b447.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b447/nos.sys.shaderc-1.0.0.b447.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b443",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b443/nos.sys.shaderc-1.0.0.b443.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b443/nos.sys.shaderc-1.0.0.b443.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b426",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b426/nos.sys.shaderc-1.0.0.b426.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.shaderc-1.0.0.b426/nos.sys.shaderc-1.0.0.b426.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b265",
-      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b265/nos.sys.shaderc-1.0.0.b265.zip"
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b265/nos.sys.shaderc-1.0.0.b265.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b257",
-      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b257/nos.sys.shaderc-1.0.0.b257.zip"
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b257/nos.sys.shaderc-1.0.0.b257.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b251",
-      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b251/nos.sys.shaderc-1.0.0.b251.zip"
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b251/nos.sys.shaderc-1.0.0.b251.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b248",
-      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b248/nos.sys.shaderc-1.0.0.b248.zip"
+      "url": "https://github.com/mediaz/modules-releases/releases/download/nos.sys.shaderc-1.0.0.b248/nos.sys.shaderc-1.0.0.b248.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b247",
@@ -93,7 +110,8 @@
         "major": 8,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b239",
@@ -102,7 +120,8 @@
         "major": 7,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b235",
@@ -111,7 +130,8 @@
         "major": 6,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b226",
@@ -120,7 +140,8 @@
         "major": 6,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b215",
@@ -129,7 +150,8 @@
         "major": 6,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b201",
@@ -138,7 +160,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b200",
@@ -147,7 +170,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b142",
@@ -156,7 +180,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b135",
@@ -165,7 +190,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b127",
@@ -174,7 +200,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b126",
@@ -183,7 +210,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b118",
@@ -192,7 +220,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b115",
@@ -201,7 +230,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b112",
@@ -210,7 +240,8 @@
         "major": 5,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b111",
@@ -219,7 +250,8 @@
         "major": 5,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b106",
@@ -228,7 +260,8 @@
         "major": 5,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b101",
@@ -237,7 +270,8 @@
         "major": 5,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b89",
@@ -246,7 +280,8 @@
         "major": 5,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b88",
@@ -255,7 +290,8 @@
         "major": 5,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b87",
@@ -264,7 +300,8 @@
         "major": 5,
         "minor": 0,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b85",
@@ -273,7 +310,8 @@
         "major": 4,
         "minor": 2,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b84",
@@ -282,7 +320,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b83",
@@ -291,7 +330,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b70",
@@ -300,7 +340,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b69",
@@ -309,7 +350,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b67",
@@ -318,7 +360,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b66",
@@ -327,7 +370,8 @@
         "major": 4,
         "minor": 1,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     }
   ]
 }

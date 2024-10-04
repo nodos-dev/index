@@ -22,7 +22,8 @@
       ],
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b598",
@@ -45,7 +46,8 @@
       ],
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b588",
@@ -62,7 +64,8 @@
           "version": "5.8.0"
         }
       ],
-      "category": "Media I/O"
+      "category": "Media I/O",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b586",
@@ -79,7 +82,8 @@
           "version": "5.8.0"
         }
       ],
-      "category": "Media I/O"
+      "category": "Media I/O",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b545",
@@ -96,7 +100,8 @@
           "version": "5.0.0"
         }
       ],
-      "category": "Media I/O"
+      "category": "Media I/O",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b541",
@@ -105,7 +110,8 @@
         "major": 35,
         "minor": 11,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b507",
@@ -114,7 +120,8 @@
         "major": 35,
         "minor": 7,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b504",
@@ -123,7 +130,8 @@
         "major": 35,
         "minor": 7,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b503",
@@ -132,7 +140,8 @@
         "major": 35,
         "minor": 7,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b496",
@@ -141,7 +150,8 @@
         "major": 35,
         "minor": 7,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     }
   ]
 }

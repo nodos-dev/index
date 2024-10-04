@@ -4,122 +4,146 @@
     {
       "version": "1.3.0.b3519",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.3.0.b3519/Nodos-1.3.0.b3519-bundle-standard.zip",
-      "release_date": "2024-09-24T13:40:52.579845600+00:00"
+      "release_date": "2024-09-24T13:40:52.579845600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3497",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.3.0.b3497/Nodos-1.3.0.b3497-bundle-standard.zip",
-      "release_date": "2024-09-17T13:53:17.265865300+00:00"
+      "release_date": "2024-09-17T13:53:17.265865300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3442",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.3.0.b3442/Nodos-1.3.0.b3442-bundle-standard.zip",
-      "release_date": "2024-09-04T13:54:04.455357300+00:00"
+      "release_date": "2024-09-04T13:54:04.455357300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3432",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3432/Nodos-1.2.0.b3432-bundle-standard.zip",
-      "release_date": "2024-09-03T07:41:12.940455100+00:00"
+      "release_date": "2024-09-03T07:41:12.940455100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3424",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3424/Nodos-1.2.0.b3424-bundle-standard.zip",
-      "release_date": "2024-08-26T14:52:04.006129600+00:00"
+      "release_date": "2024-08-26T14:52:04.006129600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3401",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3401/Nodos-1.2.0.b3401-bundle-standard.zip",
-      "release_date": "2024-08-22T13:52:41.902325800+00:00"
+      "release_date": "2024-08-22T13:52:41.902325800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3396",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3396/Nodos-1.2.0.b3396-bundle-standard.zip",
-      "release_date": "2024-08-22T09:46:11.179742700+00:00"
+      "release_date": "2024-08-22T09:46:11.179742700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3392",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3392/Nodos-1.2.0.b3392-bundle-standard.zip",
-      "release_date": "2024-08-22T08:01:08.475266300+00:00"
+      "release_date": "2024-08-22T08:01:08.475266300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3391",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3391/Nodos-1.2.0.b3391-bundle-standard.zip",
-      "release_date": "2024-08-21T15:08:53.776611300+00:00"
+      "release_date": "2024-08-21T15:08:53.776611300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3378",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3378/Nodos-1.2.0.b3378-bundle-standard.zip",
-      "release_date": "2024-08-19T14:01:57.275872100+00:00"
+      "release_date": "2024-08-19T14:01:57.275872100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3376",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3376/Nodos-1.2.0.b3376-bundle-standard.zip",
-      "release_date": "2024-08-19T13:01:12.255467+00:00"
+      "release_date": "2024-08-19T13:01:12.255467+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3375",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3375/Nodos-1.2.0.b3375-bundle-standard.zip",
-      "release_date": "2024-08-19T09:41:09.968903800+00:00"
+      "release_date": "2024-08-19T09:41:09.968903800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3373",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3373/Nodos-1.2.0.b3373-bundle-standard.zip",
-      "release_date": "2024-08-16T11:40:06.526252+00:00"
+      "release_date": "2024-08-16T11:40:06.526252+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3364",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3364/Nodos-1.2.0.b3364-bundle-standard.zip",
-      "release_date": "2024-08-15T10:01:25.709993400+00:00"
+      "release_date": "2024-08-15T10:01:25.709993400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3344",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3344/Nodos-1.2.0.b3344-bundle-standard.zip",
-      "release_date": "2024-08-12T12:53:31.944286700+00:00"
+      "release_date": "2024-08-12T12:53:31.944286700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3337",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3337/Nodos-1.2.0.b3337-bundle-standard.zip",
-      "release_date": "2024-08-09T15:05:11.081230200+00:00"
+      "release_date": "2024-08-09T15:05:11.081230200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3334",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3334/Nodos-1.2.0.b3334-bundle-standard.zip",
-      "release_date": "2024-08-08T12:21:57.739409200+00:00"
+      "release_date": "2024-08-08T12:21:57.739409200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3332",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3332/Nodos-1.2.0.b3332-bundle-standard.zip",
-      "release_date": "2024-08-08T10:03:30.970359800+00:00"
+      "release_date": "2024-08-08T10:03:30.970359800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3323",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3323/Nodos-1.2.0.b3323-bundle-standard.zip",
-      "release_date": "2024-08-07T11:19:17.404033800+00:00"
+      "release_date": "2024-08-07T11:19:17.404033800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3320",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3320/Nodos-1.2.0.b3320-bundle-standard.zip",
-      "release_date": "2024-08-06T09:21:57.060235600+00:00"
+      "release_date": "2024-08-06T09:21:57.060235600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3315",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3315/Nodos-1.2.0.b3315-bundle-standard.zip",
-      "release_date": "2024-08-05T09:56:29.370365800+00:00"
+      "release_date": "2024-08-05T09:56:29.370365800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3309",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3309/Nodos-1.2.0.b3309-bundle-standard.zip",
-      "release_date": "2024-08-02T13:08:36.686875200+00:00"
+      "release_date": "2024-08-02T13:08:36.686875200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3296",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3296/Nodos-1.2.0.b3296-bundle-standard.zip",
-      "release_date": "2024-08-01T09:51:58.998950600+00:00"
+      "release_date": "2024-08-01T09:51:58.998950600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3292",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.standard-1.2.0.b3292/Nodos-1.2.0.b3292-bundle-standard.zip",
-      "release_date": "2024-08-01T07:14:14.500287400+00:00"
+      "release_date": "2024-08-01T07:14:14.500287400+00:00",
+      "platform": "x86_64-windows"
     }
   ]
 }
