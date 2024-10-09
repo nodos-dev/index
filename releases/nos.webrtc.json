@@ -2,6 +2,29 @@
   "name": "nos.webrtc",
   "releases": [
     {
+      "version": "1.1.0.b646",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webrtc-1.1.0.b646/nos.webrtc-1.1.0.b646.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 1,
+        "patch": 0
+      },
+      "release_date": "2024-10-09T14:23:13.230013100+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.8.0"
+        }
+      ],
+      "category": "Media I/O",
+      "module_tags": [
+        "streaming"
+      ],
+      "release_tags": [
+        "nodos-1.2"
+      ]
+    },
+    {
       "version": "1.1.0.b639",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.webrtc-1.1.0.b639-x86_64-windows/nos.webrtc-1.1.0.b639-x86_64-windows.zip",
       "plugin_api_version": {
@@ -22,8 +45,7 @@
       ],
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b638",
@@ -46,8 +68,7 @@
       ],
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b615",
@@ -70,8 +91,7 @@
       ],
       "release_tags": [
         "nodos-1.2"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b598",
@@ -94,8 +114,7 @@
       ],
       "release_tags": [
         "nodos-1.2"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b588",
@@ -112,8 +131,7 @@
           "version": "5.8.0"
         }
       ],
-      "category": "Media I/O",
-      "platform": "x86_64-windows"
+      "category": "Media I/O"
     },
     {
       "version": "1.1.0.b586",
@@ -130,8 +148,7 @@
           "version": "5.8.0"
         }
       ],
-      "category": "Media I/O",
-      "platform": "x86_64-windows"
+      "category": "Media I/O"
     },
     {
       "version": "1.0.0.b545",
@@ -148,8 +165,7 @@
           "version": "5.0.0"
         }
       ],
-      "category": "Media I/O",
-      "platform": "x86_64-windows"
+      "category": "Media I/O"
     },
     {
       "version": "1.0.0.b541",
@@ -158,8 +174,7 @@
         "major": 35,
         "minor": 11,
         "patch": 0
-      },
-      "platform": "x86_64-windows"
+      }
     },
     {
       "version": "1.0.0.b507",
@@ -168,8 +183,7 @@
         "major": 35,
         "minor": 7,
         "patch": 0
-      },
-      "platform": "x86_64-windows"
+      }
     },
     {
       "version": "1.0.0.b504",
@@ -178,8 +192,7 @@
         "major": 35,
         "minor": 7,
         "patch": 0
-      },
-      "platform": "x86_64-windows"
+      }
     },
     {
       "version": "1.0.0.b503",
@@ -188,8 +201,7 @@
         "major": 35,
         "minor": 7,
         "patch": 0
-      },
-      "platform": "x86_64-windows"
+      }
     },
     {
       "version": "1.0.0.b496",
@@ -198,8 +210,7 @@
         "major": 35,
         "minor": 7,
         "patch": 0
-      },
-      "platform": "x86_64-windows"
+      }
     }
   ]
 }
