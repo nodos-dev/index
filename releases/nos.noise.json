@@ -2,6 +2,26 @@
   "name": "nos.noise",
   "releases": [
     {
+      "version": "0.2.0.b646",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.noise-0.2.0.b646/nos.noise-0.2.0.b646.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 1,
+        "patch": 0
+      },
+      "release_date": "2024-10-09T14:22:25.650767100+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.8"
+        }
+      ],
+      "category": "Procedural Generation",
+      "release_tags": [
+        "nodos-1.2"
+      ]
+    },
+    {
       "version": "0.2.1.b644",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.noise-0.2.1.b644-x86_64-linux/nos.noise-0.2.1.b644-x86_64-linux.tar.gz",
       "plugin_api_version": {
@@ -19,8 +39,7 @@
       "category": "Procedural Generation",
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-linux"
+      ]
     },
     {
       "version": "0.2.1.b639",
@@ -40,8 +59,7 @@
       "category": "Procedural Generation",
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "0.2.1.b638",
@@ -61,8 +79,7 @@
       "category": "Procedural Generation",
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "0.2.0.b615",
@@ -82,8 +99,7 @@
       "category": "Procedural Generation",
       "release_tags": [
         "nodos-1.2"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "0.2.1.b600",
@@ -103,8 +119,7 @@
       "category": "Procedural Generation",
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "0.2.0.b598",
@@ -124,8 +139,7 @@
       "category": "Procedural Generation",
       "release_tags": [
         "nodos-1.2"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "0.2.0.b586",
@@ -142,8 +156,7 @@
           "version": "5.8"
         }
       ],
-      "category": "Procedural Generation",
-      "platform": "x86_64-windows"
+      "category": "Procedural Generation"
     },
     {
       "version": "0.1.0.b545",
@@ -160,8 +173,7 @@
           "version": "5.6"
         }
       ],
-      "category": "Procedural Generation",
-      "platform": "x86_64-windows"
+      "category": "Procedural Generation"
     },
     {
       "version": "0.1.0.b541",
@@ -170,8 +182,7 @@
         "major": 35,
         "minor": 11,
         "patch": 0
-      },
-      "platform": "x86_64-windows"
+      }
     },
     {
       "version": "0.1.0.b496",
@@ -180,8 +191,7 @@
         "major": 35,
         "minor": 7,
         "patch": 0
-      },
-      "platform": "x86_64-windows"
+      }
     },
     {
       "version": "0.1.0.b481",
@@ -190,8 +200,7 @@
         "major": 35,
         "minor": 6,
         "patch": 0
-      },
-      "platform": "x86_64-windows"
+      }
     }
   ]
 }
