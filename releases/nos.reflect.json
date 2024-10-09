@@ -18,7 +18,8 @@
       ],
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b644",
@@ -37,7 +38,8 @@
       ],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-linux"
     },
     {
       "version": "1.1.0.b639",
@@ -56,7 +58,8 @@
       ],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b638",
@@ -75,7 +78,8 @@
       ],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b627",
@@ -94,7 +98,8 @@
       ],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b626",
@@ -113,7 +118,8 @@
       ],
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b620",
@@ -132,7 +138,8 @@
       ],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b619",
@@ -151,7 +158,8 @@
       ],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b617",
@@ -170,7 +178,8 @@
       ],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b616",
@@ -189,7 +198,8 @@
       ],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b615",
@@ -208,7 +218,8 @@
       ],
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b614",
@@ -227,7 +238,8 @@
       ],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b612",
@@ -246,7 +258,8 @@
       ],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b605",
@@ -265,7 +278,8 @@
       ],
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b598",
@@ -284,7 +298,8 @@
       ],
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b590",
@@ -300,7 +315,8 @@
           "name": "nos.sys.vulkan",
           "version": "5.8"
         }
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b586",
@@ -316,7 +332,8 @@
           "name": "nos.sys.vulkan",
           "version": "5.8"
         }
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b585",
@@ -327,7 +344,8 @@
         "patch": 0
       },
       "release_date": "2024-08-19T09:05:21.792148500+00:00",
-      "dependencies": []
+      "dependencies": [],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b584",
@@ -338,7 +356,8 @@
         "patch": 0
       },
       "release_date": "2024-08-16T07:38:36.769092800+00:00",
-      "dependencies": []
+      "dependencies": [],
+      "platform": "x86_64-windows"
     }
   ]
 }

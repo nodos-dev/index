@@ -19,7 +19,8 @@
       "category": "Scripting",
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.2.0.b639",
@@ -39,7 +40,8 @@
       "category": "Scripting",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.2.0.b638",
@@ -59,7 +61,8 @@
       "category": "Scripting",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.2.0.b615",
@@ -79,7 +82,8 @@
       "category": "Scripting",
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.2.0.b598",
@@ -99,7 +103,8 @@
       "category": "Scripting",
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.2.0.b586",
@@ -116,7 +121,8 @@
           "version": "1.0.0"
         }
       ],
-      "category": "Scripting"
+      "category": "Scripting",
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b561",
@@ -133,7 +139,8 @@
           "version": "1.0.0"
         }
       ],
-      "category": "Scripting"
+      "category": "Scripting",
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b545",
@@ -150,7 +157,8 @@
           "version": "1.0.0"
         }
       ],
-      "category": "Scripting"
+      "category": "Scripting",
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b541",
@@ -159,7 +167,8 @@
         "major": 9,
         "minor": 12,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b533",
@@ -168,7 +177,8 @@
         "major": 9,
         "minor": 11,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b528",
@@ -177,7 +187,8 @@
         "major": 9,
         "minor": 11,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "0.1.0.b525",
@@ -186,7 +197,8 @@
         "major": 9,
         "minor": 11,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     }
   ]
 }

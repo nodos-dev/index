@@ -14,7 +14,8 @@
       "category": "Animation",
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b644",
@@ -29,7 +30,8 @@
       "category": "Animation",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-linux"
     },
     {
       "version": "1.2.0.b643",
@@ -44,7 +46,8 @@
       "category": "Animation",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-linux"
     },
     {
       "version": "1.2.0.b642",
@@ -59,7 +62,8 @@
       "category": "Animation",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-linux"
     },
     {
       "version": "1.2.0.b639",
@@ -74,7 +78,8 @@
       "category": "Animation",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b638",
@@ -89,7 +94,8 @@
       "category": "Animation",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b615",
@@ -104,7 +110,8 @@
       "category": "Animation",
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b606",
@@ -119,7 +126,8 @@
       "category": "Animation",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b604",
@@ -134,7 +142,8 @@
       "category": "Animation",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b603",
@@ -149,7 +158,8 @@
       "category": "Animation",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b598",
@@ -164,7 +174,8 @@
       "category": "Animation",
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b589",
@@ -176,7 +187,8 @@
       },
       "release_date": "2024-08-22T08:15:08.546893+00:00",
       "dependencies": [],
-      "category": "Animation"
+      "category": "Animation",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.1.0.b586",
@@ -188,7 +200,8 @@
       },
       "release_date": "2024-08-21T09:38:31.512146200+00:00",
       "dependencies": [],
-      "category": "Animation"
+      "category": "Animation",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b545",
@@ -200,7 +213,8 @@
       },
       "release_date": "2024-07-31T09:12:10.890683600+00:00",
       "dependencies": [],
-      "category": "Animation"
+      "category": "Animation",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b541",
@@ -209,7 +223,8 @@
         "major": 9,
         "minor": 12,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b496",
@@ -218,7 +233,8 @@
         "major": 9,
         "minor": 8,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b472",
@@ -227,7 +243,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b471",
@@ -236,7 +253,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b464",
@@ -245,7 +263,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b451",
@@ -254,7 +273,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b450",
@@ -263,7 +283,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b449",
@@ -272,7 +293,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b447",
@@ -281,7 +303,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b443",
@@ -290,7 +313,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b426",
@@ -299,7 +323,8 @@
         "major": 9,
         "minor": 6,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.0.0.b403",
@@ -308,7 +333,8 @@
         "major": 9,
         "minor": 4,
         "patch": 0
-      }
+      },
+      "platform": "x86_64-windows"
     }
   ]
 }

@@ -13,7 +13,8 @@
       "category": "Virtual Studio",
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.6.0.b639",
@@ -27,7 +28,8 @@
       "category": "Virtual Studio",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.6.0.b638",
@@ -41,7 +43,8 @@
       "category": "Virtual Studio",
       "release_tags": [
         "dev"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.6.0.b615",
@@ -55,7 +58,8 @@
       "category": "Virtual Studio",
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.6.0.b598",
@@ -69,7 +73,8 @@
       "category": "Virtual Studio",
       "release_tags": [
         "nodos-1.2"
-      ]
+      ],
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.6.0.b594",
@@ -80,7 +85,8 @@
         "patch": 0
       },
       "release_date": "2024-08-23T08:48:15.989354600+00:00",
-      "category": "Virtual Studio"
+      "category": "Virtual Studio",
+      "platform": "x86_64-windows"
     }
   ]
 }
