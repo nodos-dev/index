@@ -2,6 +2,25 @@
   "name": "nos.reflect",
   "releases": [
     {
+      "version": "1.1.0.b646",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.reflect-1.1.0.b646/nos.reflect-1.1.0.b646.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 1,
+        "patch": 0
+      },
+      "release_date": "2024-10-09T14:22:37.487919300+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.8"
+        }
+      ],
+      "release_tags": [
+        "nodos-1.2"
+      ]
+    },
+    {
       "version": "1.1.0.b644",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.reflect-1.1.0.b644-x86_64-linux/nos.reflect-1.1.0.b644-x86_64-linux.tar.gz",
       "plugin_api_version": {
@@ -18,8 +37,7 @@
       ],
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-linux"
+      ]
     },
     {
       "version": "1.1.0.b639",
@@ -38,8 +56,7 @@
       ],
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b638",
@@ -58,8 +75,7 @@
       ],
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b627",
@@ -78,8 +94,7 @@
       ],
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b626",
@@ -98,8 +113,7 @@
       ],
       "release_tags": [
         "nodos-1.2"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b620",
@@ -118,8 +132,7 @@
       ],
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b619",
@@ -138,8 +151,7 @@
       ],
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b617",
@@ -158,8 +170,7 @@
       ],
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b616",
@@ -178,8 +189,7 @@
       ],
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b615",
@@ -198,8 +208,7 @@
       ],
       "release_tags": [
         "nodos-1.2"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b614",
@@ -218,8 +227,7 @@
       ],
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b612",
@@ -238,8 +246,7 @@
       ],
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b605",
@@ -258,8 +265,7 @@
       ],
       "release_tags": [
         "dev"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b598",
@@ -278,8 +284,7 @@
       ],
       "release_tags": [
         "nodos-1.2"
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b590",
@@ -295,8 +300,7 @@
           "name": "nos.sys.vulkan",
           "version": "5.8"
         }
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.1.0.b586",
@@ -312,8 +316,7 @@
           "name": "nos.sys.vulkan",
           "version": "5.8"
         }
-      ],
-      "platform": "x86_64-windows"
+      ]
     },
     {
       "version": "1.0.0.b585",
@@ -324,8 +327,7 @@
         "patch": 0
       },
       "release_date": "2024-08-19T09:05:21.792148500+00:00",
-      "dependencies": [],
-      "platform": "x86_64-windows"
+      "dependencies": []
     },
     {
       "version": "1.0.0.b584",
@@ -336,8 +338,7 @@
         "patch": 0
       },
       "release_date": "2024-08-16T07:38:36.769092800+00:00",
-      "dependencies": [],
-      "platform": "x86_64-windows"
+      "dependencies": []
     }
   ]
 }
