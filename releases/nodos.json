@@ -4,2066 +4,2521 @@
     {
       "version": "1.2.0.b3586",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3586/Nodos-1.2.0.b3586.zip",
-      "release_date": "2024-10-10T08:33:03.024785100+00:00"
+      "release_date": "2024-10-10T08:33:03.024785100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3584",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3584/Nodos-1.2.0.b3584.zip",
-      "release_date": "2024-10-09T15:13:42.049677+00:00"
+      "release_date": "2024-10-09T15:13:42.049677+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3583",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3583-x86_64-windows/Nodos-1.3.0.b3583.zip",
-      "release_date": "2024-10-09T12:31:28.386690900+00:00"
+      "release_date": "2024-10-09T12:31:28.386690900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3583",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3583-x86_64-linux/Nodos-1.3.0.b3583.tar.gz",
-      "release_date": "2024-10-09T12:26:09.352260970+00:00"
+      "release_date": "2024-10-09T12:26:09.352260970+00:00",
+      "platform": "x86_64-linux"
     },
     {
       "version": "1.3.0.b3582",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3582-x86_64-windows/Nodos-1.3.0.b3582.zip",
-      "release_date": "2024-10-09T12:14:28.098772500+00:00"
+      "release_date": "2024-10-09T12:14:28.098772500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3582",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3582-x86_64-linux/Nodos-1.3.0.b3582.tar.gz",
-      "release_date": "2024-10-09T12:07:19.186268284+00:00"
+      "release_date": "2024-10-09T12:07:19.186268284+00:00",
+      "platform": "x86_64-linux"
     },
     {
       "version": "1.3.0.b3581",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3581-x86_64-windows/Nodos-1.3.0.b3581.zip",
-      "release_date": "2024-10-08T15:08:19.750728600+00:00"
+      "release_date": "2024-10-08T15:08:19.750728600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3581",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3581-x86_64-linux/Nodos-1.3.0.b3581.tar.gz",
-      "release_date": "2024-10-08T15:03:49.442260939+00:00"
+      "release_date": "2024-10-08T15:03:49.442260939+00:00",
+      "platform": "x86_64-linux"
     },
     {
       "version": "1.3.0.b3580",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3580-x86_64-windows/Nodos-1.3.0.b3580.zip",
-      "release_date": "2024-10-08T14:06:28.332741300+00:00"
+      "release_date": "2024-10-08T14:06:28.332741300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3580",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3580-x86_64-linux/Nodos-1.3.0.b3580.tar.gz",
-      "release_date": "2024-10-08T14:01:35.481718154+00:00"
+      "release_date": "2024-10-08T14:01:35.481718154+00:00",
+      "platform": "x86_64-linux"
     },
     {
       "version": "1.3.0.b3579",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3579-x86_64-windows/Nodos-1.3.0.b3579.zip",
-      "release_date": "2024-10-08T12:05:24.213360700+00:00"
+      "release_date": "2024-10-08T12:05:24.213360700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3579",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3579-x86_64-linux/Nodos-1.3.0.b3579.tar.gz",
-      "release_date": "2024-10-08T12:01:10.758665972+00:00"
+      "release_date": "2024-10-08T12:01:10.758665972+00:00",
+      "platform": "x86_64-linux"
     },
     {
       "version": "1.3.0.b3578",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3578-x86_64-windows/Nodos-1.3.0.b3578.zip",
-      "release_date": "2024-10-08T11:31:29.907435200+00:00"
+      "release_date": "2024-10-08T11:31:29.907435200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3578",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3578-x86_64-linux/Nodos-1.3.0.b3578.tar.gz",
-      "release_date": "2024-10-08T11:26:15.195951341+00:00"
+      "release_date": "2024-10-08T11:26:15.195951341+00:00",
+      "platform": "x86_64-linux"
     },
     {
       "version": "1.3.0.b3577",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3577-x86_64-windows/Nodos-1.3.0.b3577.zip",
-      "release_date": "2024-10-08T08:49:19.403095900+00:00"
+      "release_date": "2024-10-08T08:49:19.403095900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3577",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3577-x86_64-linux/Nodos-1.3.0.b3577.zip",
-      "release_date": "2024-10-08T08:06:59.139196721+00:00"
+      "release_date": "2024-10-08T08:06:59.139196721+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3576",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3576/Nodos-1.2.0.b3576.zip",
-      "release_date": "2024-10-08T07:30:43.150659800+00:00"
+      "release_date": "2024-10-08T07:30:43.150659800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3571",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3571-x86_64-linux/Nodos-1.3.0.b3571.zip",
-      "release_date": "2024-10-07T14:27:34.810432047+00:00"
+      "release_date": "2024-10-07T14:27:34.810432047+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3565",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3565-x86_64-windows/Nodos-1.3.0.b3565.zip",
-      "release_date": "2024-10-07T12:23:03.712563800+00:00"
+      "release_date": "2024-10-07T12:23:03.712563800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3564",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3564-x86_64-windows/Nodos-1.3.0.b3564.zip",
-      "release_date": "2024-10-07T11:20:40.865672600+00:00"
+      "release_date": "2024-10-07T11:20:40.865672600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3563",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3563-x86_64-windows/Nodos-1.3.0.b3563.zip",
-      "release_date": "2024-10-07T11:13:23.286508900+00:00"
+      "release_date": "2024-10-07T11:13:23.286508900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3561",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3561-x86_64-windows/Nodos-1.3.0.b3561.zip",
-      "release_date": "2024-10-04T15:38:05.031405+00:00"
+      "release_date": "2024-10-04T15:38:05.031405+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3560",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3560-x86_64-windows/Nodos-1.3.0.b3560.zip",
-      "release_date": "2024-10-04T15:25:10.529625600+00:00"
+      "release_date": "2024-10-04T15:25:10.529625600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3559",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3559-x86_64-windows/Nodos-1.3.0.b3559.zip",
-      "release_date": "2024-10-04T14:41:28.596666500+00:00"
+      "release_date": "2024-10-04T14:41:28.596666500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3558",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3558/Nodos-1.2.0.b3558.zip",
-      "release_date": "2024-10-04T08:17:18.670361800+00:00"
+      "release_date": "2024-10-04T08:17:18.670361800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3557",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3557/Nodos-1.3.0.b3557.zip",
-      "release_date": "2024-10-03T15:29:18.937324800+00:00"
+      "release_date": "2024-10-03T15:29:18.937324800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3555",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3555/Nodos-1.3.0.b3555.zip",
-      "release_date": "2024-10-03T12:10:51.817925600+00:00"
+      "release_date": "2024-10-03T12:10:51.817925600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3554",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3554/Nodos-1.3.0.b3554.zip",
-      "release_date": "2024-10-03T09:08:07.301208400+00:00"
+      "release_date": "2024-10-03T09:08:07.301208400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3553",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3553/Nodos-1.3.0.b3553.zip",
-      "release_date": "2024-10-03T08:57:22.703205800+00:00"
+      "release_date": "2024-10-03T08:57:22.703205800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3552",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3552/Nodos-1.3.0.b3552.zip",
-      "release_date": "2024-10-03T08:21:27.407340800+00:00"
+      "release_date": "2024-10-03T08:21:27.407340800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3551",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3551/Nodos-1.3.0.b3551.zip",
-      "release_date": "2024-10-03T08:06:17.558984+00:00"
+      "release_date": "2024-10-03T08:06:17.558984+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3550",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3550/Nodos-1.3.0.b3550.zip",
-      "release_date": "2024-10-02T15:47:01.910404+00:00"
+      "release_date": "2024-10-02T15:47:01.910404+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3549",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3549/Nodos-1.3.0.b3549.zip",
-      "release_date": "2024-10-02T15:31:42.390750400+00:00"
+      "release_date": "2024-10-02T15:31:42.390750400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3548",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3548/Nodos-1.3.0.b3548.zip",
-      "release_date": "2024-10-02T13:15:04.401735400+00:00"
+      "release_date": "2024-10-02T13:15:04.401735400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3545",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3545/Nodos-1.3.0.b3545.zip",
-      "release_date": "2024-10-02T09:36:07.147485800+00:00"
+      "release_date": "2024-10-02T09:36:07.147485800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3544",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3544/Nodos-1.2.0.b3544.zip",
-      "release_date": "2024-10-01T14:18:45.608605400+00:00"
+      "release_date": "2024-10-01T14:18:45.608605400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3543",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3543/Nodos-1.3.0.b3543.zip",
-      "release_date": "2024-10-01T14:17:34.281683900+00:00"
+      "release_date": "2024-10-01T14:17:34.281683900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3541",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3541/Nodos-1.3.0.b3541.zip",
-      "release_date": "2024-10-01T12:39:46.116003900+00:00"
+      "release_date": "2024-10-01T12:39:46.116003900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3540",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3540/Nodos-1.3.0.b3540.zip",
-      "release_date": "2024-10-01T07:41:28.917907800+00:00"
+      "release_date": "2024-10-01T07:41:28.917907800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3539",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3539/Nodos-1.3.0.b3539.zip",
-      "release_date": "2024-09-30T09:01:47.658336500+00:00"
+      "release_date": "2024-09-30T09:01:47.658336500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3538",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3538/Nodos-1.2.0.b3538.zip",
-      "release_date": "2024-09-30T09:00:24.168525+00:00"
+      "release_date": "2024-09-30T09:00:24.168525+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3537",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3537/Nodos-1.3.0.b3537.zip",
-      "release_date": "2024-09-27T15:44:15.746711500+00:00"
+      "release_date": "2024-09-27T15:44:15.746711500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3536",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3536/Nodos-1.2.0.b3536.zip",
-      "release_date": "2024-09-27T13:01:25.709608200+00:00"
+      "release_date": "2024-09-27T13:01:25.709608200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3535",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3535/Nodos-1.3.0.b3535.zip",
-      "release_date": "2024-09-27T12:18:21.415418800+00:00"
+      "release_date": "2024-09-27T12:18:21.415418800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3534",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3534/Nodos-1.3.0.b3534.zip",
-      "release_date": "2024-09-27T09:57:30.822795200+00:00"
+      "release_date": "2024-09-27T09:57:30.822795200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3533",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3533/Nodos-1.2.0.b3533.zip",
-      "release_date": "2024-09-27T09:38:21.066058600+00:00"
+      "release_date": "2024-09-27T09:38:21.066058600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3532",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3532/Nodos-1.3.0.b3532.zip",
-      "release_date": "2024-09-27T09:16:56.691612+00:00"
+      "release_date": "2024-09-27T09:16:56.691612+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3530",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3530/Nodos-1.3.0.b3530.zip",
-      "release_date": "2024-09-26T14:47:27.064398800+00:00"
+      "release_date": "2024-09-26T14:47:27.064398800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3529",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3529/Nodos-1.3.0.b3529.zip",
-      "release_date": "2024-09-26T08:40:30.802653200+00:00"
+      "release_date": "2024-09-26T08:40:30.802653200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3528",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3528/Nodos-1.3.0.b3528.zip",
-      "release_date": "2024-09-26T06:46:46.565771400+00:00"
+      "release_date": "2024-09-26T06:46:46.565771400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3527",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3527/Nodos-1.3.0.b3527.zip",
-      "release_date": "2024-09-25T15:08:48.198632200+00:00"
+      "release_date": "2024-09-25T15:08:48.198632200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3526",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3526/Nodos-1.3.0.b3526.zip",
-      "release_date": "2024-09-25T15:02:39.900037400+00:00"
+      "release_date": "2024-09-25T15:02:39.900037400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3525",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3525/Nodos-1.3.0.b3525.zip",
-      "release_date": "2024-09-25T13:40:45.341950+00:00"
+      "release_date": "2024-09-25T13:40:45.341950+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3524",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3524/Nodos-1.3.0.b3524.zip",
-      "release_date": "2024-09-25T08:48:36.177902100+00:00"
+      "release_date": "2024-09-25T08:48:36.177902100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3523",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3523/Nodos-1.3.0.b3523.zip",
-      "release_date": "2024-09-24T15:48:01.189691600+00:00"
+      "release_date": "2024-09-24T15:48:01.189691600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3522",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3522/Nodos-1.3.0.b3522.zip",
-      "release_date": "2024-09-24T14:57:06.818850500+00:00"
+      "release_date": "2024-09-24T14:57:06.818850500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3521",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3521/Nodos-1.3.0.b3521.zip",
-      "release_date": "2024-09-24T14:50:59.412309700+00:00"
+      "release_date": "2024-09-24T14:50:59.412309700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3520",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3520/Nodos-1.3.0.b3520.zip",
-      "release_date": "2024-09-24T14:21:47.323994400+00:00"
+      "release_date": "2024-09-24T14:21:47.323994400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3518",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3518/Nodos-1.3.0.b3518.zip",
-      "release_date": "2024-09-24T11:34:16.947649+00:00"
+      "release_date": "2024-09-24T11:34:16.947649+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3517",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3517/Nodos-1.3.0.b3517.zip",
-      "release_date": "2024-09-24T11:23:24.724586400+00:00"
+      "release_date": "2024-09-24T11:23:24.724586400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3516",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3516/Nodos-1.3.0.b3516.zip",
-      "release_date": "2024-09-24T11:12:44.205661600+00:00"
+      "release_date": "2024-09-24T11:12:44.205661600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3515",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3515/Nodos-1.3.0.b3515.zip",
-      "release_date": "2024-09-24T09:52:18.331064300+00:00"
+      "release_date": "2024-09-24T09:52:18.331064300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3514",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3514/Nodos-1.3.0.b3514.zip",
-      "release_date": "2024-09-24T07:50:59.933908600+00:00"
+      "release_date": "2024-09-24T07:50:59.933908600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3513",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3513/Nodos-1.3.0.b3513.zip",
-      "release_date": "2024-09-23T15:21:24.113708600+00:00"
+      "release_date": "2024-09-23T15:21:24.113708600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3512",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3512/Nodos-1.3.0.b3512.zip",
-      "release_date": "2024-09-23T10:49:49.172287800+00:00"
+      "release_date": "2024-09-23T10:49:49.172287800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3511",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3511/Nodos-1.3.0.b3511.zip",
-      "release_date": "2024-09-20T15:11:24.080729200+00:00"
+      "release_date": "2024-09-20T15:11:24.080729200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3510",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3510/Nodos-1.3.0.b3510.zip",
-      "release_date": "2024-09-20T14:56:10.808879700+00:00"
+      "release_date": "2024-09-20T14:56:10.808879700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3508",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3508/Nodos-1.3.0.b3508.zip",
-      "release_date": "2024-09-20T10:08:00.798631600+00:00"
+      "release_date": "2024-09-20T10:08:00.798631600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3507",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3507/Nodos-1.3.0.b3507.zip",
-      "release_date": "2024-09-19T14:42:22.548712900+00:00"
+      "release_date": "2024-09-19T14:42:22.548712900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3506",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3506/Nodos-1.3.0.b3506.zip",
-      "release_date": "2024-09-19T13:41:55.750367500+00:00"
+      "release_date": "2024-09-19T13:41:55.750367500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3505",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3505/Nodos-1.3.0.b3505.zip",
-      "release_date": "2024-09-19T12:48:36.541270200+00:00"
+      "release_date": "2024-09-19T12:48:36.541270200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3504",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3504/Nodos-1.3.0.b3504.zip",
-      "release_date": "2024-09-19T12:34:02.280524800+00:00"
+      "release_date": "2024-09-19T12:34:02.280524800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3503",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3503/Nodos-1.3.0.b3503.zip",
-      "release_date": "2024-09-19T10:04:21.508724500+00:00"
+      "release_date": "2024-09-19T10:04:21.508724500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3502",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3502/Nodos-1.3.0.b3502.zip",
-      "release_date": "2024-09-19T09:06:30.163426+00:00"
+      "release_date": "2024-09-19T09:06:30.163426+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3501",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3501/Nodos-1.3.0.b3501.zip",
-      "release_date": "2024-09-18T09:56:13.376702200+00:00"
+      "release_date": "2024-09-18T09:56:13.376702200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3500",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3500/Nodos-1.3.0.b3500.zip",
-      "release_date": "2024-09-18T07:58:58.001140600+00:00"
+      "release_date": "2024-09-18T07:58:58.001140600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3499",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3499/Nodos-1.3.0.b3499.zip",
-      "release_date": "2024-09-18T07:49:56.071596200+00:00"
+      "release_date": "2024-09-18T07:49:56.071596200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3496",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3496/Nodos-1.3.0.b3496.zip",
-      "release_date": "2024-09-17T10:07:33.975107800+00:00"
+      "release_date": "2024-09-17T10:07:33.975107800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3495",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3495/Nodos-1.2.0.b3495.zip",
-      "release_date": "2024-09-17T09:04:51.621458800+00:00"
+      "release_date": "2024-09-17T09:04:51.621458800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3494",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3494/Nodos-1.3.0.b3494.zip",
-      "release_date": "2024-09-16T11:36:15.775698200+00:00"
+      "release_date": "2024-09-16T11:36:15.775698200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3493",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3493/Nodos-1.3.0.b3493.zip",
-      "release_date": "2024-09-16T09:42:30.847623+00:00"
+      "release_date": "2024-09-16T09:42:30.847623+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3492",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3492/Nodos-1.3.0.b3492.zip",
-      "release_date": "2024-09-16T09:33:04.785214900+00:00"
+      "release_date": "2024-09-16T09:33:04.785214900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3491",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3491/Nodos-1.3.0.b3491.zip",
-      "release_date": "2024-09-13T14:13:03.887108900+00:00"
+      "release_date": "2024-09-13T14:13:03.887108900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3490",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3490/Nodos-1.3.0.b3490.zip",
-      "release_date": "2024-09-13T13:49:02.861447+00:00"
+      "release_date": "2024-09-13T13:49:02.861447+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3489",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3489/Nodos-1.3.0.b3489.zip",
-      "release_date": "2024-09-13T13:02:34.887330+00:00"
+      "release_date": "2024-09-13T13:02:34.887330+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3488",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3488/Nodos-1.3.0.b3488.zip",
-      "release_date": "2024-09-13T12:15:55.983221+00:00"
+      "release_date": "2024-09-13T12:15:55.983221+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3484",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3484/Nodos-1.3.0.b3484.zip",
-      "release_date": "2024-09-13T09:51:49.819213600+00:00"
+      "release_date": "2024-09-13T09:51:49.819213600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3483",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3483/Nodos-1.3.0.b3483.zip",
-      "release_date": "2024-09-13T09:30:02.692552300+00:00"
+      "release_date": "2024-09-13T09:30:02.692552300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3482",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3482/Nodos-1.3.0.b3482.zip",
-      "release_date": "2024-09-13T09:02:15.340298600+00:00"
+      "release_date": "2024-09-13T09:02:15.340298600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3481",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3481/Nodos-1.3.0.b3481.zip",
-      "release_date": "2024-09-13T08:09:07.544356800+00:00"
+      "release_date": "2024-09-13T08:09:07.544356800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3480",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3480/Nodos-1.3.0.b3480.zip",
-      "release_date": "2024-09-12T15:51:46.642159300+00:00"
+      "release_date": "2024-09-12T15:51:46.642159300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3479",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3479/Nodos-1.3.0.b3479.zip",
-      "release_date": "2024-09-12T15:45:47.932891300+00:00"
+      "release_date": "2024-09-12T15:45:47.932891300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3477",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3477/Nodos-1.3.0.b3477.zip",
-      "release_date": "2024-09-11T16:01:45.923461100+00:00"
+      "release_date": "2024-09-11T16:01:45.923461100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3476",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3476/Nodos-1.3.0.b3476.zip",
-      "release_date": "2024-09-11T15:07:20.109868800+00:00"
+      "release_date": "2024-09-11T15:07:20.109868800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3475",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3475/Nodos-1.3.0.b3475.zip",
-      "release_date": "2024-09-11T14:35:09.211477800+00:00"
+      "release_date": "2024-09-11T14:35:09.211477800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3474",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3474/Nodos-1.3.0.b3474.zip",
-      "release_date": "2024-09-11T13:31:30.820496900+00:00"
+      "release_date": "2024-09-11T13:31:30.820496900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3471",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3471/Nodos-1.3.0.b3471.zip",
-      "release_date": "2024-09-11T11:56:21.071286400+00:00"
+      "release_date": "2024-09-11T11:56:21.071286400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3469",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3469/Nodos-1.3.0.b3469.zip",
-      "release_date": "2024-09-10T12:50:48.593658100+00:00"
+      "release_date": "2024-09-10T12:50:48.593658100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3468",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3468/Nodos-1.3.0.b3468.zip",
-      "release_date": "2024-09-10T09:09:33.408119200+00:00"
+      "release_date": "2024-09-10T09:09:33.408119200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3467",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3467/Nodos-1.3.0.b3467.zip",
-      "release_date": "2024-09-10T06:56:15.234094800+00:00"
+      "release_date": "2024-09-10T06:56:15.234094800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3464",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3464/Nodos-1.3.0.b3464.zip",
-      "release_date": "2024-09-09T16:05:16.647400800+00:00"
+      "release_date": "2024-09-09T16:05:16.647400800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3463",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3463/Nodos-1.3.0.b3463.zip",
-      "release_date": "2024-09-09T14:15:28.964184600+00:00"
+      "release_date": "2024-09-09T14:15:28.964184600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3462",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3462/Nodos-1.3.0.b3462.zip",
-      "release_date": "2024-09-09T12:45:25.731709800+00:00"
+      "release_date": "2024-09-09T12:45:25.731709800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3461",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3461/Nodos-1.3.0.b3461.zip",
-      "release_date": "2024-09-09T12:25:00.753180200+00:00"
+      "release_date": "2024-09-09T12:25:00.753180200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3460",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3460/Nodos-1.3.0.b3460.zip",
-      "release_date": "2024-09-09T12:18:20.789378300+00:00"
+      "release_date": "2024-09-09T12:18:20.789378300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3459",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3459/Nodos-1.3.0.b3459.zip",
-      "release_date": "2024-09-09T09:22:30.320515300+00:00"
+      "release_date": "2024-09-09T09:22:30.320515300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3458",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3458/Nodos-1.3.0.b3458.zip",
-      "release_date": "2024-09-09T08:51:44.315522400+00:00"
+      "release_date": "2024-09-09T08:51:44.315522400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3455",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3455/Nodos-1.3.0.b3455.zip",
-      "release_date": "2024-09-06T14:17:14.316480100+00:00"
+      "release_date": "2024-09-06T14:17:14.316480100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3454",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3454/Nodos-1.3.0.b3454.zip",
-      "release_date": "2024-09-06T13:01:04.388281100+00:00"
+      "release_date": "2024-09-06T13:01:04.388281100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3453",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3453/Nodos-1.3.0.b3453.zip",
-      "release_date": "2024-09-06T11:50:31.471653100+00:00"
+      "release_date": "2024-09-06T11:50:31.471653100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3446",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3446/Nodos-1.3.0.b3446.zip",
-      "release_date": "2024-09-05T09:13:44.652482400+00:00"
+      "release_date": "2024-09-05T09:13:44.652482400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3445",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3445/Nodos-1.3.0.b3445.zip",
-      "release_date": "2024-09-05T07:38:07.391493200+00:00"
+      "release_date": "2024-09-05T07:38:07.391493200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3444",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3444/Nodos-1.3.0.b3444.zip",
-      "release_date": "2024-09-04T14:44:57.701734600+00:00"
+      "release_date": "2024-09-04T14:44:57.701734600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3441",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3441/Nodos-1.3.0.b3441.zip",
-      "release_date": "2024-09-04T13:46:59.171592400+00:00"
+      "release_date": "2024-09-04T13:46:59.171592400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3440",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3440/Nodos-1.3.0.b3440.zip",
-      "release_date": "2024-09-04T13:34:18.468382900+00:00"
+      "release_date": "2024-09-04T13:34:18.468382900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3439",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3439/Nodos-1.3.0.b3439.zip",
-      "release_date": "2024-09-04T07:22:42.246795700+00:00"
+      "release_date": "2024-09-04T07:22:42.246795700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3438",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3438/Nodos-1.3.0.b3438.zip",
-      "release_date": "2024-09-03T15:17:54.137060900+00:00"
+      "release_date": "2024-09-03T15:17:54.137060900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3437",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3437/Nodos-1.3.0.b3437.zip",
-      "release_date": "2024-09-03T14:35:17.018888600+00:00"
+      "release_date": "2024-09-03T14:35:17.018888600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3436",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3436/Nodos-1.3.0.b3436.zip",
-      "release_date": "2024-09-03T13:22:21.464913800+00:00"
+      "release_date": "2024-09-03T13:22:21.464913800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3435",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3435/Nodos-1.3.0.b3435.zip",
-      "release_date": "2024-09-03T12:43:11.475131600+00:00"
+      "release_date": "2024-09-03T12:43:11.475131600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3434",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3434/Nodos-1.3.0.b3434.zip",
-      "release_date": "2024-09-03T11:14:25.855213400+00:00"
+      "release_date": "2024-09-03T11:14:25.855213400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3433",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3433/Nodos-1.3.0.b3433.zip",
-      "release_date": "2024-09-03T07:50:54.037536100+00:00"
+      "release_date": "2024-09-03T07:50:54.037536100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3431",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3431/Nodos-1.3.0.b3431.zip",
-      "release_date": "2024-09-02T13:58:11.075710900+00:00"
+      "release_date": "2024-09-02T13:58:11.075710900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3430",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3430/Nodos-1.3.0.b3430.zip",
-      "release_date": "2024-09-02T12:10:26.428080500+00:00"
+      "release_date": "2024-09-02T12:10:26.428080500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3429",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3429/Nodos-1.3.0.b3429.zip",
-      "release_date": "2024-09-02T09:54:35.243926500+00:00"
+      "release_date": "2024-09-02T09:54:35.243926500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3428",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3428/Nodos-1.3.0.b3428.zip",
-      "release_date": "2024-09-02T09:30:53.429281200+00:00"
+      "release_date": "2024-09-02T09:30:53.429281200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3427",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3427/Nodos-1.3.0.b3427.zip",
-      "release_date": "2024-09-02T09:01:16.596245300+00:00"
+      "release_date": "2024-09-02T09:01:16.596245300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3426",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3426/Nodos-1.3.0.b3426.zip",
-      "release_date": "2024-08-29T15:05:17.816790400+00:00"
+      "release_date": "2024-08-29T15:05:17.816790400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3425",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3425/Nodos-1.3.0.b3425.zip",
-      "release_date": "2024-08-27T12:34:04.297157300+00:00"
+      "release_date": "2024-08-27T12:34:04.297157300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3423",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3423/Nodos-1.2.0.b3423.zip",
-      "release_date": "2024-08-26T12:31:48.291829400+00:00"
+      "release_date": "2024-08-26T12:31:48.291829400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3422",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3422/Nodos-1.3.0.b3422.zip",
-      "release_date": "2024-08-26T09:49:54.930627600+00:00"
+      "release_date": "2024-08-26T09:49:54.930627600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3421",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3421/Nodos-1.3.0.b3421.zip",
-      "release_date": "2024-08-26T09:11:42.256887800+00:00"
+      "release_date": "2024-08-26T09:11:42.256887800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3420",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3420/Nodos-1.3.0.b3420.zip",
-      "release_date": "2024-08-26T09:00:00.738492+00:00"
+      "release_date": "2024-08-26T09:00:00.738492+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3419",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3419/Nodos-1.3.0.b3419.zip",
-      "release_date": "2024-08-26T08:48:04.871207100+00:00"
+      "release_date": "2024-08-26T08:48:04.871207100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3418",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3418/Nodos-1.3.0.b3418.zip",
-      "release_date": "2024-08-26T08:37:13.987391900+00:00"
+      "release_date": "2024-08-26T08:37:13.987391900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3417",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3417/Nodos-1.3.0.b3417.zip",
-      "release_date": "2024-08-26T08:28:39.060822200+00:00"
+      "release_date": "2024-08-26T08:28:39.060822200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3416",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3416/Nodos-1.3.0.b3416.zip",
-      "release_date": "2024-08-23T16:04:23.680276600+00:00"
+      "release_date": "2024-08-23T16:04:23.680276600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3415",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3415/Nodos-1.3.0.b3415.zip",
-      "release_date": "2024-08-23T15:17:21.111135800+00:00"
+      "release_date": "2024-08-23T15:17:21.111135800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3413",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3413/Nodos-1.3.0.b3413.zip",
-      "release_date": "2024-08-23T15:11:04.539487600+00:00"
+      "release_date": "2024-08-23T15:11:04.539487600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3412",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3412/Nodos-1.3.0.b3412.zip",
-      "release_date": "2024-08-23T13:56:34.090864500+00:00"
+      "release_date": "2024-08-23T13:56:34.090864500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3411",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3411/Nodos-1.3.0.b3411.zip",
-      "release_date": "2024-08-23T13:20:08.258785800+00:00"
+      "release_date": "2024-08-23T13:20:08.258785800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3410",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3410/Nodos-1.3.0.b3410.zip",
-      "release_date": "2024-08-23T13:11:41.840301+00:00"
+      "release_date": "2024-08-23T13:11:41.840301+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3409",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3409/Nodos-1.3.0.b3409.zip",
-      "release_date": "2024-08-23T13:05:51.569958+00:00"
+      "release_date": "2024-08-23T13:05:51.569958+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3408",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3408/Nodos-1.3.0.b3408.zip",
-      "release_date": "2024-08-23T12:56:23.746983800+00:00"
+      "release_date": "2024-08-23T12:56:23.746983800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3407",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3407/Nodos-1.3.0.b3407.zip",
-      "release_date": "2024-08-23T12:46:54.025256400+00:00"
+      "release_date": "2024-08-23T12:46:54.025256400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3406",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3406/Nodos-1.3.0.b3406.zip",
-      "release_date": "2024-08-23T12:32:41.886891300+00:00"
+      "release_date": "2024-08-23T12:32:41.886891300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.3.0.b3405",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3405/Nodos-1.3.0.b3405.zip",
-      "release_date": "2024-08-23T10:19:13.385076600+00:00"
+      "release_date": "2024-08-23T10:19:13.385076600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3404",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3404/Nodos-1.2.0.b3404.zip",
-      "release_date": "2024-08-23T10:09:30.537390400+00:00"
+      "release_date": "2024-08-23T10:09:30.537390400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3403",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3403/Nodos-1.2.0.b3403.zip",
-      "release_date": "2024-08-23T07:34:48.251236700+00:00"
+      "release_date": "2024-08-23T07:34:48.251236700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3402",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3402/Nodos-1.2.0.b3402.zip",
-      "release_date": "2024-08-23T07:23:52.472730500+00:00"
+      "release_date": "2024-08-23T07:23:52.472730500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3400",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3400/Nodos-1.2.0.b3400.zip",
-      "release_date": "2024-08-22T13:33:06.912387300+00:00"
+      "release_date": "2024-08-22T13:33:06.912387300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3399",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3399/Nodos-1.2.0.b3399.zip",
-      "release_date": "2024-08-22T12:56:43.918545400+00:00"
+      "release_date": "2024-08-22T12:56:43.918545400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3398",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3398/Nodos-1.2.0.b3398.zip",
-      "release_date": "2024-08-22T10:18:44.244628900+00:00"
+      "release_date": "2024-08-22T10:18:44.244628900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3395",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3395/Nodos-1.2.0.b3395.zip",
-      "release_date": "2024-08-22T09:23:08.965949200+00:00"
+      "release_date": "2024-08-22T09:23:08.965949200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3394",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3394/Nodos-1.2.0.b3394.zip",
-      "release_date": "2024-08-22T08:26:59.251518700+00:00"
+      "release_date": "2024-08-22T08:26:59.251518700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3393",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3393/Nodos-1.2.0.b3393.zip",
-      "release_date": "2024-08-22T08:18:15.804428300+00:00"
+      "release_date": "2024-08-22T08:18:15.804428300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3390",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3390/Nodos-1.2.0.b3390.zip",
-      "release_date": "2024-08-21T13:44:48.271331400+00:00"
+      "release_date": "2024-08-21T13:44:48.271331400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3389",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3389/Nodos-1.2.0.b3389.zip",
-      "release_date": "2024-08-21T13:38:24.318448100+00:00"
+      "release_date": "2024-08-21T13:38:24.318448100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3388",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3388/Nodos-1.2.0.b3388.zip",
-      "release_date": "2024-08-21T09:24:35.139598100+00:00"
+      "release_date": "2024-08-21T09:24:35.139598100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3387",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3387/Nodos-1.2.0.b3387.zip",
-      "release_date": "2024-08-21T07:59:30.266225500+00:00"
+      "release_date": "2024-08-21T07:59:30.266225500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3386",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3386/Nodos-1.2.0.b3386.zip",
-      "release_date": "2024-08-21T07:39:30.132317+00:00"
+      "release_date": "2024-08-21T07:39:30.132317+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3385",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3385/Nodos-1.2.0.b3385.zip",
-      "release_date": "2024-08-20T16:05:32.705767200+00:00"
+      "release_date": "2024-08-20T16:05:32.705767200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3384",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3384/Nodos-1.2.0.b3384.zip",
-      "release_date": "2024-08-20T15:43:36.510826+00:00"
+      "release_date": "2024-08-20T15:43:36.510826+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3383",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3383/Nodos-1.2.0.b3383.zip",
-      "release_date": "2024-08-20T13:48:31.982398100+00:00"
+      "release_date": "2024-08-20T13:48:31.982398100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3382",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3382/Nodos-1.2.0.b3382.zip",
-      "release_date": "2024-08-20T12:26:00.433456800+00:00"
+      "release_date": "2024-08-20T12:26:00.433456800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3381",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3381/Nodos-1.2.0.b3381.zip",
-      "release_date": "2024-08-20T11:50:17.954678100+00:00"
+      "release_date": "2024-08-20T11:50:17.954678100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3380",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3380/Nodos-1.2.0.b3380.zip",
-      "release_date": "2024-08-20T08:30:19.475094+00:00"
+      "release_date": "2024-08-20T08:30:19.475094+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3379",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3379/Nodos-1.2.0.b3379.zip",
-      "release_date": "2024-08-20T07:44:42.228254600+00:00"
+      "release_date": "2024-08-20T07:44:42.228254600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3377",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3377/Nodos-1.2.0.b3377.zip",
-      "release_date": "2024-08-19T13:19:54.727582400+00:00"
+      "release_date": "2024-08-19T13:19:54.727582400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3374",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3374/Nodos-1.2.0.b3374.zip",
-      "release_date": "2024-08-19T07:56:26.259797700+00:00"
+      "release_date": "2024-08-19T07:56:26.259797700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3370",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3370/Nodos-1.2.0.b3370.zip",
-      "release_date": "2024-08-16T08:34:11.334311900+00:00"
+      "release_date": "2024-08-16T08:34:11.334311900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3369",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3369/Nodos-1.2.0.b3369.zip",
-      "release_date": "2024-08-16T07:42:20.136254300+00:00"
+      "release_date": "2024-08-16T07:42:20.136254300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3368",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3368/Nodos-1.2.0.b3368.zip",
-      "release_date": "2024-08-15T16:05:12.668059900+00:00"
+      "release_date": "2024-08-15T16:05:12.668059900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3367",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3367/Nodos-1.2.0.b3367.zip",
-      "release_date": "2024-08-15T12:38:26.459294200+00:00"
+      "release_date": "2024-08-15T12:38:26.459294200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3366",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3366/Nodos-1.2.0.b3366.zip",
-      "release_date": "2024-08-15T12:32:10.496250700+00:00"
+      "release_date": "2024-08-15T12:32:10.496250700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3365",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3365/Nodos-1.2.0.b3365.zip",
-      "release_date": "2024-08-15T10:25:24.987580600+00:00"
+      "release_date": "2024-08-15T10:25:24.987580600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3363",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3363/Nodos-1.2.0.b3363.zip",
-      "release_date": "2024-08-15T09:01:55.022368+00:00"
+      "release_date": "2024-08-15T09:01:55.022368+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3362",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3362/Nodos-1.2.0.b3362.zip",
-      "release_date": "2024-08-15T08:50:53.046560800+00:00"
+      "release_date": "2024-08-15T08:50:53.046560800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3361",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3361/Nodos-1.2.0.b3361.zip",
-      "release_date": "2024-08-14T15:44:24.899822600+00:00"
+      "release_date": "2024-08-14T15:44:24.899822600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3360",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3360/Nodos-1.2.0.b3360.zip",
-      "release_date": "2024-08-14T11:39:10.266733200+00:00"
+      "release_date": "2024-08-14T11:39:10.266733200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3359",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3359/Nodos-1.2.0.b3359.zip",
-      "release_date": "2024-08-14T10:01:02.786754400+00:00"
+      "release_date": "2024-08-14T10:01:02.786754400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3358",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3358/Nodos-1.2.0.b3358.zip",
-      "release_date": "2024-08-14T09:31:11.312281100+00:00"
+      "release_date": "2024-08-14T09:31:11.312281100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3357",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3357/Nodos-1.2.0.b3357.zip",
-      "release_date": "2024-08-14T09:15:36.187388300+00:00"
+      "release_date": "2024-08-14T09:15:36.187388300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3356",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3356/Nodos-1.2.0.b3356.zip",
-      "release_date": "2024-08-13T16:17:21.562399400+00:00"
+      "release_date": "2024-08-13T16:17:21.562399400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3355",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3355/Nodos-1.2.0.b3355.zip",
-      "release_date": "2024-08-13T14:26:02.140272100+00:00"
+      "release_date": "2024-08-13T14:26:02.140272100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3354",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3354/Nodos-1.2.0.b3354.zip",
-      "release_date": "2024-08-13T14:11:03.050476400+00:00"
+      "release_date": "2024-08-13T14:11:03.050476400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3353",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3353/Nodos-1.2.0.b3353.zip",
-      "release_date": "2024-08-13T13:40:11.929543700+00:00"
+      "release_date": "2024-08-13T13:40:11.929543700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3352",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3352/Nodos-1.2.0.b3352.zip",
-      "release_date": "2024-08-13T12:59:53.413346300+00:00"
+      "release_date": "2024-08-13T12:59:53.413346300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3351",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3351/Nodos-1.2.0.b3351.zip",
-      "release_date": "2024-08-13T08:54:18.567505+00:00"
+      "release_date": "2024-08-13T08:54:18.567505+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3350",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3350/Nodos-1.2.0.b3350.zip",
-      "release_date": "2024-08-13T08:32:31.271615300+00:00"
+      "release_date": "2024-08-13T08:32:31.271615300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3349",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3349/Nodos-1.2.0.b3349.zip",
-      "release_date": "2024-08-12T15:35:11.670738100+00:00"
+      "release_date": "2024-08-12T15:35:11.670738100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3348",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3348/Nodos-1.2.0.b3348.zip",
-      "release_date": "2024-08-12T14:44:02.270410900+00:00"
+      "release_date": "2024-08-12T14:44:02.270410900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3347",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3347/Nodos-1.2.0.b3347.zip",
-      "release_date": "2024-08-12T14:24:41.165031900+00:00"
+      "release_date": "2024-08-12T14:24:41.165031900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3346",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3346/Nodos-1.2.0.b3346.zip",
-      "release_date": "2024-08-12T13:50:12.730055900+00:00"
+      "release_date": "2024-08-12T13:50:12.730055900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3345",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3345/Nodos-1.2.0.b3345.zip",
-      "release_date": "2024-08-12T13:43:47.181704300+00:00"
+      "release_date": "2024-08-12T13:43:47.181704300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3343",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3343/Nodos-1.2.0.b3343.zip",
-      "release_date": "2024-08-12T12:33:51.803504600+00:00"
+      "release_date": "2024-08-12T12:33:51.803504600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3342",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3342/Nodos-1.2.0.b3342.zip",
-      "release_date": "2024-08-12T11:18:26.178062800+00:00"
+      "release_date": "2024-08-12T11:18:26.178062800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3341",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3341/Nodos-1.2.0.b3341.zip",
-      "release_date": "2024-08-12T09:23:49.962536300+00:00"
+      "release_date": "2024-08-12T09:23:49.962536300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3340",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3340/Nodos-1.2.0.b3340.zip",
-      "release_date": "2024-08-12T08:21:21.760795900+00:00"
+      "release_date": "2024-08-12T08:21:21.760795900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3339",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3339/Nodos-1.2.0.b3339.zip",
-      "release_date": "2024-08-12T08:05:50.258405100+00:00"
+      "release_date": "2024-08-12T08:05:50.258405100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3338",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3338/Nodos-1.2.0.b3338.zip",
-      "release_date": "2024-08-12T07:40:51.236444300+00:00"
+      "release_date": "2024-08-12T07:40:51.236444300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3336",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3336/Nodos-1.2.0.b3336.zip",
-      "release_date": "2024-08-09T14:57:46.070671100+00:00"
+      "release_date": "2024-08-09T14:57:46.070671100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3335",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3335/Nodos-1.2.0.b3335.zip",
-      "release_date": "2024-08-09T14:31:35.543362900+00:00"
+      "release_date": "2024-08-09T14:31:35.543362900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3333",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3333/Nodos-1.2.0.b3333.zip",
-      "release_date": "2024-08-08T10:16:44.845347800+00:00"
+      "release_date": "2024-08-08T10:16:44.845347800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3330",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3330/Nodos-1.2.0.b3330.zip",
-      "release_date": "2024-08-08T09:53:22.531262200+00:00"
+      "release_date": "2024-08-08T09:53:22.531262200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3329",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3329/Nodos-1.2.0.b3329.zip",
-      "release_date": "2024-08-08T08:44:43.556219500+00:00"
+      "release_date": "2024-08-08T08:44:43.556219500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3328",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3328/Nodos-1.2.0.b3328.zip",
-      "release_date": "2024-08-08T08:00:59.588143800+00:00"
+      "release_date": "2024-08-08T08:00:59.588143800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3327",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3327/Nodos-1.2.0.b3327.zip",
-      "release_date": "2024-08-07T15:38:53.731632+00:00"
+      "release_date": "2024-08-07T15:38:53.731632+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3324",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3324/Nodos-1.2.0.b3324.zip",
-      "release_date": "2024-08-07T11:55:52.035100+00:00"
+      "release_date": "2024-08-07T11:55:52.035100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3322",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3322/Nodos-1.2.0.b3322.zip",
-      "release_date": "2024-08-06T11:30:48.613343800+00:00"
+      "release_date": "2024-08-06T11:30:48.613343800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3321",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3321/Nodos-1.2.0.b3321.zip",
-      "release_date": "2024-08-06T09:30:01.308415100+00:00"
+      "release_date": "2024-08-06T09:30:01.308415100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3318",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3318/Nodos-1.2.0.b3318.zip",
-      "release_date": "2024-08-06T09:02:44.833967300+00:00"
+      "release_date": "2024-08-06T09:02:44.833967300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3317",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3317/Nodos-1.2.0.b3317.zip",
-      "release_date": "2024-08-06T08:32:50.588387+00:00"
+      "release_date": "2024-08-06T08:32:50.588387+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3316",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3316/Nodos-1.2.0.b3316.zip",
-      "release_date": "2024-08-06T08:15:48.911762+00:00"
+      "release_date": "2024-08-06T08:15:48.911762+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3314",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3314/Nodos-1.2.0.b3314.zip",
-      "release_date": "2024-08-05T09:32:24.032730200+00:00"
+      "release_date": "2024-08-05T09:32:24.032730200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3313",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3313/Nodos-1.2.0.b3313.zip",
-      "release_date": "2024-08-05T08:21:22.786557+00:00"
+      "release_date": "2024-08-05T08:21:22.786557+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3311",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3311/Nodos-1.2.0.b3311.zip",
-      "release_date": "2024-08-02T15:10:31.051041400+00:00"
+      "release_date": "2024-08-02T15:10:31.051041400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3310",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3310/Nodos-1.2.0.b3310.zip",
-      "release_date": "2024-08-02T13:26:25.484100200+00:00"
+      "release_date": "2024-08-02T13:26:25.484100200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3308",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3308/Nodos-1.2.0.b3308.zip",
-      "release_date": "2024-08-02T12:43:27.576454900+00:00"
+      "release_date": "2024-08-02T12:43:27.576454900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3307",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3307/Nodos-1.2.0.b3307.zip",
-      "release_date": "2024-08-02T12:14:38.655294700+00:00"
+      "release_date": "2024-08-02T12:14:38.655294700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3306",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3306/Nodos-1.2.0.b3306.zip",
-      "release_date": "2024-08-02T10:35:28.569535400+00:00"
+      "release_date": "2024-08-02T10:35:28.569535400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3305",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3305/Nodos-1.2.0.b3305.zip",
-      "release_date": "2024-08-02T09:48:14.471006700+00:00"
+      "release_date": "2024-08-02T09:48:14.471006700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3304",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3304/Nodos-1.2.0.b3304.zip",
-      "release_date": "2024-08-02T08:58:57.327351800+00:00"
+      "release_date": "2024-08-02T08:58:57.327351800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3303",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3303/Nodos-1.2.0.b3303.zip",
-      "release_date": "2024-08-01T14:49:26.719776+00:00"
+      "release_date": "2024-08-01T14:49:26.719776+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3302",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3302/Nodos-1.2.0.b3302.zip",
-      "release_date": "2024-08-01T13:39:27.307091600+00:00"
+      "release_date": "2024-08-01T13:39:27.307091600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3301",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3301/Nodos-1.2.0.b3301.zip",
-      "release_date": "2024-08-01T13:27:20.203555300+00:00"
+      "release_date": "2024-08-01T13:27:20.203555300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3300",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3300/Nodos-1.2.0.b3300.zip",
-      "release_date": "2024-08-01T12:16:00.212228300+00:00"
+      "release_date": "2024-08-01T12:16:00.212228300+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3299",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3299/Nodos-1.2.0.b3299.zip",
-      "release_date": "2024-08-01T11:25:26.665579700+00:00"
+      "release_date": "2024-08-01T11:25:26.665579700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3298",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3298/Nodos-1.2.0.b3298.zip",
-      "release_date": "2024-08-01T10:17:54.183671400+00:00"
+      "release_date": "2024-08-01T10:17:54.183671400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3297",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3297/Nodos-1.2.0.b3297.zip",
-      "release_date": "2024-08-01T10:07:41.536941800+00:00"
+      "release_date": "2024-08-01T10:07:41.536941800+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3295",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3295/Nodos-1.2.0.b3295.zip",
-      "release_date": "2024-08-01T09:43:27.286485700+00:00"
+      "release_date": "2024-08-01T09:43:27.286485700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3294",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3294/Nodos-1.2.0.b3294.zip",
-      "release_date": "2024-08-01T08:55:35.970201+00:00"
+      "release_date": "2024-08-01T08:55:35.970201+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3293",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3293/Nodos-1.2.0.b3293.zip",
-      "release_date": "2024-08-01T07:34:00.243823900+00:00"
+      "release_date": "2024-08-01T07:34:00.243823900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3290",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3290/Nodos-1.2.0.b3290.zip",
-      "release_date": "2024-07-31T15:56:47.429291200+00:00"
+      "release_date": "2024-07-31T15:56:47.429291200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3289",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3289/Nodos-1.2.0.b3289.zip",
-      "release_date": "2024-07-31T15:48:49.159681600+00:00"
+      "release_date": "2024-07-31T15:48:49.159681600+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3288",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3288/Nodos-1.2.0.b3288.zip",
-      "release_date": "2024-07-31T15:22:12.676266100+00:00"
+      "release_date": "2024-07-31T15:22:12.676266100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3287",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3287/Nodos-1.2.0.b3287.zip",
-      "release_date": "2024-07-31T13:52:17.731488100+00:00"
+      "release_date": "2024-07-31T13:52:17.731488100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3286",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3286/Nodos-1.2.0.b3286.zip",
-      "release_date": "2024-07-31T11:46:39.168489500+00:00"
+      "release_date": "2024-07-31T11:46:39.168489500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3285",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3285/Nodos-1.2.0.b3285.zip",
-      "release_date": "2024-07-31T11:38:27.786503200+00:00"
+      "release_date": "2024-07-31T11:38:27.786503200+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3284",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3284/Nodos-1.2.0.b3284.zip",
-      "release_date": "2024-07-31T11:30:35.930243900+00:00"
+      "release_date": "2024-07-31T11:30:35.930243900+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3283",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3283/Nodos-1.2.0.b3283.zip",
-      "release_date": "2024-07-31T11:11:30.299017700+00:00"
+      "release_date": "2024-07-31T11:11:30.299017700+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3282",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3282/Nodos-1.2.0.b3282.zip",
-      "release_date": "2024-07-31T10:25:42.594671100+00:00"
+      "release_date": "2024-07-31T10:25:42.594671100+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3280",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3280/Nodos-1.2.0.b3280.zip",
-      "release_date": "2024-07-31T10:17:59.632465500+00:00"
+      "release_date": "2024-07-31T10:17:59.632465500+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3279",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3279/Nodos-1.2.0.b3279.zip",
-      "release_date": "2024-07-31T08:56:02.378058400+00:00"
+      "release_date": "2024-07-31T08:56:02.378058400+00:00",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3277",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3277/Nodos-1.2.0.b3277.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3277/Nodos-1.2.0.b3277.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3276",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3276/Nodos-1.2.0.b3276.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3276/Nodos-1.2.0.b3276.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3275",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3275/Nodos-1.2.0.b3275.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3275/Nodos-1.2.0.b3275.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3274",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3274/Nodos-1.2.0.b3274.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3274/Nodos-1.2.0.b3274.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3272",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3272/Nodos-1.2.0.b3272.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3272/Nodos-1.2.0.b3272.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3271",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3271/Nodos-1.2.0.b3271.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3271/Nodos-1.2.0.b3271.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3269",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3269/Nodos-1.2.0.b3269.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3269/Nodos-1.2.0.b3269.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3268",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3268/Nodos-1.2.0.b3268.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3268/Nodos-1.2.0.b3268.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3267",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3267/Nodos-1.2.0.b3267.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3267/Nodos-1.2.0.b3267.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3263",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3263/Nodos-1.2.0.b3263.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3263/Nodos-1.2.0.b3263.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3262",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3262/Nodos-1.2.0.b3262.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3262/Nodos-1.2.0.b3262.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3261",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3261/Nodos-1.2.0.b3261.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3261/Nodos-1.2.0.b3261.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3260",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3260/Nodos-1.2.0.b3260.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3260/Nodos-1.2.0.b3260.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3258",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3258/Nodos-1.2.0.b3258.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3258/Nodos-1.2.0.b3258.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3256",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3256/Nodos-1.2.0.b3256.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3256/Nodos-1.2.0.b3256.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3255",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3255/Nodos-1.2.0.b3255.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3255/Nodos-1.2.0.b3255.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3254",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3254/Nodos-1.2.0.b3254.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3254/Nodos-1.2.0.b3254.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3253",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3253/Nodos-1.2.0.b3253.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3253/Nodos-1.2.0.b3253.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3252",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3252/Nodos-1.2.0.b3252.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3252/Nodos-1.2.0.b3252.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3249",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3249/Nodos-1.2.0.b3249.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3249/Nodos-1.2.0.b3249.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3247",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3247/Nodos-1.2.0.b3247.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3247/Nodos-1.2.0.b3247.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3246",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3246/Nodos-1.2.0.b3246.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3246/Nodos-1.2.0.b3246.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3245",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3245/Nodos-1.2.0.b3245.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3245/Nodos-1.2.0.b3245.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3244",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3244/Nodos-1.2.0.b3244.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3244/Nodos-1.2.0.b3244.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3243",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3243/Nodos-1.2.0.b3243.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3243/Nodos-1.2.0.b3243.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3241",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3241/Nodos-1.2.0.b3241.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3241/Nodos-1.2.0.b3241.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3240",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3240/Nodos-1.2.0.b3240.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3240/Nodos-1.2.0.b3240.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3239",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3239/Nodos-1.2.0.b3239.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3239/Nodos-1.2.0.b3239.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3238",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3238/Nodos-1.2.0.b3238.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3238/Nodos-1.2.0.b3238.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3237",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3237/Nodos-1.2.0.b3237.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3237/Nodos-1.2.0.b3237.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3236",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3236/Nodos-1.2.0.b3236.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3236/Nodos-1.2.0.b3236.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3235",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3235/Nodos-1.2.0.b3235.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3235/Nodos-1.2.0.b3235.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3234",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3234/Nodos-1.2.0.b3234.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3234/Nodos-1.2.0.b3234.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3233",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3233/Nodos-1.2.0.b3233.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3233/Nodos-1.2.0.b3233.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3232",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3232/Nodos-1.2.0.b3232.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3232/Nodos-1.2.0.b3232.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3231",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3231/Nodos-1.2.0.b3231.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3231/Nodos-1.2.0.b3231.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3230",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3230/Nodos-1.2.0.b3230.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3230/Nodos-1.2.0.b3230.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3229",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3229/Nodos-1.2.0.b3229.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3229/Nodos-1.2.0.b3229.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3228",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3228/Nodos-1.2.0.b3228.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3228/Nodos-1.2.0.b3228.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3227",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3227/Nodos-1.2.0.b3227.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3227/Nodos-1.2.0.b3227.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3226",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3226/Nodos-1.2.0.b3226.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3226/Nodos-1.2.0.b3226.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3225",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3225/Nodos-1.2.0.b3225.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3225/Nodos-1.2.0.b3225.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3224",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3224/Nodos-1.2.0.b3224.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3224/Nodos-1.2.0.b3224.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3223",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3223/Nodos-1.2.0.b3223.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3223/Nodos-1.2.0.b3223.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3222",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3222/Nodos-1.2.0.b3222.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3222/Nodos-1.2.0.b3222.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3221",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3221/Nodos-1.2.0.b3221.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3221/Nodos-1.2.0.b3221.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3220",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3220/Nodos-1.2.0.b3220.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3220/Nodos-1.2.0.b3220.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3219",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3219/Nodos-1.2.0.b3219.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3219/Nodos-1.2.0.b3219.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3218",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3218/Nodos-1.2.0.b3218.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3218/Nodos-1.2.0.b3218.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3217",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3217/Nodos-1.2.0.b3217.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3217/Nodos-1.2.0.b3217.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3216",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3216/Nodos-1.2.0.b3216.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3216/Nodos-1.2.0.b3216.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3215",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3215/Nodos-1.2.0.b3215.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3215/Nodos-1.2.0.b3215.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3213",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3213/Nodos-1.2.0.b3213.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3213/Nodos-1.2.0.b3213.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3212",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3212/Nodos-1.2.0.b3212.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3212/Nodos-1.2.0.b3212.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3211",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3211/Nodos-1.2.0.b3211.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3211/Nodos-1.2.0.b3211.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3210",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3210/Nodos-1.2.0.b3210.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3210/Nodos-1.2.0.b3210.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3209",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3209/Nodos-1.2.0.b3209.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3209/Nodos-1.2.0.b3209.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3208",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3208/Nodos-1.2.0.b3208.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3208/Nodos-1.2.0.b3208.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3207",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3207/Nodos-1.2.0.b3207.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3207/Nodos-1.2.0.b3207.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3205",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3205/Nodos-1.2.0.b3205.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3205/Nodos-1.2.0.b3205.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3204",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3204/Nodos-1.2.0.b3204.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3204/Nodos-1.2.0.b3204.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3202",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3202/Nodos-1.2.0.b3202.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3202/Nodos-1.2.0.b3202.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3201",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3201/Nodos-1.2.0.b3201.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3201/Nodos-1.2.0.b3201.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3200",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3200/Nodos-1.2.0.b3200.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3200/Nodos-1.2.0.b3200.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3199",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3199/Nodos-1.2.0.b3199.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3199/Nodos-1.2.0.b3199.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3198",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3198/Nodos-1.2.0.b3198.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3198/Nodos-1.2.0.b3198.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3197",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3197/Nodos-1.2.0.b3197.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3197/Nodos-1.2.0.b3197.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3196",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3196/Nodos-1.2.0.b3196.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3196/Nodos-1.2.0.b3196.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3195",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3195/Nodos-1.2.0.b3195.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3195/Nodos-1.2.0.b3195.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3194",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3194/Nodos-1.2.0.b3194.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3194/Nodos-1.2.0.b3194.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3193",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3193/Nodos-1.2.0.b3193.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3193/Nodos-1.2.0.b3193.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3192",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3192/Nodos-1.2.0.b3192.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3192/Nodos-1.2.0.b3192.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3191",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3191/Nodos-1.2.0.b3191.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3191/Nodos-1.2.0.b3191.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3190",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3190/Nodos-1.2.0.b3190.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3190/Nodos-1.2.0.b3190.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3189",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3189/Nodos-1.2.0.b3189.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3189/Nodos-1.2.0.b3189.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3188",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3188/Nodos-1.2.0.b3188.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3188/Nodos-1.2.0.b3188.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3187",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3187/Nodos-1.2.0.b3187.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3187/Nodos-1.2.0.b3187.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3186",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3186/Nodos-1.2.0.b3186.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3186/Nodos-1.2.0.b3186.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3184",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3184/Nodos-1.2.0.b3184.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3184/Nodos-1.2.0.b3184.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3182",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3182/Nodos-1.2.0.b3182.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3182/Nodos-1.2.0.b3182.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3179",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3179/Nodos-1.2.0.b3179.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3179/Nodos-1.2.0.b3179.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3178",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3178/Nodos-1.2.0.b3178.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3178/Nodos-1.2.0.b3178.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3177",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3177/Nodos-1.2.0.b3177.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3177/Nodos-1.2.0.b3177.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3176",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3176/Nodos-1.2.0.b3176.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3176/Nodos-1.2.0.b3176.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3174",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3174/Nodos-1.2.0.b3174.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3174/Nodos-1.2.0.b3174.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3171",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3171/Nodos-1.2.0.b3171.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3171/Nodos-1.2.0.b3171.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3170",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3170/Nodos-1.2.0.b3170.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3170/Nodos-1.2.0.b3170.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3169",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3169/Nodos-1.2.0.b3169.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3169/Nodos-1.2.0.b3169.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3168",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3168/Nodos-1.2.0.b3168.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3168/Nodos-1.2.0.b3168.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3167",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3167/Nodos-1.2.0.b3167.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3167/Nodos-1.2.0.b3167.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3162",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3162/Nodos-1.2.0.b3162.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3162/Nodos-1.2.0.b3162.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3161",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3161/Nodos-1.2.0.b3161.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3161/Nodos-1.2.0.b3161.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3156",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3156/Nodos-1.2.0.b3156.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3156/Nodos-1.2.0.b3156.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3155",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3155/Nodos-1.2.0.b3155.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3155/Nodos-1.2.0.b3155.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3154",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3154/Nodos-1.2.0.b3154.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3154/Nodos-1.2.0.b3154.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3152",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3152/Nodos-1.2.0.b3152.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3152/Nodos-1.2.0.b3152.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3151",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3151/Nodos-1.2.0.b3151.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3151/Nodos-1.2.0.b3151.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3150",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3150/Nodos-1.2.0.b3150.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3150/Nodos-1.2.0.b3150.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3147",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3147/Nodos-1.2.0.b3147.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3147/Nodos-1.2.0.b3147.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3143",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3143/Nodos-1.2.0.b3143.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3143/Nodos-1.2.0.b3143.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3142",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3142/Nodos-1.2.0.b3142.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3142/Nodos-1.2.0.b3142.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3141",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3141/Nodos-1.2.0.b3141.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3141/Nodos-1.2.0.b3141.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3140",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3140/Nodos-1.2.0.b3140.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3140/Nodos-1.2.0.b3140.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3138",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3138/Nodos-1.2.0.b3138.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3138/Nodos-1.2.0.b3138.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3137",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3137/Nodos-1.2.0.b3137.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3137/Nodos-1.2.0.b3137.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3131",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3131/Nodos-1.2.0.b3131.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3131/Nodos-1.2.0.b3131.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3130",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3130/Nodos-1.2.0.b3130.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3130/Nodos-1.2.0.b3130.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3129",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3129/Nodos-1.2.0.b3129.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3129/Nodos-1.2.0.b3129.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3128",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3128/Nodos-1.2.0.b3128.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3128/Nodos-1.2.0.b3128.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3126",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3126/Nodos-1.2.0.b3126.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3126/Nodos-1.2.0.b3126.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3125",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3125/Nodos-1.2.0.b3125.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3125/Nodos-1.2.0.b3125.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3124",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3124/Nodos-1.2.0.b3124.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3124/Nodos-1.2.0.b3124.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3123",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3123/Nodos-1.2.0.b3123.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3123/Nodos-1.2.0.b3123.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3122",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3122/Nodos-1.2.0.b3122.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3122/Nodos-1.2.0.b3122.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3121",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3121/Nodos-1.2.0.b3121.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3121/Nodos-1.2.0.b3121.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3120",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3120/Nodos-1.2.0.b3120.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3120/Nodos-1.2.0.b3120.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3119",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3119/Nodos-1.2.0.b3119.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3119/Nodos-1.2.0.b3119.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3118",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3118/Nodos-1.2.0.b3118.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3118/Nodos-1.2.0.b3118.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3115",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3115/Nodos-1.2.0.b3115.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3115/Nodos-1.2.0.b3115.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3114",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3114/Nodos-1.2.0.b3114.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3114/Nodos-1.2.0.b3114.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3113",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3113/Nodos-1.2.0.b3113.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3113/Nodos-1.2.0.b3113.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3112",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3112/Nodos-1.2.0.b3112.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3112/Nodos-1.2.0.b3112.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3111",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3111/Nodos-1.2.0.b3111.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3111/Nodos-1.2.0.b3111.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3110",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3110/Nodos-1.2.0.b3110.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3110/Nodos-1.2.0.b3110.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3109",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3109/Nodos-1.2.0.b3109.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3109/Nodos-1.2.0.b3109.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3108",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3108/Nodos-1.2.0.b3108.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3108/Nodos-1.2.0.b3108.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3107",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3107/Nodos-1.2.0.b3107.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3107/Nodos-1.2.0.b3107.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3104",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3104/Nodos-1.2.0.b3104.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3104/Nodos-1.2.0.b3104.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3103",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3103/Nodos-1.2.0.b3103.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3103/Nodos-1.2.0.b3103.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3102",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3102/Nodos-1.2.0.b3102.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3102/Nodos-1.2.0.b3102.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3101",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3101/Nodos-1.2.0.b3101.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3101/Nodos-1.2.0.b3101.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3100",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3100/Nodos-1.2.0.b3100.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3100/Nodos-1.2.0.b3100.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3099",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3099/Nodos-1.2.0.b3099.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3099/Nodos-1.2.0.b3099.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3098",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3098/Nodos-1.2.0.b3098.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3098/Nodos-1.2.0.b3098.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3097",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3097/Nodos-1.2.0.b3097.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3097/Nodos-1.2.0.b3097.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3096",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3096/Nodos-1.2.0.b3096.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3096/Nodos-1.2.0.b3096.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3095",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3095/Nodos-1.2.0.b3095.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3095/Nodos-1.2.0.b3095.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3094",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3094/Nodos-1.2.0.b3094.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3094/Nodos-1.2.0.b3094.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3093",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3093/Nodos-1.2.0.b3093.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3093/Nodos-1.2.0.b3093.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3092",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3092/Nodos-1.2.0.b3092.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3092/Nodos-1.2.0.b3092.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3091",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3091/Nodos-1.2.0.b3091.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3091/Nodos-1.2.0.b3091.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3090",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3090/Nodos-1.2.0.b3090.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3090/Nodos-1.2.0.b3090.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3089",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3089/Nodos-1.2.0.b3089.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3089/Nodos-1.2.0.b3089.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3088",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3088/Nodos-1.2.0.b3088.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3088/Nodos-1.2.0.b3088.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3087",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3087/Nodos-1.2.0.b3087.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3087/Nodos-1.2.0.b3087.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3086",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3086/Nodos-1.2.0.b3086.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3086/Nodos-1.2.0.b3086.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3085",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3085/Nodos-1.2.0.b3085.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3085/Nodos-1.2.0.b3085.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3084",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3084/Nodos-1.2.0.b3084.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3084/Nodos-1.2.0.b3084.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3083",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3083/Nodos-1.2.0.b3083.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3083/Nodos-1.2.0.b3083.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3082",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3082/Nodos-1.2.0.b3082.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3082/Nodos-1.2.0.b3082.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3081",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3081/Nodos-1.2.0.b3081.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3081/Nodos-1.2.0.b3081.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3080",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3080/Nodos-1.2.0.b3080.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3080/Nodos-1.2.0.b3080.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3078",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3078/Nodos-1.2.0.b3078.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3078/Nodos-1.2.0.b3078.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3077",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3077/Nodos-1.2.0.b3077.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3077/Nodos-1.2.0.b3077.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3076",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3076/Nodos-1.2.0.b3076.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3076/Nodos-1.2.0.b3076.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3075",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3075/Nodos-1.2.0.b3075.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3075/Nodos-1.2.0.b3075.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3074",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3074/Nodos-1.2.0.b3074.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3074/Nodos-1.2.0.b3074.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3073",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3073/Nodos-1.2.0.b3073.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3073/Nodos-1.2.0.b3073.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3071",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3071/Nodos-1.2.0.b3071.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3071/Nodos-1.2.0.b3071.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3070",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3070/Nodos-1.2.0.b3070.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3070/Nodos-1.2.0.b3070.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3069",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3069/Nodos-1.2.0.b3069.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3069/Nodos-1.2.0.b3069.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3068",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3068/Nodos-1.2.0.b3068.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3068/Nodos-1.2.0.b3068.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3067",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3067/Nodos-1.2.0.b3067.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3067/Nodos-1.2.0.b3067.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3066",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3066/Nodos-1.2.0.b3066.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3066/Nodos-1.2.0.b3066.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3064",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3064/Nodos-1.2.0.b3064.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3064/Nodos-1.2.0.b3064.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3063",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3063/Nodos-1.2.0.b3063.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3063/Nodos-1.2.0.b3063.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3062",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3062/Nodos-1.2.0.b3062.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3062/Nodos-1.2.0.b3062.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3061",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3061/Nodos-1.2.0.b3061.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3061/Nodos-1.2.0.b3061.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3060",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3060/Nodos-1.2.0.b3060.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3060/Nodos-1.2.0.b3060.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3059",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3059/Nodos-1.2.0.b3059.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3059/Nodos-1.2.0.b3059.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3058",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3058/Nodos-1.2.0.b3058.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3058/Nodos-1.2.0.b3058.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3055",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3055/Nodos-1.2.0.b3055.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3055/Nodos-1.2.0.b3055.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3054",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3054/Nodos-1.2.0.b3054.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3054/Nodos-1.2.0.b3054.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3051",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3051/Nodos-1.2.0.b3051.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3051/Nodos-1.2.0.b3051.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3044",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3044/Nodos-1.2.0.b3044.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3044/Nodos-1.2.0.b3044.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3043",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3043/Nodos-1.2.0.b3043.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3043/Nodos-1.2.0.b3043.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3042",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3042/Nodos-1.2.0.b3042.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3042/Nodos-1.2.0.b3042.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3041",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3041/Nodos-1.2.0.b3041.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3041/Nodos-1.2.0.b3041.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3040",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3040/Nodos-1.2.0.b3040.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3040/Nodos-1.2.0.b3040.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3039",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3039/Nodos-1.2.0.b3039.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3039/Nodos-1.2.0.b3039.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3038",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3038/Nodos-1.2.0.b3038.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3038/Nodos-1.2.0.b3038.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3037",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3037/Nodos-1.2.0.b3037.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3037/Nodos-1.2.0.b3037.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3033",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3033/Nodos-1.2.0.b3033.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3033/Nodos-1.2.0.b3033.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3032",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3032/Nodos-1.2.0.b3032.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3032/Nodos-1.2.0.b3032.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3031",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3031/Nodos-1.2.0.b3031.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3031/Nodos-1.2.0.b3031.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3030",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3030/Nodos-1.2.0.b3030.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3030/Nodos-1.2.0.b3030.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3029",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3029/Nodos-1.2.0.b3029.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3029/Nodos-1.2.0.b3029.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3028",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3028/Nodos-1.2.0.b3028.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3028/Nodos-1.2.0.b3028.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3027",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3027/Nodos-1.2.0.b3027.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3027/Nodos-1.2.0.b3027.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3026",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3026/Nodos-1.2.0.b3026.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3026/Nodos-1.2.0.b3026.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3025",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3025/Nodos-1.2.0.b3025.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3025/Nodos-1.2.0.b3025.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3024",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3024/Nodos-1.2.0.b3024.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3024/Nodos-1.2.0.b3024.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3023",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3023/Nodos-1.2.0.b3023.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3023/Nodos-1.2.0.b3023.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3022",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3022/Nodos-1.2.0.b3022.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3022/Nodos-1.2.0.b3022.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3021",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3021/Nodos-1.2.0.b3021.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3021/Nodos-1.2.0.b3021.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3019",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3019/Nodos-1.2.0.b3019.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3019/Nodos-1.2.0.b3019.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3018",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3018/Nodos-1.2.0.b3018.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3018/Nodos-1.2.0.b3018.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3017",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3017/Nodos-1.2.0.b3017.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3017/Nodos-1.2.0.b3017.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3016",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3016/Nodos-1.2.0.b3016.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3016/Nodos-1.2.0.b3016.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3015",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3015/Nodos-1.2.0.b3015.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3015/Nodos-1.2.0.b3015.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3014",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3014/Nodos-1.2.0.b3014.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3014/Nodos-1.2.0.b3014.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3013",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3013/Nodos-1.2.0.b3013.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3013/Nodos-1.2.0.b3013.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3011",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3011/Nodos-1.2.0.b3011.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3011/Nodos-1.2.0.b3011.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3010",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3010/Nodos-1.2.0.b3010.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3010/Nodos-1.2.0.b3010.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3009",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3009/Nodos-1.2.0.b3009.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3009/Nodos-1.2.0.b3009.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3008",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3008/Nodos-1.2.0.b3008.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3008/Nodos-1.2.0.b3008.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3007",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3007/Nodos-1.2.0.b3007.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3007/Nodos-1.2.0.b3007.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3005",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3005/Nodos-1.2.0.b3005.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3005/Nodos-1.2.0.b3005.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b3004",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3004/Nodos-1.2.0.b3004.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b3004/Nodos-1.2.0.b3004.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b2996",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b2996/Nodos-1.2.0.b2996.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b2996/Nodos-1.2.0.b2996.zip",
+      "platform": "x86_64-windows"
     },
     {
       "version": "1.2.0.b2993",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b2993/Nodos-1.2.0.b2993.zip"
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.0.b2993/Nodos-1.2.0.b2993.zip",
+      "platform": "x86_64-windows"
     }
   ]
 }
