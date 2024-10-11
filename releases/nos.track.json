@@ -2,6 +2,21 @@
   "name": "nos.track",
   "releases": [
     {
+      "version": "1.6.0.b650",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.track-1.6.0.b650-x86_64-windows/nos.track-1.6.0.b650-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 1,
+        "patch": 0
+      },
+      "release_date": "2024-10-11T10:25:54.588747100+00:00",
+      "category": "Virtual Studio",
+      "release_tags": [
+        "nodos-1.2"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "1.6.0.b646",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.track-1.6.0.b646/nos.track-1.6.0.b646.zip",
       "plugin_api_version": {
