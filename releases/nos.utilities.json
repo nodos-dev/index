@@ -2,6 +2,28 @@
   "name": "nos.utilities",
   "releases": [
     {
+      "version": "2.8.0.b651",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.utilities-2.8.0.b651-x86_64-linux/nos.utilities-2.8.0.b651-x86_64-linux.tar.gz",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 5,
+        "patch": 0
+      },
+      "release_date": "2024-10-16T14:51:35.067313745+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.8.0"
+        }
+      ],
+      "category": "Utilities",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux",
+      "min_required_api_minor_version": 5
+    },
+    {
       "version": "2.8.0.b646",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.utilities-2.8.0.b646/nos.utilities-2.8.0.b646.zip",
       "plugin_api_version": {
@@ -20,7 +42,8 @@
       "release_tags": [
         "nodos-1.2"
       ],
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.8.0.b644",
@@ -41,7 +64,8 @@
       "release_tags": [
         "dev"
       ],
-      "platform": "x86_64-linux"
+      "platform": "x86_64-linux",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.8.0.b643",
@@ -62,7 +86,8 @@
       "release_tags": [
         "dev"
       ],
-      "platform": "x86_64-linux"
+      "platform": "x86_64-linux",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.8.0.b642",
@@ -83,7 +108,8 @@
       "release_tags": [
         "dev"
       ],
-      "platform": "x86_64-linux"
+      "platform": "x86_64-linux",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.8.0.b639",
@@ -104,7 +130,8 @@
       "release_tags": [
         "dev"
       ],
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.8.0.b638",
@@ -125,7 +152,8 @@
       "release_tags": [
         "dev"
       ],
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.8.0.b622",
@@ -146,7 +174,8 @@
       "release_tags": [
         "dev"
       ],
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.8.0.b621",
@@ -167,7 +196,8 @@
       "release_tags": [
         "dev"
       ],
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.8.0.b615",
@@ -188,7 +218,8 @@
       "release_tags": [
         "nodos-1.2"
       ],
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.8.0.b614",
@@ -209,7 +240,8 @@
       "release_tags": [
         "dev"
       ],
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.8.0.b607",
@@ -230,7 +262,8 @@
       "release_tags": [
         "dev"
       ],
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.8.0.b606",
@@ -251,7 +284,8 @@
       "release_tags": [
         "dev"
       ],
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.8.0.b604",
@@ -272,7 +306,8 @@
       "release_tags": [
         "dev"
       ],
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.8.0.b603",
@@ -293,7 +328,8 @@
       "release_tags": [
         "dev"
       ],
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.8.0.b599",
@@ -314,7 +350,8 @@
       "release_tags": [
         "dev"
       ],
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.7.0.b598",
@@ -335,7 +372,8 @@
       "release_tags": [
         "nodos-1.2"
       ],
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.8.0.b596",
@@ -356,7 +394,8 @@
       "release_tags": [
         "dev"
       ],
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.8.0.b595",
@@ -377,7 +416,8 @@
       "release_tags": [
         "dev"
       ],
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.7.0.b593",
@@ -395,7 +435,8 @@
         }
       ],
       "category": "Utilities",
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.6.0.b592",
@@ -413,7 +454,8 @@
         }
       ],
       "category": "Utilities",
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.6.0.b591",
@@ -431,7 +473,8 @@
         }
       ],
       "category": "Utilities",
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.6.0.b587",
@@ -449,7 +492,8 @@
         }
       ],
       "category": "Utilities",
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.5.0.b586",
@@ -467,7 +511,8 @@
         }
       ],
       "category": "Utilities",
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.4.0.b580",
@@ -485,7 +530,8 @@
         }
       ],
       "category": "Utilities",
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.3.0.b561",
@@ -503,7 +549,8 @@
         }
       ],
       "category": "Utilities",
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.3.0.b551",
@@ -521,7 +568,8 @@
         }
       ],
       "category": "Utilities",
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.2.0.b545",
@@ -539,7 +587,8 @@
         }
       ],
       "category": "Utilities",
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.2.0.b541",
@@ -549,7 +598,8 @@
         "minor": 11,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.2.0.b537",
@@ -559,7 +609,8 @@
         "minor": 11,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.1.1.b536",
@@ -569,7 +620,8 @@
         "minor": 11,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.1.0.b496",
@@ -579,7 +631,8 @@
         "minor": 7,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.1.0.b488",
@@ -589,7 +642,8 @@
         "minor": 7,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b487",
@@ -599,7 +653,8 @@
         "minor": 7,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b486",
@@ -609,7 +664,8 @@
         "minor": 7,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b480",
@@ -619,7 +675,8 @@
         "minor": 6,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b479",
@@ -629,7 +686,8 @@
         "minor": 6,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b478",
@@ -639,7 +697,8 @@
         "minor": 6,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b472",
@@ -649,7 +708,8 @@
         "minor": 6,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b471",
@@ -659,7 +719,8 @@
         "minor": 6,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b464",
@@ -669,7 +730,8 @@
         "minor": 6,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b451",
@@ -679,7 +741,8 @@
         "minor": 6,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b450",
@@ -689,7 +752,8 @@
         "minor": 6,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b449",
@@ -699,7 +763,8 @@
         "minor": 6,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b447",
@@ -709,7 +774,8 @@
         "minor": 6,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b443",
@@ -719,7 +785,8 @@
         "minor": 6,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b426",
@@ -729,7 +796,8 @@
         "minor": 6,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b403",
@@ -739,7 +807,8 @@
         "minor": 5,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b366",
@@ -749,7 +818,8 @@
         "minor": 4,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b354",
@@ -759,7 +829,8 @@
         "minor": 4,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b339",
@@ -769,7 +840,8 @@
         "minor": 3,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b336",
@@ -779,7 +851,8 @@
         "minor": 3,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b332",
@@ -789,7 +862,8 @@
         "minor": 2,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b330",
@@ -799,7 +873,8 @@
         "minor": 2,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b327",
@@ -809,7 +884,8 @@
         "minor": 2,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b325",
@@ -819,7 +895,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b324",
@@ -829,7 +906,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "2.0.0.b321",
@@ -839,7 +917,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.1.0.b313",
@@ -849,7 +928,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.1.0.b312",
@@ -859,7 +939,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.1.0.b306",
@@ -869,7 +950,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.1.0.b302",
@@ -879,7 +961,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.1.0.b299",
@@ -889,7 +972,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.1.0.b297",
@@ -899,7 +983,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.1.0.b295",
@@ -909,7 +994,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.1.0.b294",
@@ -919,7 +1005,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.1.0.b290",
@@ -929,7 +1016,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b289",
@@ -939,7 +1027,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b286",
@@ -949,7 +1038,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b285",
@@ -959,7 +1049,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b275",
@@ -969,7 +1060,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b270",
@@ -979,7 +1071,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b269",
@@ -989,7 +1082,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b265",
@@ -999,7 +1093,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b264",
@@ -1009,7 +1104,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b262",
@@ -1019,7 +1115,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b261",
@@ -1029,7 +1126,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b260",
@@ -1039,7 +1137,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b257",
@@ -1049,7 +1148,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b255",
@@ -1059,7 +1159,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b253",
@@ -1069,7 +1170,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b251",
@@ -1079,7 +1181,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b249",
@@ -1089,7 +1192,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b248",
@@ -1099,7 +1203,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b247",
@@ -1109,7 +1214,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b243",
@@ -1119,7 +1225,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b241",
@@ -1129,7 +1236,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b239",
@@ -1139,7 +1247,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b237",
@@ -1149,7 +1258,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b236",
@@ -1159,7 +1269,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b235",
@@ -1169,7 +1280,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b226",
@@ -1179,7 +1291,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b216",
@@ -1189,7 +1302,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b215",
@@ -1199,7 +1313,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b212",
@@ -1209,7 +1324,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b201",
@@ -1219,7 +1335,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b196",
@@ -1229,7 +1346,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b195",
@@ -1239,7 +1357,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b192",
@@ -1249,7 +1368,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b182",
@@ -1259,7 +1379,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b155",
@@ -1269,7 +1390,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b148",
@@ -1279,7 +1401,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b142",
@@ -1289,7 +1412,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b138",
@@ -1299,7 +1423,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b135",
@@ -1309,7 +1434,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b133",
@@ -1319,7 +1445,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b127",
@@ -1329,7 +1456,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b123",
@@ -1339,7 +1467,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b118",
@@ -1349,7 +1478,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b115",
@@ -1359,7 +1489,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b112",
@@ -1369,7 +1500,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b111",
@@ -1379,7 +1511,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b102",
@@ -1389,7 +1522,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b101",
@@ -1399,7 +1533,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b98",
@@ -1409,7 +1544,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b96",
@@ -1419,7 +1555,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b95",
@@ -1429,7 +1566,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b91",
@@ -1439,7 +1577,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b89",
@@ -1449,7 +1588,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b88",
@@ -1459,7 +1599,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b87",
@@ -1469,7 +1610,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b85",
@@ -1479,7 +1621,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b84",
@@ -1489,7 +1632,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b83",
@@ -1499,7 +1643,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b76",
@@ -1509,7 +1654,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b70",
@@ -1519,7 +1665,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b67",
@@ -1529,7 +1676,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b66",
@@ -1539,7 +1687,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b60",
@@ -1549,7 +1698,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b57",
@@ -1559,7 +1709,8 @@
         "minor": 1,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b52",
@@ -1569,7 +1720,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b50",
@@ -1579,7 +1731,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b48",
@@ -1589,7 +1742,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b46",
@@ -1599,7 +1753,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b44",
@@ -1609,7 +1764,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b35",
@@ -1619,7 +1775,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b33",
@@ -1629,7 +1786,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b31",
@@ -1639,7 +1797,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b16",
@@ -1649,7 +1808,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b8",
@@ -1659,7 +1819,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     },
     {
       "version": "1.0.0.b6",
@@ -1669,7 +1830,8 @@
         "minor": 0,
         "patch": 0
       },
-      "platform": "x86_64-windows"
+      "platform": "x86_64-windows",
+      "min_required_api_minor_version": null
     }
   ]
 }
