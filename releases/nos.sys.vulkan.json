@@ -2,6 +2,27 @@
   "name": "nos.sys.vulkan",
   "releases": [
     {
+      "version": "5.9.0.b513",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.vulkan-5.9.0.b513-x86_64-windows/nos.sys.vulkan-5.9.0.b513-x86_64-windows.zip",
+      "subsystem_api_version": {
+        "major": 10,
+        "minor": 5,
+        "patch": 0
+      },
+      "release_date": "2024-10-18T15:53:01.433552100+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.shaderc",
+          "version": "1.0.0"
+        }
+      ],
+      "category": "Graphics",
+      "release_tags": [
+        "nodos-1.2"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "5.8.0.b512",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.vulkan-5.8.0.b512-x86_64-windows/nos.sys.vulkan-5.8.0.b512-x86_64-windows.zip",
       "subsystem_api_version": {
