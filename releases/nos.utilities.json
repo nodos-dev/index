@@ -2,6 +2,28 @@
   "name": "nos.utilities",
   "releases": [
     {
+      "version": "2.9.0.b654",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.utilities-2.9.0.b654-x86_64-linux/nos.utilities-2.9.0.b654-x86_64-linux.tar.gz",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 5,
+        "patch": 0
+      },
+      "release_date": "2024-10-18T14:17:27.919130400+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.8.0"
+        }
+      ],
+      "category": "Utilities",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux",
+      "min_required_api_minor_version": 5
+    },
+    {
       "version": "2.9.0.b653",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.utilities-2.9.0.b653-x86_64-linux/nos.utilities-2.9.0.b653-x86_64-linux.tar.gz",
       "plugin_api_version": {
