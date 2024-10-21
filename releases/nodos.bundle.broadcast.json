@@ -2,6 +2,12 @@
   "name": "nodos.bundle.broadcast",
   "releases": [
     {
+      "version": "1.2.0.b3580",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3580-x86_64-windows/Nodos-1.2.0.b3580-bundle-broadcast_1.2.zip",
+      "release_date": "2024-10-21T08:34:55.915010200+00:00",
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "1.2.0.b3578",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.broadcast-1.2.0.b3578-x86_64-windows/Nodos-1.2.0.b3578-bundle-broadcast_1.2.zip",
       "release_date": "2024-10-18T13:55:23.522762400+00:00",
