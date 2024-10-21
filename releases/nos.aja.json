@@ -6,7 +6,7 @@
       "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.2.1.b619-x86_64-linux/nos.aja-2.2.1.b619-x86_64-linux.tar.gz",
       "plugin_api_version": {
         "major": 36,
-        "minor": 5,
+        "minor": 2,
         "patch": 0
       },
       "release_date": "2024-10-18T14:11:12.864143732+00:00",
@@ -36,8 +36,7 @@
       "release_tags": [
         "dev"
       ],
-      "platform": "x86_64-linux",
-      "min_required_api_minor_version": 2
+      "platform": "x86_64-linux"
     },
     {
       "version": "2.1.0.b616",
