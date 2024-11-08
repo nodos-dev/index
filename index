@@ -310,5 +310,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.broadcast_1.2.json",
     "vendor": "Nodos",
     "type": "Nodos"
+  },
+  {
+    "name": "nodos.bundle.minimal",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.minimal.json",
+    "vendor": "Nodos",
+    "type": "Nodos"
   }
 ]
