@@ -2,6 +2,27 @@
   "name": "nos.mediaio",
   "releases": [
     {
+      "version": "1.5.0.b588",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-1.5.0.b588-x86_64-windows/nos.mediaio-1.5.0.b588-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 1,
+        "patch": 1
+      },
+      "release_date": "2024-11-11T14:13:55.824031300+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.8.0"
+        }
+      ],
+      "category": "Media I/O",
+      "release_tags": [
+        "nodos-1.2"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "2.0.0.b587",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-2.0.0.b587-x86_64-windows/nos.mediaio-2.0.0.b587-x86_64-windows.zip",
       "plugin_api_version": {
