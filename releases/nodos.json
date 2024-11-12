@@ -3,6 +3,12 @@
   "releases": [
     {
       "version": "1.3.0.b3685",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3685-x86_64-windows/Nodos-1.3.0.b3685.zip",
+      "release_date": "2024-11-12T12:17:54.851136+00:00",
+      "platform": "x86_64-windows"
+    },
+    {
+      "version": "1.3.0.b3685",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3685-x86_64-linux/Nodos-1.3.0.b3685.tar.gz",
       "release_date": "2024-11-12T12:13:44.678227951+00:00",
       "platform": "x86_64-linux"
