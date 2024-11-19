@@ -3,6 +3,21 @@
   "releases": [
     {
       "version": "1.4.0.b687",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.4.0.b687-x86_64-linux/nos.math-1.4.0.b687-x86_64-linux.tar.gz",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 8,
+        "patch": 2
+      },
+      "release_date": "2024-11-19T15:34:21.920108847+00:00",
+      "category": "Mathematics",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
+      "version": "1.4.0.b687",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.4.0.b687-x86_64-windows/nos.math-1.4.0.b687-x86_64-windows.zip",
       "plugin_api_version": {
         "major": 36,
