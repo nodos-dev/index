@@ -3,6 +3,27 @@
   "releases": [
     {
       "version": "2.10.0.b690",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.utilities-2.10.0.b690-x86_64-linux/nos.utilities-2.10.0.b690-x86_64-linux.tar.gz",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 9,
+        "patch": 0
+      },
+      "release_date": "2024-11-20T13:58:31.706660713+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.22.0"
+        }
+      ],
+      "category": "Utilities",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
+      "version": "2.10.0.b690",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.utilities-2.10.0.b690-x86_64-windows/nos.utilities-2.10.0.b690-x86_64-windows.zip",
       "plugin_api_version": {
         "major": 36,
