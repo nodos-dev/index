@@ -3,6 +3,12 @@
   "releases": [
     {
       "version": "1.3.0.b3726",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3726-x86_64-windows/Nodos-1.3.0.b3726.zip",
+      "release_date": "2024-11-22T13:32:29.696323800+00:00",
+      "platform": "x86_64-windows"
+    },
+    {
+      "version": "1.3.0.b3726",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3726-x86_64-linux/Nodos-1.3.0.b3726.tar.gz",
       "release_date": "2024-11-22T13:29:03.258389510+00:00",
       "platform": "x86_64-linux"
