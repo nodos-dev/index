@@ -322,5 +322,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.display.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.sys.mediaio",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.mediaio.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
   }
 ]
