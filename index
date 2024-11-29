@@ -316,5 +316,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.minimal.json",
     "vendor": "Nodos",
     "type": "Nodos"
+  },
+  {
+    "name": "nos.display",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.display.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
