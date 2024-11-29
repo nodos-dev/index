@@ -1,0 +1,26 @@
+{
+  "name": "nos.device.decklink",
+  "releases": [
+    {
+      "version": "0.1.0.b1",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.device.decklink-0.1.0.b1-x86_64-windows/nos.device.decklink-0.1.0.b1-x86_64-windows.zip",
+      "subsystem_api_version": {
+        "major": 10,
+        "minor": 10,
+        "patch": 0
+      },
+      "release_date": "2024-11-29T13:49:26.228031900+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.mediaio",
+          "version": "0.1.0"
+        }
+      ],
+      "category": "Device",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    }
+  ]
+}
