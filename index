@@ -328,5 +328,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.mediaio.json",
     "vendor": "Nodos",
     "type": "Subsystem"
+  },
+  {
+    "name": "nos.decklink",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.decklink.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
