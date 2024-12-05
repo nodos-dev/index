@@ -3,6 +3,27 @@
   "releases": [
     {
       "version": "5.23.1.b554",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.vulkan-5.23.1.b554-x86_64-windows/nos.sys.vulkan-5.23.1.b554-x86_64-windows.zip",
+      "subsystem_api_version": {
+        "major": 10,
+        "minor": 10,
+        "patch": 0
+      },
+      "release_date": "2024-12-05T10:12:13.708043100+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.shaderc",
+          "version": "1.1.0"
+        }
+      ],
+      "category": "Graphics",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
+      "version": "5.23.1.b554",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.vulkan-5.23.1.b554-x86_64-linux/nos.sys.vulkan-5.23.1.b554-x86_64-linux.tar.gz",
       "subsystem_api_version": {
         "major": 10,
