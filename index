@@ -84,12 +84,6 @@
     "type": "Subsystem"
   },
   {
-    "name": "nos.bluefish",
-    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.bluefish.json",
-    "vendor": "Nodos",
-    "type": "Plugin"
-  },
-  {
     "name": "zd.realitykeyer",
     "url": "https://zdstrx.blob.core.windows.net/nodos-plugins/zd.realitykeyer.index.json",
     "vendor": "Zero Density",
