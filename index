@@ -334,5 +334,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.decklink.json",
     "vendor": "Nodos",
     "type": "Subsystem"
+  },
+  {
+    "name": "nos.str",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.str.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
