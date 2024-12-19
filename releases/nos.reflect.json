@@ -3,6 +3,26 @@
   "releases": [
     {
       "version": "1.2.0.b723",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.reflect-1.2.0.b723-x86_64-windows/nos.reflect-1.2.0.b723-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 10,
+        "patch": 0
+      },
+      "release_date": "2024-12-19T15:37:19.214683700+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.8"
+        }
+      ],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
+      "version": "1.2.0.b723",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.reflect-1.2.0.b723-x86_64-linux/nos.reflect-1.2.0.b723-x86_64-linux.tar.gz",
       "plugin_api_version": {
         "major": 36,
