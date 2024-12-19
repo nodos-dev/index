@@ -3,6 +3,21 @@
   "releases": [
     {
       "version": "0.1.0.b722",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.str-0.1.0.b722-x86_64-linux/nos.str-0.1.0.b722-x86_64-linux.tar.gz",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 9,
+        "patch": 0
+      },
+      "release_date": "2024-12-19T13:59:36.645244131+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
+      "version": "0.1.0.b722",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.str-0.1.0.b722-x86_64-windows/nos.str-0.1.0.b722-x86_64-windows.zip",
       "plugin_api_version": {
         "major": 36,
