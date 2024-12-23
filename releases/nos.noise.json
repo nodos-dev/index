@@ -2,6 +2,27 @@
   "name": "nos.noise",
   "releases": [
     {
+      "version": "0.2.1.b734",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.noise-0.2.1.b734-x86_64-windows/nos.noise-0.2.1.b734-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 11,
+        "patch": 0
+      },
+      "release_date": "2024-12-23T12:45:09.232056400+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.8"
+        }
+      ],
+      "category": "Procedural Generation",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "0.2.0.b729",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.noise-0.2.0.b729-x86_64-windows/nos.noise-0.2.0.b729-x86_64-windows.zip",
       "plugin_api_version": {
