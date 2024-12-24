@@ -2,6 +2,47 @@
   "name": "nos.webcam",
   "releases": [
     {
+      "version": "1.2.1.b0",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.2.1.b0-x86_64-windows/nos.webcam-1.2.1.b0-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 11,
+        "patch": 0
+      },
+      "release_date": "2024-12-24T09:19:27.645977300+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.8.0"
+        },
+        {
+          "name": "nos.mediaio",
+          "version": "2.1.0"
+        },
+        {
+          "name": "nos.utilities",
+          "version": "3.0.0"
+        },
+        {
+          "name": "nos.math",
+          "version": "1.3.0"
+        },
+        {
+          "name": "nos.reflect",
+          "version": "1.1.0"
+        },
+        {
+          "name": "nos.str",
+          "version": "0.1.0"
+        }
+      ],
+      "category": "Media I/O",
+      "release_tags": [
+        "test"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "1.2.0.b617",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.webcam-1.2.0.b617-x86_64-windows/nos.webcam-1.2.0.b617-x86_64-windows.zip",
       "plugin_api_version": {
