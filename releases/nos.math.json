@@ -2,6 +2,21 @@
   "name": "nos.math",
   "releases": [
     {
+      "version": "1.5.0.b741",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.5.0.b741-x86_64-linux/nos.math-1.5.0.b741-x86_64-linux.tar.gz",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 12,
+        "patch": 0
+      },
+      "release_date": "2024-12-24T09:54:11.754595963+00:00",
+      "category": "Mathematics",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "1.5.0.b735",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.5.0.b735-x86_64-linux/nos.math-1.5.0.b735-x86_64-linux.tar.gz",
       "plugin_api_version": {
