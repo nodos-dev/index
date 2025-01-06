@@ -3,6 +3,12 @@
   "releases": [
     {
       "version": "1.4.0.b3885",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b3885-x86_64-linux/Nodos-1.4.0.b3885.tar.gz",
+      "release_date": "2025-01-06T16:04:41.383391448+00:00",
+      "platform": "x86_64-linux"
+    },
+    {
+      "version": "1.4.0.b3885",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b3885-x86_64-windows/Nodos-1.4.0.b3885.zip",
       "release_date": "2025-01-06T16:03:41.107795300+00:00",
       "platform": "x86_64-windows"
