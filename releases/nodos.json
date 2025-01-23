@@ -26,54 +26,6 @@
       "platform": "x86_64-windows"
     },
     {
-      "version": "1.4.0.b3951",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b3951-x86_64-linux/Nodos-1.4.0.b3951.tar.gz",
-      "release_date": "2025-01-23T10:21:14.750752578+00:00",
-      "platform": "x86_64-linux"
-    },
-    {
-      "version": "1.4.0.b3951",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b3951-x86_64-windows/Nodos-1.4.0.b3951.zip",
-      "release_date": "2025-01-23T10:20:01.906841400+00:00",
-      "platform": "x86_64-windows"
-    },
-    {
-      "version": "1.3.0.b3950",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3950-x86_64-linux/Nodos-1.3.0.b3950.tar.gz",
-      "release_date": "2025-01-23T10:06:19.454554976+00:00",
-      "platform": "x86_64-linux"
-    },
-    {
-      "version": "1.3.0.b3950",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3950-x86_64-windows/Nodos-1.3.0.b3950.zip",
-      "release_date": "2025-01-23T10:04:59.955436800+00:00",
-      "platform": "x86_64-windows"
-    },
-    {
-      "version": "1.4.0.b3949",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b3949-x86_64-linux/Nodos-1.4.0.b3949.tar.gz",
-      "release_date": "2025-01-23T08:31:37.220972177+00:00",
-      "platform": "x86_64-linux"
-    },
-    {
-      "version": "1.3.0.b3948",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3948-x86_64-linux/Nodos-1.3.0.b3948.tar.gz",
-      "release_date": "2025-01-23T08:25:10.314081819+00:00",
-      "platform": "x86_64-linux"
-    },
-    {
-      "version": "1.4.0.b3949",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b3949-x86_64-windows/Nodos-1.4.0.b3949.zip",
-      "release_date": "2025-01-23T08:24:34.544953700+00:00",
-      "platform": "x86_64-windows"
-    },
-    {
-      "version": "1.3.0.b3948",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3948-x86_64-windows/Nodos-1.3.0.b3948.zip",
-      "release_date": "2025-01-23T08:23:08.984139900+00:00",
-      "platform": "x86_64-windows"
-    },
-    {
       "version": "1.3.0.b3945",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b3945-x86_64-windows/Nodos-1.3.0.b3945.zip",
       "release_date": "2025-01-22T14:59:35.300811+00:00",
