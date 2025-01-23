@@ -340,5 +340,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.str.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.sys.settings",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.settings.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
   }
 ]
