@@ -346,5 +346,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.settings.json",
     "vendor": "Nodos",
     "type": "Subsystem"
+  },
+  {
+    "name": "nos.animation",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.animation.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]

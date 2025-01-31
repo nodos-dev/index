@@ -1,0 +1,20 @@
+{
+  "name": "nos.animation",
+  "releases": [
+    {
+      "version": "0.1.0.b800",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.animation-0.1.0.b800-x86_64-linux/nos.animation-0.1.0.b800-x86_64-linux.tar.gz",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 18,
+        "patch": 0
+      },
+      "release_date": "2025-01-31T08:31:53.170331805+00:00",
+      "category": "Animation",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    }
+  ]
+}
