@@ -2,6 +2,27 @@
   "name": "nos.math",
   "releases": [
     {
+      "version": "1.8.0.b800",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.8.0.b800-x86_64-linux/nos.math-1.8.0.b800-x86_64-linux.tar.gz",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 13,
+        "patch": 0
+      },
+      "release_date": "2025-01-31T08:31:56.936633268+00:00",
+      "dependencies": [
+        {
+          "name": "nos.reflect",
+          "version": "1.4"
+        }
+      ],
+      "category": "Mathematics",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "1.7.0.b784",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.math-1.7.0.b784-x86_64-windows/nos.math-1.7.0.b784-x86_64-windows.zip",
       "plugin_api_version": {
