@@ -3,6 +3,22 @@
   "releases": [
     {
       "version": "0.3.0.b638",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.mediaio-0.3.0.b638-x86_64-windows/nos.sys.mediaio-0.3.0.b638-x86_64-windows.zip",
+      "subsystem_api_version": {
+        "major": 10,
+        "minor": 19,
+        "patch": 0
+      },
+      "release_date": "2025-02-03T15:40:40.151059+00:00",
+      "dependencies": [],
+      "category": "Media I/O",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
+      "version": "0.3.0.b638",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.mediaio-0.3.0.b638-x86_64-linux/nos.sys.mediaio-0.3.0.b638-x86_64-linux.tar.gz",
       "subsystem_api_version": {
         "major": 10,
