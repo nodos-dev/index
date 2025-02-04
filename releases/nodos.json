@@ -2,6 +2,12 @@
   "name": "nodos",
   "releases": [
     {
+      "version": "1.4.0.b3998",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b3998-x86_64-windows/Nodos-1.4.0.b3998.zip",
+      "release_date": "2025-02-04T11:30:34.889411200+00:00",
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "1.4.0.b3995",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b3995-x86_64-windows/Nodos-1.4.0.b3995.zip",
       "release_date": "2025-02-04T11:24:33.541156300+00:00",
