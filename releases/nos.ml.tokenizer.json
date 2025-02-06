@@ -2,6 +2,21 @@
   "name": "nos.ml.tokenizer",
   "releases": [
     {
+      "version": "1.0.0.b257",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.tokenizer-1.0.0.b257-x86_64-windows/nos.ml.tokenizer-1.0.0.b257-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 19,
+        "patch": 0
+      },
+      "release_date": "2025-02-06T15:25:28.240296800+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "1.0.0.b253",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.tokenizer-1.0.0.b253-x86_64-windows/nos.ml.tokenizer-1.0.0.b253-x86_64-windows.zip",
       "plugin_api_version": {
