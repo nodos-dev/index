@@ -2,6 +2,34 @@
   "name": "nos.ml.tensors",
   "releases": [
     {
+      "version": "2.2.0.b257",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.tensors-2.2.0.b257-x86_64-windows/nos.ml.tensors-2.2.0.b257-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 19,
+        "patch": 0
+      },
+      "release_date": "2025-02-06T15:25:23.770158800+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.tensor",
+          "version": "2.0.0"
+        },
+        {
+          "name": "nos.sys.cuda",
+          "version": "2.1.0"
+        },
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.8.0"
+        }
+      ],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "2.2.0.b253",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.tensors-2.2.0.b253-x86_64-windows/nos.ml.tensors-2.2.0.b253-x86_64-windows.zip",
       "plugin_api_version": {
