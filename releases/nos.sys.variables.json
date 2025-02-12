@@ -1,0 +1,20 @@
+{
+  "name": "nos.sys.variables",
+  "releases": [
+    {
+      "version": "0.1.0.b852",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.variables-0.1.0.b852-x86_64-linux/nos.sys.variables-0.1.0.b852-x86_64-linux.tar.gz",
+      "subsystem_api_version": {
+        "major": 10,
+        "minor": 20,
+        "patch": 0
+      },
+      "release_date": "2025-02-12T11:09:20.391533681+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    }
+  ]
+}

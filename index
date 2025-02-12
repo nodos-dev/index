@@ -358,5 +358,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.device.json",
     "vendor": "Nodos",
     "type": "Subsystem"
+  },
+  {
+    "name": "nos.sys.variables",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.variables.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
   }
 ]
