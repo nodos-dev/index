@@ -2,6 +2,30 @@
   "name": "nos.reflect",
   "releases": [
     {
+      "version": "1.4.4.b852",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.reflect-1.4.4.b852-x86_64-linux/nos.reflect-1.4.4.b852-x86_64-linux.tar.gz",
+      "plugin_api_version": {
+        "major": 36,
+        "minor": 19,
+        "patch": 0
+      },
+      "release_date": "2025-02-12T11:09:25.327523962+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "5.24"
+        },
+        {
+          "name": "nos.sys.variables",
+          "version": "0.1"
+        }
+      ],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "1.4.3.b839",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.reflect-1.4.3.b839-x86_64-windows/nos.reflect-1.4.3.b839-x86_64-windows.zip",
       "plugin_api_version": {
