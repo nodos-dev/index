@@ -2,6 +2,27 @@
   "name": "nos.track",
   "releases": [
     {
+      "version": "1.9.0.b868",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.track-1.9.0.b868-x86_64-windows/nos.track-1.9.0.b868-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 37,
+        "minor": 1,
+        "patch": 0
+      },
+      "release_date": "2025-02-17T16:08:34.252671500+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.animation",
+          "version": "1.5"
+        }
+      ],
+      "category": "Virtual Studio",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "1.8.0.b823",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.track-1.8.0.b823-x86_64-windows/nos.track-1.8.0.b823-x86_64-windows.zip",
       "plugin_api_version": {
