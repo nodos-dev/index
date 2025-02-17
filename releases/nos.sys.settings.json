@@ -2,6 +2,21 @@
   "name": "nos.sys.settings",
   "releases": [
     {
+      "version": "0.3.0.b804",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.settings-0.3.0.b804-x86_64-linux/nos.sys.settings-0.3.0.b804-x86_64-linux.tar.gz",
+      "subsystem_api_version": {
+        "major": 11,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2025-02-17T12:26:21.937208392+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "0.2.0.b802",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.settings-0.2.0.b802-x86_64-windows/nos.sys.settings-0.2.0.b802-x86_64-windows.zip",
       "subsystem_api_version": {
