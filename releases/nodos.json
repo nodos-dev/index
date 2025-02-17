@@ -8,12 +8,6 @@
       "platform": "x86_64-linux"
     },
     {
-      "version": "1.4.0.b4046",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b4046-x86_64-windows/Nodos-1.4.0.b4046.zip",
-      "release_date": "2025-02-17T11:58:20.245074200+00:00",
-      "platform": "x86_64-windows"
-    },
-    {
       "version": "1.3.0.b4045",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b4045-x86_64-windows/Nodos-1.3.0.b4045.zip",
       "release_date": "2025-02-17T11:57:35.980121900+00:00",
