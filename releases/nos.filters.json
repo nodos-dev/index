@@ -2,6 +2,35 @@
   "name": "nos.filters",
   "releases": [
     {
+      "version": "1.5.1.b875",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.5.1.b875-x86_64-windows/nos.filters-1.5.1.b875-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 37,
+        "minor": 2,
+        "patch": 0
+      },
+      "release_date": "2025-02-18T14:14:46.190859600+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "6.0.0"
+        },
+        {
+          "name": "nos.math",
+          "version": "1.9.0"
+        },
+        {
+          "name": "nos.mediaio",
+          "version": "2.5.1"
+        }
+      ],
+      "category": "Image Processing",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "1.2.0.b870",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.2.0.b870-x86_64-windows/nos.filters-1.2.0.b870-x86_64-windows.zip",
       "plugin_api_version": {
