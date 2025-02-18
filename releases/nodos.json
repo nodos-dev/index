@@ -3,6 +3,12 @@
   "releases": [
     {
       "version": "1.4.0.b4063",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b4063-x86_64-linux/Nodos-1.4.0.b4063.tar.gz",
+      "release_date": "2025-02-18T14:16:14.795552629+00:00",
+      "platform": "x86_64-linux"
+    },
+    {
+      "version": "1.4.0.b4063",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b4063-x86_64-windows/Nodos-1.4.0.b4063.zip",
       "release_date": "2025-02-18T14:15:14.038051400+00:00",
       "platform": "x86_64-windows"
