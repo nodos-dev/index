@@ -2,6 +2,22 @@
   "name": "nos.sys.mediaio",
   "releases": [
     {
+      "version": "0.4.0.b643",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.mediaio-0.4.0.b643-x86_64-linux/nos.sys.mediaio-0.4.0.b643-x86_64-linux.tar.gz",
+      "subsystem_api_version": {
+        "major": 11,
+        "minor": 2,
+        "patch": 0
+      },
+      "release_date": "2025-02-18T14:42:41.560748509+00:00",
+      "dependencies": [],
+      "category": "Media I/O",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "0.4.0.b641",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.mediaio-0.4.0.b641-x86_64-windows/nos.sys.mediaio-0.4.0.b641-x86_64-windows.zip",
       "subsystem_api_version": {
