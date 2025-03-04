@@ -2,6 +2,21 @@
   "name": "nos.sys.variables",
   "releases": [
     {
+      "version": "1.0.1.b896",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.variables-1.0.1.b896-x86_64-linux/nos.sys.variables-1.0.1.b896-x86_64-linux.tar.gz",
+      "subsystem_api_version": {
+        "major": 11,
+        "minor": 3,
+        "patch": 0
+      },
+      "release_date": "2025-03-04T15:18:24.715514593+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "1.0.0.b885",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.variables-1.0.0.b885-x86_64-windows/nos.sys.variables-1.0.0.b885-x86_64-windows.zip",
       "subsystem_api_version": {
