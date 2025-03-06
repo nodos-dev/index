@@ -2,6 +2,22 @@
   "name": "nos.sys.device",
   "releases": [
     {
+      "version": "0.3.2.b13",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.device-0.3.2.b13-x86_64-linux/nos.sys.device-0.3.2.b13-x86_64-linux.tar.gz",
+      "subsystem_api_version": {
+        "major": 11,
+        "minor": 3,
+        "patch": 0
+      },
+      "release_date": "2025-03-06T13:39:50.000473513+00:00",
+      "dependencies": [],
+      "category": "Device",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "0.3.1.b11",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.device-0.3.1.b11-x86_64-windows/nos.sys.device-0.3.1.b11-x86_64-windows.zip",
       "subsystem_api_version": {
