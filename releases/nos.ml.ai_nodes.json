@@ -2,34 +2,6 @@
   "name": "nos.ml.ai_nodes",
   "releases": [
     {
-      "version": "1.2.0.b263",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.ai_nodes-1.2.0.b263-x86_64-windows/nos.ml.ai_nodes-1.2.0.b263-x86_64-windows.zip",
-      "plugin_api_version": {
-        "major": 37,
-        "minor": 8,
-        "patch": 0
-      },
-      "release_date": "2025-04-02T13:19:59.717255600+00:00",
-      "dependencies": [
-        {
-          "name": "nos.sys.ai",
-          "version": "3.2.0"
-        },
-        {
-          "name": "nos.sys.cuda",
-          "version": "2.2.0"
-        },
-        {
-          "name": "nos.sys.tensor",
-          "version": "2.2.0"
-        }
-      ],
-      "release_tags": [
-        "dev"
-      ],
-      "platform": "x86_64-windows"
-    },
-    {
       "version": "1.1.0.b257",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.ml.ai_nodes-1.1.0.b257-x86_64-windows/nos.ml.ai_nodes-1.1.0.b257-x86_64-windows.zip",
       "plugin_api_version": {
