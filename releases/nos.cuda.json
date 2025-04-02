@@ -2,26 +2,6 @@
   "name": "nos.cuda",
   "releases": [
     {
-      "version": "1.2.0.b263",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.cuda-1.2.0.b263-x86_64-windows/nos.cuda-1.2.0.b263-x86_64-windows.zip",
-      "plugin_api_version": {
-        "major": 37,
-        "minor": 8,
-        "patch": 0
-      },
-      "release_date": "2025-04-02T13:20:12.609436100+00:00",
-      "dependencies": [
-        {
-          "name": "nos.sys.cuda",
-          "version": "2.2.0"
-        }
-      ],
-      "release_tags": [
-        "dev"
-      ],
-      "platform": "x86_64-windows"
-    },
-    {
       "version": "1.1.0.b257",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.cuda-1.1.0.b257-x86_64-windows/nos.cuda-1.1.0.b257-x86_64-windows.zip",
       "plugin_api_version": {
