@@ -2,6 +2,27 @@
   "name": "nos.py",
   "releases": [
     {
+      "version": "0.10.0.b944",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.py-0.10.0.b944-x86_64-windows/nos.py-0.10.0.b944-x86_64-windows.zip",
+      "subsystem_api_version": {
+        "major": 11,
+        "minor": 9,
+        "patch": 0
+      },
+      "release_date": "2025-04-18T09:09:40.352179700+00:00",
+      "dependencies": [
+        {
+          "name": "nos.py.deps",
+          "version": "1.0.0"
+        }
+      ],
+      "category": "Scripting",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "0.4.0.b928",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.py-0.4.0.b928-x86_64-windows/nos.py-0.4.0.b928-x86_64-windows.zip",
       "subsystem_api_version": {
