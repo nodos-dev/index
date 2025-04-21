@@ -2,6 +2,31 @@
   "name": "nos.sys.decklink",
   "releases": [
     {
+      "version": "2.11.0.b90",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.decklink-2.11.0.b90-x86_64-linux/nos.sys.decklink-2.11.0.b90-x86_64-linux.tar.gz",
+      "subsystem_api_version": {
+        "major": 38,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2025-04-21T12:12:56.228645950+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.mediaio",
+          "version": "0.11"
+        },
+        {
+          "name": "nos.sys.device",
+          "version": "0.10"
+        }
+      ],
+      "category": "Device",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "2.10.0.b84",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.decklink-2.10.0.b84-x86_64-windows/nos.sys.decklink-2.10.0.b84-x86_64-windows.zip",
       "subsystem_api_version": {
