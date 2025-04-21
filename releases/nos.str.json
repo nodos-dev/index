@@ -2,6 +2,21 @@
   "name": "nos.str",
   "releases": [
     {
+      "version": "0.11.0.b951",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.str-0.11.0.b951-x86_64-linux/nos.str-0.11.0.b951-x86_64-linux.tar.gz",
+      "plugin_api_version": {
+        "major": 38,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2025-04-21T12:05:29.419528055+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "0.11.0.b949",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.str-0.11.0.b949-x86_64-windows/nos.str-0.11.0.b949-x86_64-windows.zip",
       "plugin_api_version": {
