@@ -364,5 +364,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.variables.json",
     "vendor": "Nodos",
     "type": "Subsystem"
+  },
+  {
+    "name": "nos.editor.adapter.json",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.editor.adapter.json.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
   }
 ]
