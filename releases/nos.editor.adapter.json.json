@@ -3,6 +3,21 @@
   "releases": [
     {
       "version": "0.1.0.b2",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.editor.adapter.json-0.1.0.b2-x86_64-windows/nos.editor.adapter.json-0.1.0.b2-x86_64-windows.zip",
+      "subsystem_api_version": {
+        "major": 38,
+        "minor": 1,
+        "patch": 0
+      },
+      "release_date": "2025-04-25T15:51:09.162870400+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
+      "version": "0.1.0.b2",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.editor.adapter.json-0.1.0.b2-x86_64-linux/nos.editor.adapter.json-0.1.0.b2-x86_64-linux.tar.gz",
       "subsystem_api_version": {
         "major": 38,
