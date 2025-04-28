@@ -3,6 +3,21 @@
   "releases": [
     {
       "version": "1.11.1.b968",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.variables-1.11.1.b968-x86_64-windows/nos.sys.variables-1.11.1.b968-x86_64-windows.zip",
+      "subsystem_api_version": {
+        "major": 38,
+        "minor": 1,
+        "patch": 0
+      },
+      "release_date": "2025-04-28T14:25:54.564333400+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
+      "version": "1.11.1.b968",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.variables-1.11.1.b968-x86_64-linux/nos.sys.variables-1.11.1.b968-x86_64-linux.tar.gz",
       "subsystem_api_version": {
         "major": 38,
