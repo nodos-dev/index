@@ -107,6 +107,21 @@
       "platform": "x86_64-windows"
     },
     {
+      "version": "0.3.0.b878",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.str-0.3.0.b878-x86_64-windows/nos.str-0.3.0.b878-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 37,
+        "minor": 2,
+        "patch": 0
+      },
+      "release_date": "2025-02-18T14:58:35.116742800+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "0.3.0.b868",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.str-0.3.0.b868-x86_64-windows/nos.str-0.3.0.b868-x86_64-windows.zip",
       "plugin_api_version": {
