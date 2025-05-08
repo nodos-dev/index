@@ -2,6 +2,12 @@
   "name": "nodos",
   "releases": [
     {
+      "version": "1.4.0.b4305",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b4305-x86_64-linux/Nodos-1.4.0.b4305.tar.gz",
+      "release_date": "2025-05-08T08:38:42.513719116+00:00",
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "1.3.0.b4303",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b4303-x86_64-linux/Nodos-1.3.0.b4303.tar.gz",
       "release_date": "2025-05-07T15:04:03.992578840+00:00",
