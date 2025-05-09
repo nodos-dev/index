@@ -2,6 +2,26 @@
   "name": "nos.rive",
   "releases": [
     {
+      "version": "0.2.2.b18",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.rive-0.2.2.b18-x86_64-windows/nos.rive-0.2.2.b18-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 39,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2025-05-09T15:58:53.223894700+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "6.25"
+        }
+      ],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "0.2.1.b15",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.rive-0.2.1.b15-x86_64-windows/nos.rive-0.2.1.b15-x86_64-windows.zip",
       "plugin_api_version": {
