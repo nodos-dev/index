@@ -3,6 +3,12 @@
   "releases": [
     {
       "version": "1.4.0.b4328",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b4328-x86_64-linux/Nodos-1.4.0.b4328.tar.gz",
+      "release_date": "2025-05-15T17:10:26.455837625+00:00",
+      "platform": "x86_64-linux"
+    },
+    {
+      "version": "1.4.0.b4328",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b4328-x86_64-windows/Nodos-1.4.0.b4328.zip",
       "release_date": "2025-05-15T17:09:32.462006700+00:00",
       "platform": "x86_64-windows"
