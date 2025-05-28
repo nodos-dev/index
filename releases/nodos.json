@@ -3,6 +3,12 @@
   "releases": [
     {
       "version": "1.3.0.b4346",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b4346-x86_64-linux/Nodos-1.3.0.b4346.tar.gz",
+      "release_date": "2025-05-28T12:45:06.798955324+00:00",
+      "platform": "x86_64-linux"
+    },
+    {
+      "version": "1.3.0.b4346",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.0.b4346-x86_64-windows/Nodos-1.3.0.b4346.zip",
       "release_date": "2025-05-28T12:44:05.310060700+00:00",
       "platform": "x86_64-windows"
