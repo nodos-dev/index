@@ -2,6 +2,15 @@
   "name": "nos.sample.dxapp",
   "releases": [
     {
+      "version": "1.1.0.b38",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sample.dxapp-1.1.0.b38-x86_64-windows/nos.sample.dxapp-1.1.0.b38-x86_64-windows.zip",
+      "release_date": "2025-06-03T09:43:39.873640900+00:00",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "1.0.0.b35",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sample.dxapp-1.0.0.b35-x86_64-windows/nos.sample.dxapp-1.0.0.b35-x86_64-windows.zip",
       "release_date": "2025-01-14T14:05:56.166745100+00:00",
