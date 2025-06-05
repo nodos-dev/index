@@ -2,6 +2,21 @@
   "name": "nos.sync",
   "releases": [
     {
+      "version": "2.0.0.b1006",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sync-2.0.0.b1006-x86_64-linux/nos.sync-2.0.0.b1006-x86_64-linux.tar.gz",
+      "subsystem_api_version": {
+        "major": 11,
+        "minor": 6,
+        "patch": 0
+      },
+      "release_date": "2025-06-05T11:30:05.479037242+00:00",
+      "category": "Utilities",
+      "release_tags": [
+        "nodos-1.3"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "1.0.0.b1005",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sync-1.0.0.b1005-x86_64-windows/nos.sync-1.0.0.b1005-x86_64-windows.zip",
       "subsystem_api_version": {
