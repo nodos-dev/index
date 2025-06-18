@@ -2,6 +2,51 @@
   "name": "nos.aja",
   "releases": [
     {
+      "version": "2.6.17.b759",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.6.17.b759-x86_64-windows/nos.aja-2.6.17.b759-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 37,
+        "minor": 5,
+        "patch": 0
+      },
+      "release_date": "2025-06-18T15:27:38.618848500+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "6.0.0"
+        },
+        {
+          "name": "nos.mediaio",
+          "version": "2.5.0"
+        },
+        {
+          "name": "nos.utilities",
+          "version": "3.9.2"
+        },
+        {
+          "name": "nos.math",
+          "version": "1.9.0"
+        },
+        {
+          "name": "nos.reflect",
+          "version": "1.5.0"
+        },
+        {
+          "name": "nos.sys.device",
+          "version": "0.2.0"
+        },
+        {
+          "name": "nos.sync",
+          "version": "3.0"
+        }
+      ],
+      "category": "Media I/O",
+      "release_tags": [
+        "nodos-1.3"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "2.6.16.b756",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.6.16.b756-x86_64-windows/nos.aja-2.6.16.b756-x86_64-windows.zip",
       "plugin_api_version": {
