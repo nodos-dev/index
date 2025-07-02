@@ -2,6 +2,31 @@
   "name": "nos.utilities",
   "releases": [
     {
+      "version": "3.24.b1033",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.utilities-3.24.b1033-x86_64-windows/nos.utilities-3.24.b1033-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 39,
+        "minor": 6,
+        "patch": 0
+      },
+      "release_date": "2025-07-02T16:17:40.287391300+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "6.23"
+        },
+        {
+          "name": "nos.math",
+          "version": "1.21"
+        }
+      ],
+      "category": "Utilities",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "3.10.10.b1031",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.utilities-3.10.10.b1031-x86_64-linux/nos.utilities-3.10.10.b1031-x86_64-linux.tar.gz",
       "plugin_api_version": {
