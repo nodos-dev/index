@@ -2,6 +2,35 @@
   "name": "nos.filters",
   "releases": [
     {
+      "version": "1.11.1.b1034",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.11.1.b1034-x86_64-linux/nos.filters-1.11.1.b1034-x86_64-linux.tar.gz",
+      "plugin_api_version": {
+        "major": 39,
+        "minor": 6,
+        "patch": 0
+      },
+      "release_date": "2025-07-03T14:13:37.422678053+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "6.22"
+        },
+        {
+          "name": "nos.math",
+          "version": "1.21"
+        },
+        {
+          "name": "nos.mediaio",
+          "version": "2.11"
+        }
+      ],
+      "category": "Image Processing",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "1.5.4.b1031",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.filters-1.5.4.b1031-x86_64-linux/nos.filters-1.5.4.b1031-x86_64-linux.tar.gz",
       "plugin_api_version": {
