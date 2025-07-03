@@ -2,6 +2,51 @@
   "name": "nos.aja",
   "releases": [
     {
+      "version": "2.12.2.b770",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.12.2.b770-x86_64-linux/nos.aja-2.12.2.b770-x86_64-linux.tar.gz",
+      "plugin_api_version": {
+        "major": 39,
+        "minor": 6,
+        "patch": 0
+      },
+      "release_date": "2025-07-03T14:17:16.071096493+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "6.0.0"
+        },
+        {
+          "name": "nos.mediaio",
+          "version": "2.5.0"
+        },
+        {
+          "name": "nos.utilities",
+          "version": "3.9.2"
+        },
+        {
+          "name": "nos.math",
+          "version": "1.9.0"
+        },
+        {
+          "name": "nos.reflect",
+          "version": "1.5.0"
+        },
+        {
+          "name": "nos.sys.device",
+          "version": "0.2.0"
+        },
+        {
+          "name": "nos.sync",
+          "version": "10.1"
+        }
+      ],
+      "category": "Media I/O",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "2.12.2.b769",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.aja-2.12.2.b769-x86_64-windows/nos.aja-2.12.2.b769-x86_64-windows.zip",
       "plugin_api_version": {
