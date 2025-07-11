@@ -2,6 +2,27 @@
   "name": "nos.sys.animation",
   "releases": [
     {
+      "version": "1.12.0.b1043",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.animation-1.12.0.b1043-x86_64-linux/nos.sys.animation-1.12.0.b1043-x86_64-linux.tar.gz",
+      "subsystem_api_version": {
+        "major": 39,
+        "minor": 6,
+        "patch": 0
+      },
+      "release_date": "2025-07-11T13:16:57.361808604+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.settings",
+          "version": "1.0"
+        }
+      ],
+      "category": "Animation",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "1.11.2.b1034",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.animation-1.11.2.b1034-x86_64-linux/nos.sys.animation-1.11.2.b1034-x86_64-linux.tar.gz",
       "subsystem_api_version": {
