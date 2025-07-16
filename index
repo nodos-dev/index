@@ -382,5 +382,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sync.json",
     "vendor": "Nodos",
     "type": "Subsystem"
+  },
+  {
+    "name": "nos.test",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.test.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]

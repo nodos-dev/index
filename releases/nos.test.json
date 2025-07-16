@@ -1,0 +1,21 @@
+{
+  "name": "nos.test",
+  "releases": [
+    {
+      "version": "0.1.0.b8",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.test-0.1.0.b8-x86_64-windows/nos.test-0.1.0.b8-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 39,
+        "minor": 7,
+        "patch": 0
+      },
+      "release_date": "2025-07-16T12:52:10.030135600+00:00",
+      "dependencies": [],
+      "category": "Test",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    }
+  ]
+}
