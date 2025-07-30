@@ -388,5 +388,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.test.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.audio",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.audio.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
