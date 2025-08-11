@@ -2,6 +2,30 @@
   "name": "nos.webrtc",
   "releases": [
     {
+      "version": "1.11.2.b1076",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.webrtc-1.11.2.b1076-x86_64-windows/nos.webrtc-1.11.2.b1076-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 39,
+        "minor": 10,
+        "patch": 0
+      },
+      "release_date": "2025-08-11T13:17:35.764490900+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "6.28"
+        }
+      ],
+      "category": "Media I/O",
+      "module_tags": [
+        "streaming"
+      ],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "1.11.1.b986",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.webrtc-1.11.1.b986-x86_64-windows/nos.webrtc-1.11.1.b986-x86_64-windows.zip",
       "plugin_api_version": {
