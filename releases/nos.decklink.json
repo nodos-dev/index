@@ -2,6 +2,55 @@
   "name": "nos.decklink",
   "releases": [
     {
+      "version": "1.12.5.b134",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.decklink-1.12.5.b134-x86_64-windows/nos.decklink-1.12.5.b134-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 39,
+        "minor": 4,
+        "patch": 0
+      },
+      "release_date": "2025-08-11T13:37:48.894280200+00:00",
+      "dependencies": [
+        {
+          "name": "nos.mediaio",
+          "version": "2.12"
+        },
+        {
+          "name": "nos.sys.decklink",
+          "version": "2.11"
+        },
+        {
+          "name": "nos.sys.vulkan",
+          "version": "6.28"
+        },
+        {
+          "name": "nos.utilities",
+          "version": "3.21"
+        },
+        {
+          "name": "nos.reflect",
+          "version": "1.11"
+        },
+        {
+          "name": "nos.math",
+          "version": "1.21"
+        },
+        {
+          "name": "nos.sys.device",
+          "version": "0.10"
+        },
+        {
+          "name": "nos.sync",
+          "version": "10.1"
+        }
+      ],
+      "category": "Media I/O",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "1.2.16.b126",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.decklink-1.2.16.b126-x86_64-windows/nos.decklink-1.2.16.b126-x86_64-windows.zip",
       "plugin_api_version": {
