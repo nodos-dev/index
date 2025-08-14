@@ -2,6 +2,35 @@
   "name": "nos.sys.vulkan",
   "releases": [
     {
+      "version": "6.30.1.b709",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.vulkan-6.30.1.b709-x86_64-linux/nos.sys.vulkan-6.30.1.b709-x86_64-linux.tar.gz",
+      "subsystem_api_version": {
+        "major": 39,
+        "minor": 10,
+        "patch": 0
+      },
+      "release_date": "2025-08-14T09:23:47.192825217+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.shaderc",
+          "version": "2.0"
+        },
+        {
+          "name": "nos.sys.settings",
+          "version": "1.1"
+        },
+        {
+          "name": "nos.sys.device",
+          "version": "0.11"
+        }
+      ],
+      "category": "Graphics",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "6.30.0.b706",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.vulkan-6.30.0.b706-x86_64-windows/nos.sys.vulkan-6.30.0.b706-x86_64-windows.zip",
       "subsystem_api_version": {
