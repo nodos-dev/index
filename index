@@ -394,5 +394,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.audio.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.sys.ffmpeg.deps",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.ffmpeg.deps.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
   }
 ]
