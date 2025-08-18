@@ -1,12 +1,5 @@
 {
   "name": "nodos.sdk.plugin",
   "releases": [
-    {
-      "version": "39.10.0.b4475",
-      "url": "https://github.com/nodos-dev/index/releases/download/nodos.sdk.plugin-39.10.0.b4475-x86_64-windows/nodos.sdk.plugin-39.10.0.b4475-x86_64-windows.zip",
-      "release_date": "2025-08-18T15:43:54.137924500+00:00",
-      "category": "SDK",
-      "platform": "x86_64-windows"
-    }
   ]
 }
