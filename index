@@ -400,5 +400,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.ffmpeg.deps.json",
     "vendor": "Nodos",
     "type": "Subsystem"
+  },
+  {
+    "name": "nodos.sdk.plugin",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.sdk.plugin.json",
+    "vendor": "Nodos",
+    "type": "Generic"
   }
 ]
