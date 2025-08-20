@@ -3,6 +3,13 @@
   "releases": [
     {
       "version": "39.11.0.b4494",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos.sdk.plugin-39.11.0.b4494-x86_64-linux/nodos.sdk.plugin-39.11.0.b4494-x86_64-linux.tar.gz",
+      "release_date": "2025-08-20T08:28:14.287715652+00:00",
+      "category": "SDK",
+      "platform": "x86_64-linux"
+    },
+    {
+      "version": "39.11.0.b4494",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.sdk.plugin-39.11.0.b4494-x86_64-windows/nodos.sdk.plugin-39.11.0.b4494-x86_64-windows.zip",
       "release_date": "2025-08-20T08:21:47.726249400+00:00",
       "category": "SDK",
