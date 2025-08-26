@@ -2,6 +2,16 @@
   "name": "nos.sys.ai.models.rmbg",
   "releases": [
     {
+      "version": "1.0.0.b277",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.rmbg-1.0.0.b277-x86_64-windows/nos.sys.ai.models.rmbg-1.0.0.b277-x86_64-windows.zip",
+      "release_date": "2025-08-26T12:09:27.844131900+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "nodos-1.3"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "1.0.0.b257",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.rmbg-1.0.0.b257-x86_64-windows/nos.sys.ai.models.rmbg-1.0.0.b257-x86_64-windows.zip",
       "release_date": "2025-02-06T15:28:04.777794200+00:00",
