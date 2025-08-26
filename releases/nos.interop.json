@@ -2,34 +2,6 @@
   "name": "nos.interop",
   "releases": [
     {
-      "version": "2.2.0.b276",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.interop-2.2.0.b276-x86_64-windows/nos.interop-2.2.0.b276-x86_64-windows.zip",
-      "plugin_api_version": {
-        "major": 37,
-        "minor": 6,
-        "patch": 0
-      },
-      "release_date": "2025-08-26T10:08:15.548302500+00:00",
-      "dependencies": [
-        {
-          "name": "nos.sys.tensor",
-          "version": "2.2.0"
-        },
-        {
-          "name": "nos.sys.vulkan",
-          "version": "6.0.0"
-        },
-        {
-          "name": "nos.sys.cuda",
-          "version": "2.2.0"
-        }
-      ],
-      "release_tags": [
-        "nodos-1.3"
-      ],
-      "platform": "x86_64-windows"
-    },
-    {
       "version": "2.1.0.b257",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.interop-2.1.0.b257-x86_64-windows/nos.interop-2.1.0.b257-x86_64-windows.zip",
       "plugin_api_version": {
