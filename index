@@ -406,5 +406,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.sdk.plugin.json",
     "vendor": "Nodos",
     "type": "Generic"
+  },
+  {
+    "name": "nos.sys.ai.models.rvm",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.ai.models.rvm.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
   }
 ]

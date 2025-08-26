@@ -1,0 +1,15 @@
+{
+  "name": "nos.sys.ai.models.rvm",
+  "releases": [
+    {
+      "version": "0.1.0.b277",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.rvm-0.1.0.b277-x86_64-windows/nos.sys.ai.models.rvm-0.1.0.b277-x86_64-windows.zip",
+      "release_date": "2025-08-26T12:10:46.222427200+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "nodos-1.3"
+      ],
+      "platform": "x86_64-windows"
+    }
+  ]
+}
