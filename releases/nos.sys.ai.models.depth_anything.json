@@ -2,6 +2,16 @@
   "name": "nos.sys.ai.models.depth_anything",
   "releases": [
     {
+      "version": "1.0.0.b277",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.depth_anything-1.0.0.b277-x86_64-windows/nos.sys.ai.models.depth_anything-1.0.0.b277-x86_64-windows.zip",
+      "release_date": "2025-08-26T12:07:57.969126100+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "nodos-1.3"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "1.0.0.b257",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.ai.models.depth_anything-1.0.0.b257-x86_64-windows/nos.sys.ai.models.depth_anything-1.0.0.b257-x86_64-windows.zip",
       "release_date": "2025-02-06T15:26:39.636026500+00:00",
