@@ -412,5 +412,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.ai.models.rvm.json",
     "vendor": "Nodos",
     "type": "Subsystem"
+  },
+  {
+    "name": "nodos.bundle.ai",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.ai.json",
+    "vendor": "Nodos",
+    "type": "Nodos"
   }
 ]

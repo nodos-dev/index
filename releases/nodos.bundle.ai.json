@@ -1,0 +1,11 @@
+{
+  "name": "nodos.bundle.ai",
+  "releases": [
+    {
+      "version": "1.3.1.b3847",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.ai-1.3.1.b3847-x86_64-windows/Nodos-1.3.1.b3847-bundle-ai_1.3-x86_64-windows.zip",
+      "release_date": "2025-08-26T12:33:07.335672600+00:00",
+      "platform": "x86_64-windows"
+    }
+  ]
+}
