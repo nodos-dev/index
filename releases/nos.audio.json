@@ -3,6 +3,27 @@
   "releases": [
     {
       "version": "0.1.1.b10",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.audio-0.1.1.b10-x86_64-windows/nos.audio-0.1.1.b10-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 39,
+        "minor": 9,
+        "patch": 0
+      },
+      "release_date": "2025-08-27T07:31:48.714932100+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "6.28"
+        }
+      ],
+      "category": "Audio",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
+      "version": "0.1.1.b10",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.audio-0.1.1.b10-x86_64-linux/nos.audio-0.1.1.b10-x86_64-linux.tar.gz",
       "plugin_api_version": {
         "major": 39,
