@@ -418,5 +418,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.ai.json",
     "vendor": "Nodos",
     "type": "Nodos"
+  },
+  {
+    "name": "nos.sys.lino",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.lino.json",
+    "vendor": "Nodos",
+    "type": "Subsystem"
   }
 ]
