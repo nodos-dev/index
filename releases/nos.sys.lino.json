@@ -3,6 +3,16 @@
   "releases": [
     {
       "version": "1.0.0.b1089",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.lino-1.0.0.b1089-x86_64-windows/nos.sys.lino-1.0.0.b1089-x86_64-windows.zip",
+      "release_date": "2025-09-12T10:46:51.101708500+00:00",
+      "category": "Media",
+      "release_tags": [
+        "nodos-1.3"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
+      "version": "1.0.0.b1089",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.lino-1.0.0.b1089-x86_64-linux/nos.sys.lino-1.0.0.b1089-x86_64-linux.tar.gz",
       "release_date": "2025-09-12T10:43:41.094128519+00:00",
       "category": "Media",
