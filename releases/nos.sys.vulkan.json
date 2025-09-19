@@ -3,6 +3,35 @@
   "releases": [
     {
       "version": "7.0.0.b718",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.vulkan-7.0.0.b718-x86_64-windows/nos.sys.vulkan-7.0.0.b718-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 39,
+        "minor": 12,
+        "patch": 1
+      },
+      "release_date": "2025-09-19T16:42:29.458994100+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.shaderc",
+          "version": "2.0"
+        },
+        {
+          "name": "nos.sys.settings",
+          "version": "2.0"
+        },
+        {
+          "name": "nos.sys.device",
+          "version": "1.0"
+        }
+      ],
+      "category": "Graphics",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
+      "version": "7.0.0.b718",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.vulkan-7.0.0.b718-x86_64-linux/nos.sys.vulkan-7.0.0.b718-x86_64-linux.tar.gz",
       "plugin_api_version": {
         "major": 39,
