@@ -2,6 +2,31 @@
   "name": "nos.sys.decklink",
   "releases": [
     {
+      "version": "3.0.0.b146",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.decklink-3.0.0.b146-x86_64-windows/nos.sys.decklink-3.0.0.b146-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 39,
+        "minor": 12,
+        "patch": 1
+      },
+      "release_date": "2025-09-22T14:00:31.730475800+00:00",
+      "dependencies": [
+        {
+          "name": "nos.mediaio",
+          "version": "3.0"
+        },
+        {
+          "name": "nos.sys.device",
+          "version": "1.0"
+        }
+      ],
+      "category": "Device",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "2.2.6.b136",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.decklink-2.2.6.b136-x86_64-windows/nos.sys.decklink-2.2.6.b136-x86_64-windows.zip",
       "subsystem_api_version": {
