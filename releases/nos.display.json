@@ -2,6 +2,27 @@
   "name": "nos.display",
   "releases": [
     {
+      "version": "0.12.0.b47",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.display-0.12.0.b47-x86_64-windows/nos.display-0.12.0.b47-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 39,
+        "minor": 12,
+        "patch": 1
+      },
+      "release_date": "2025-09-22T14:01:12.006994500+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "7.0"
+        }
+      ],
+      "category": "Media I/O",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "0.11.3.b41",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.display-0.11.3.b41-x86_64-windows/nos.display-0.11.3.b41-x86_64-windows.zip",
       "plugin_api_version": {
