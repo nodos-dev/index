@@ -3,6 +3,21 @@
   "releases": [
     {
       "version": "2.0.0.b834",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.settings-2.0.0.b834-x86_64-windows/nos.sys.settings-2.0.0.b834-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 39,
+        "minor": 12,
+        "patch": 1
+      },
+      "release_date": "2025-09-22T13:33:45.111712600+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
+      "version": "2.0.0.b834",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.settings-2.0.0.b834-x86_64-linux/nos.sys.settings-2.0.0.b834-x86_64-linux.tar.gz",
       "plugin_api_version": {
         "major": 39,
