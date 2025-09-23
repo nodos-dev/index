@@ -2,27 +2,6 @@
   "name": "nos.sys.animation",
   "releases": [
     {
-      "version": "2.0.0.b1102",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.animation-2.0.0.b1102-x86_64-windows/nos.sys.animation-2.0.0.b1102-x86_64-windows.zip",
-      "plugin_api_version": {
-        "major": 39,
-        "minor": 12,
-        "patch": 1
-      },
-      "release_date": "2025-09-22T09:34:39.824058100+00:00",
-      "dependencies": [
-        {
-          "name": "nos.sys.settings",
-          "version": "2.0"
-        }
-      ],
-      "category": "Animation",
-      "release_tags": [
-        "dev"
-      ],
-      "platform": "x86_64-windows"
-    },
-    {
       "version": "1.12.1.b1076",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.animation-1.12.1.b1076-x86_64-windows/nos.sys.animation-1.12.1.b1076-x86_64-windows.zip",
       "subsystem_api_version": {
