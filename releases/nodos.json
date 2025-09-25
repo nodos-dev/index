@@ -2,6 +2,12 @@
   "name": "nodos",
   "releases": [
     {
+      "version": "1.3.1.b4533",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.1.b4533-x86_64-windows/Nodos-1.3.1.b4533.zip",
+      "release_date": "2025-09-25T15:42:21.242493+00:00",
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "1.3.1.b4532",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.3.1.b4532-x86_64-linux/Nodos-1.3.1.b4532.tar.gz",
       "release_date": "2025-09-25T10:26:02.519512424+00:00",
