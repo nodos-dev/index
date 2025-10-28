@@ -2,6 +2,16 @@
   "name": "nos.sys.lino",
   "releases": [
     {
+      "version": "1.0.5.b1114",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.lino-1.0.5.b1114-x86_64-linux/nos.sys.lino-1.0.5.b1114-x86_64-linux.tar.gz",
+      "release_date": "2025-10-28T14:43:34.627431617+00:00",
+      "category": "Media",
+      "release_tags": [
+        "nodos-1.3"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "1.0.4.b1113",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.lino-1.0.4.b1113-x86_64-windows/nos.sys.lino-1.0.4.b1113-x86_64-windows.zip",
       "release_date": "2025-10-28T10:34:28.443595300+00:00",
