@@ -3,6 +3,12 @@
   "releases": [
     {
       "version": "1.4.0.b4557",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b4557-x86_64-windows/Nodos-1.4.0.b4557.zip",
+      "release_date": "2025-10-28T16:20:12.703806400+00:00",
+      "platform": "x86_64-windows"
+    },
+    {
+      "version": "1.4.0.b4557",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b4557-x86_64-linux/Nodos-1.4.0.b4557.tar.gz",
       "release_date": "2025-10-28T16:19:28.531509313+00:00",
       "platform": "x86_64-linux"
