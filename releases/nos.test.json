@@ -2,6 +2,22 @@
   "name": "nos.test",
   "releases": [
     {
+      "version": "0.3.0.b23",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.test-0.3.0.b23-x86_64-windows/nos.test-0.3.0.b23-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 40,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2025-12-02T13:13:16.619295300+00:00",
+      "dependencies": [],
+      "category": "Test",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "0.2.0.b14",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.test-0.2.0.b14-x86_64-windows/nos.test-0.2.0.b14-x86_64-windows.zip",
       "plugin_api_version": {
