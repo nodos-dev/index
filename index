@@ -424,5 +424,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.sys.lino.json",
     "vendor": "Nodos",
     "type": "Subsystem"
+  },
+  {
+    "name": "nos.app.gaussian.splatting",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.app.gaussian.splatting.json",
+    "vendor": "nos",
+    "type": "Generic"
   }
 ]
