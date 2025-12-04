@@ -2,6 +2,12 @@
   "name": "nodos",
   "releases": [
     {
+      "version": "1.2.7.b4582",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.2.7.b4582-x86_64-windows/Nodos-1.2.7.b4582.zip",
+      "release_date": "2025-12-04T15:17:11.673819200+00:00",
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "1.4.0.b4581",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b4581-x86_64-linux/Nodos-1.4.0.b4581.tar.gz",
       "release_date": "2025-12-03T14:29:07.577359512+00:00",
