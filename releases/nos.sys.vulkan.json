@@ -52,64 +52,6 @@
       "platform": "x86_64-linux"
     },
     {
-      "version": "7.1.2.b727",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.vulkan-7.1.2.b727-x86_64-windows/nos.sys.vulkan-7.1.2.b727-x86_64-windows.zip",
-      "plugin_api_version": {
-        "major": 40,
-        "minor": 0,
-        "patch": 0
-      },
-      "release_date": "2025-12-01T15:21:42.082524400+00:00",
-      "dependencies": [
-        {
-          "name": "nos.sys.shaderc",
-          "version": "2.0"
-        },
-        {
-          "name": "nos.sys.settings",
-          "version": "2.1"
-        },
-        {
-          "name": "nos.sys.device",
-          "version": "1.1"
-        }
-      ],
-      "category": "Graphics",
-      "release_tags": [
-        "dev"
-      ],
-      "platform": "x86_64-windows"
-    },
-    {
-      "version": "7.1.2.b727",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.vulkan-7.1.2.b727-x86_64-linux/nos.sys.vulkan-7.1.2.b727-x86_64-linux.tar.gz",
-      "plugin_api_version": {
-        "major": 40,
-        "minor": 0,
-        "patch": 0
-      },
-      "release_date": "2025-12-01T15:20:19.047373542+00:00",
-      "dependencies": [
-        {
-          "name": "nos.sys.shaderc",
-          "version": "2.0"
-        },
-        {
-          "name": "nos.sys.settings",
-          "version": "2.1"
-        },
-        {
-          "name": "nos.sys.device",
-          "version": "1.1"
-        }
-      ],
-      "category": "Graphics",
-      "release_tags": [
-        "dev"
-      ],
-      "platform": "x86_64-linux"
-    },
-    {
       "version": "7.1.0.b722",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.vulkan-7.1.0.b722-x86_64-windows/nos.sys.vulkan-7.1.0.b722-x86_64-windows.zip",
       "plugin_api_version": {
