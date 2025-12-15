@@ -2,6 +2,27 @@
   "name": "nos.mediaio",
   "releases": [
     {
+      "version": "3.3.0.b702",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-3.3.0.b702-x86_64-linux/nos.mediaio-3.3.0.b702-x86_64-linux.tar.gz",
+      "plugin_api_version": {
+        "major": 40,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2025-12-15T12:55:45.853742882+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "7.1"
+        }
+      ],
+      "category": "Media I/O",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "2.7.0.b700",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-2.7.0.b700-x86_64-windows/nos.mediaio-2.7.0.b700-x86_64-windows.zip",
       "plugin_api_version": {
