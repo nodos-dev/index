@@ -2,6 +2,21 @@
   "name": "nos.sys.variables",
   "releases": [
     {
+      "version": "2.1.0.b1134",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.variables-2.1.0.b1134-x86_64-windows/nos.sys.variables-2.1.0.b1134-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 40,
+        "minor": 0,
+        "patch": 1
+      },
+      "release_date": "2025-12-16T07:09:41.794079+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "2.0.0.b1104",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.sys.variables-2.0.0.b1104-x86_64-windows/nos.sys.variables-2.0.0.b1104-x86_64-windows.zip",
       "plugin_api_version": {
