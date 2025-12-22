@@ -2,6 +2,13 @@
   "name": "nodos.sdk.plugin",
   "releases": [
     {
+      "version": "40.1.0.b4601",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos.sdk.plugin-40.1.0.b4601-x86_64-linux/nodos.sdk.plugin-40.1.0.b4601-x86_64-linux.tar.gz",
+      "release_date": "2025-12-22T11:08:37.622920815+00:00",
+      "category": "SDK",
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "40.0.1.b4596",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos.sdk.plugin-40.0.1.b4596-x86_64-linux/nodos.sdk.plugin-40.0.1.b4596-x86_64-linux.tar.gz",
       "release_date": "2025-12-15T13:27:58.808106674+00:00",
