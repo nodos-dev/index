@@ -430,5 +430,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.app.gaussian.splatting.json",
     "vendor": "nos",
     "type": "Generic"
+  },
+  {
+    "name": "nos.transfer",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.transfer.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
