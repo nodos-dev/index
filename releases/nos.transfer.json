@@ -3,6 +3,21 @@
   "releases": [
     {
       "version": "0.1.0.b5",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.transfer-0.1.0.b5-x86_64-windows/nos.transfer-0.1.0.b5-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 41,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2026-01-12T15:23:41.839725600+00:00",
+      "dependencies": [],
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
+      "version": "0.1.0.b5",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.transfer-0.1.0.b5-x86_64-linux/nos.transfer-0.1.0.b5-x86_64-linux.tar.gz",
       "plugin_api_version": {
         "major": 41,
