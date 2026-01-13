@@ -2,6 +2,39 @@
   "name": "nos.utilities",
   "releases": [
     {
+      "version": "4.0.0.b1159",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.utilities-4.0.0.b1159-x86_64-linux/nos.utilities-4.0.0.b1159-x86_64-linux.tar.gz",
+      "plugin_api_version": {
+        "major": 41,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2026-01-13T14:54:55.890316236+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "8.0"
+        },
+        {
+          "name": "nos.math",
+          "version": "2.0"
+        },
+        {
+          "name": "nos.sync",
+          "version": "11.1"
+        },
+        {
+          "name": "nos.audio",
+          "version": "1.0"
+        }
+      ],
+      "category": "Utilities",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "3.14.5.b1149",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.utilities-3.14.5.b1149-x86_64-windows/nos.utilities-3.14.5.b1149-x86_64-windows.zip",
       "plugin_api_version": {
