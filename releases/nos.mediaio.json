@@ -2,6 +2,31 @@
   "name": "nos.mediaio",
   "releases": [
     {
+      "version": "4.0.0.b714",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-4.0.0.b714-x86_64-linux/nos.mediaio-4.0.0.b714-x86_64-linux.tar.gz",
+      "plugin_api_version": {
+        "major": 41,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2026-01-15T14:05:16.923430770+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "8.0"
+        },
+        {
+          "name": "nos.audio",
+          "version": "1.0"
+        }
+      ],
+      "category": "Media I/O",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-linux"
+    },
+    {
       "version": "4.0.0.b710",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.mediaio-4.0.0.b710-x86_64-windows/nos.mediaio-4.0.0.b710-x86_64-windows.zip",
       "plugin_api_version": {
