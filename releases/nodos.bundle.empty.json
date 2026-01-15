@@ -1,0 +1,11 @@
+{
+  "name": "nodos.bundle.empty",
+  "releases": [
+    {
+      "version": "1.4.0.b4642",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos.bundle.empty-1.4.0.b4642-x86_64-windows/Nodos-1.4.0.b4642-bundle-empty.zip",
+      "release_date": "2026-01-15T08:37:15.741749500+00:00",
+      "platform": "x86_64-windows"
+    }
+  ]
+}

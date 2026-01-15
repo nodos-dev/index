@@ -436,5 +436,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.transfer.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nodos.bundle.empty",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.empty.json",
+    "vendor": "Nodos",
+    "type": "Nodos"
   }
 ]
