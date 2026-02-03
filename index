@@ -448,5 +448,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.graphics.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nodos.bundle.gaussian_splat",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.gaussian_splat.json",
+    "vendor": "Nodos",
+    "type": "Nodos"
   }
 ]
