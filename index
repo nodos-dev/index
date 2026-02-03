@@ -442,5 +442,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.empty.json",
     "vendor": "Nodos",
     "type": "Nodos"
+  },
+  {
+    "name": "nos.graphics",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.graphics.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
