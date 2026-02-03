@@ -1,15 +1,4 @@
 {
   "name": "nos.app.gaussian.splatting",
-  "releases": [
-    {
-      "version": "0.1.0.b17",
-      "url": "https://github.com/nodos-dev/index/releases/download/nos.app.gaussian.splatting-0.1.0.b17-x86_64-windows/nos.app.gaussian.splatting-0.1.0.b17-x86_64-windows.zip",
-      "release_date": "2025-12-03T15:26:36.941018600+00:00",
-      "category": "Rendering",
-      "release_tags": [
-        "nodos-gaussian-splatting/cd-release"
-      ],
-      "platform": "x86_64-windows"
-    }
-  ]
+  "releases": []
 }
