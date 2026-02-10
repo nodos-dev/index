@@ -3,6 +3,12 @@
   "releases": [
     {
       "version": "1.4.0.b4684",
+      "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b4684-x86_64-linux/Nodos-1.4.0.b4684.tar.gz",
+      "release_date": "2026-02-10T14:23:04.773917043+00:00",
+      "platform": "x86_64-linux"
+    },
+    {
+      "version": "1.4.0.b4684",
       "url": "https://github.com/nodos-dev/index/releases/download/nodos-1.4.0.b4684-x86_64-windows/Nodos-1.4.0.b4684.zip",
       "release_date": "2026-02-10T14:22:22.491749500+00:00",
       "platform": "x86_64-windows"
