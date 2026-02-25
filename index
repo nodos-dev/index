@@ -466,5 +466,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.imageprocessing.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.resource",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.resource.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
