@@ -454,5 +454,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.gaussian_splat.json",
     "vendor": "Nodos",
     "type": "Nodos"
+  },
+  {
+    "name": "nos.compositing",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.compositing.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
