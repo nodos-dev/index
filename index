@@ -472,5 +472,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.resource.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.flow",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.flow.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
