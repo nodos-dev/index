@@ -2,6 +2,43 @@
   "name": "nos.imageprocessing",
   "releases": [
     {
+      "version": "1.0.0.b1184",
+      "url": "https://github.com/nodos-dev/index/releases/download/nos.imageprocessing-1.0.0.b1184-x86_64-windows/nos.imageprocessing-1.0.0.b1184-x86_64-windows.zip",
+      "plugin_api_version": {
+        "major": 41,
+        "minor": 0,
+        "patch": 0
+      },
+      "release_date": "2026-02-25T12:28:57.776445400+00:00",
+      "dependencies": [
+        {
+          "name": "nos.sys.vulkan",
+          "version": "8.0"
+        },
+        {
+          "name": "nos.math",
+          "version": "2.0"
+        },
+        {
+          "name": "nos.reflect",
+          "version": "3.0"
+        },
+        {
+          "name": "nos.flow",
+          "version": "1.0"
+        },
+        {
+          "name": "nos.mediaio",
+          "version": "4.0"
+        }
+      ],
+      "category": "Image Processing",
+      "release_tags": [
+        "dev"
+      ],
+      "platform": "x86_64-windows"
+    },
+    {
       "version": "1.0.0.b1179",
       "url": "https://github.com/nodos-dev/index/releases/download/nos.imageprocessing-1.0.0.b1179-x86_64-windows/nos.imageprocessing-1.0.0.b1179-x86_64-windows.zip",
       "plugin_api_version": {
