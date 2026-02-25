@@ -460,5 +460,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.compositing.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nos.imageprocessing",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.imageprocessing.json",
+    "vendor": "Nodos",
+    "type": "Plugin"
   }
 ]
