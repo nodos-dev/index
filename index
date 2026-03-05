@@ -478,5 +478,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nos.flow.json",
     "vendor": "Nodos",
     "type": "Plugin"
+  },
+  {
+    "name": "nodos.bundle.rive",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.rive.json",
+    "vendor": "Nodos",
+    "type": "Nodos"
   }
 ]
