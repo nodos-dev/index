@@ -484,5 +484,11 @@
     "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.rive.json",
     "vendor": "Nodos",
     "type": "Nodos"
+  },
+  {
+    "name": "nodos.bundle.ipvideo",
+    "url": "https://raw.githubusercontent.com/nodos-dev/index/main/releases/nodos.bundle.ipvideo.json",
+    "vendor": "Nodos",
+    "type": "Nodos"
   }
 ]
